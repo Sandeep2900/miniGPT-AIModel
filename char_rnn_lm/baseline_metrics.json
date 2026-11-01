@@ -1,0 +1,63 @@
+{
+  "checkpoint": "checkpoints\\best_model.pt",
+  "model_step": 4000,
+  "val_loss": 1.8607699871063232,
+  "total_samples_evaluated": 60,
+  "overall_devanagari_validity_pct": 57.38,
+  "devanagari_valid_words": 206,
+  "devanagari_total_words": 359,
+  "overall_latin_validity_pct": 62.92,
+  "latin_valid_words": 1451,
+  "latin_total_words": 2306,
+  "per_prompt_breakdown": {
+    "आज सुबह ": {
+      "devanagari": {
+        "total_words": 350,
+        "valid_in_train": 202,
+        "validity_pct": 57.71
+      },
+      "latin": {
+        "total_words": 616,
+        "valid_in_train": 208,
+        "validity_pct": 33.77
+      }
+    },
+    "Aaj subah ": {
+      "devanagari": {
+        "total_words": 3,
+        "valid_in_train": 1,
+        "validity_pct": 33.33
+      },
+      "latin": {
+        "total_words": 855,
+        "valid_in_train": 587,
+        "validity_pct": 68.65
+      }
+    },
+    "The morning ": {
+      "devanagari": {
+        "total_words": 6,
+        "valid_in_train": 3,
+        "validity_pct": 50.0
+      },
+      "latin": {
+        "total_words": 835,
+        "valid_in_train": 656,
+        "validity_pct": 78.56
+      }
+    }
+  },
+  "sample_invalid_words": [
+    "थिन (Devanagari)",
+    "बा (Devanagari)",
+    "किते (Devanagari)",
+    "रीस (Devanagari)",
+    "खाला (Devanagari)",
+    "sahil (Latin)",
+    "hileaank (Latin)",
+    "thaha (Latin)",
+    "hoatho (Latin)",
+    "haadi (Latin)"
+  ],
+  "note": "Lower bound metric: legitimate dictionary words not present in train.txt vocabulary are also counted as invalid. Useful strictly for relative before/after comparison."
+}

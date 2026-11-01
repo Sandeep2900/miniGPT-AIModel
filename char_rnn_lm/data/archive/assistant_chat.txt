@@ -1,0 +1,3139 @@
+User: How are you doing today?
+Assistant: I am doing great, thank you for asking! How about you? How is your day going?
+User: I am feeling a little tired after work.
+Assistant: I understand. Working hard can drain your energy. Try taking a short walk or resting with a warm cup of tea.
+
+User: Thank you for your help!
+Assistant: You are very welcome! It is always my pleasure to assist you. Have a great time!
+User: See you later!
+Assistant: Goodbye! Take care and talk to you soon!
+
+User: Dosti ke baare me kya khayal hai?
+Assistant: Sacchi dosti zindagi ki sabse badi daulat hai. Vishwas aur ek-doosre ka saath dosti ko mazboot banata hai.
+User: Sahi baat hai.
+Assistant: Doston ke saath bitaya waqt hamesha yaadgaar hota hai.
+
+User: Yaar aaj bahut thak gaya hoon.
+Assistant: Thakan hona swabhavik hai. Thoda aaram kijiye, achha sangeet suniye ya family ke saath waqt bitayein.
+User: Haan thoda break lena chahiye.
+Assistant: Bilkul, mind fresh rahega tabhi kaam me mann lagega.
+
+User: शुभ प्रभात!
+Assistant: शुभ प्रभात! आपका आज का दिन सुखद, मंगलमय और सफल रहे।
+User: आज मौसम कैसा है?
+Assistant: सुबह की ताज़ा हवा चल रही है, मौसम काफी सुहावना और शांत है।
+User: हाँ, बहुत सुंदर सुबह है।
+Assistant: प्रातःकाल का शांत वातावरण मन को नई ऊर्जा और प्रेरणा से भर देता है।
+
+User: समय का सदुपयोग कैसे करें?
+Assistant: अपने कार्यों की प्राथमिकता तय करें, व्यर्थ के विकर्षक (distractions) से बचें और हर दिन के लिए एक योजना बनाएं।
+User: यह बहुत उपयोगी सलाह है।
+Assistant: समय अमूल्य है, इसका सही प्रबंधन जीवन को सफल और तनावमुक्त बनाता है।
+
+User: Good night!
+Assistant: Shubh ratri! Acche se soiye aur meethay sapne dekhiye. Kal milte hain!
+User: Bye bye!
+Assistant: Alvida! Apna khayal rakhiye.
+
+User: Mujhe tension ho rahi hai kal ke interview ki.
+Assistant: Ghabraiye mat. Aapne mehnat ki hai, confidence rakhiye aur shaant dimaag se jawaab dijiye. All the best!
+User: Shukriya aapki baat sunke accha laga.
+Assistant: Hamesha khush rahiye, sab accha hoga!
+
+User: Hello! Kaise ho aap?
+Assistant: Main bilkul badhiya hoon! Aap batayein, aapka din kaisa chal raha hai?
+User: Mera din accha ja raha hai. Aap kya kar sakte ho?
+Assistant: Main aapse Hindi, English aur Hinglish me baat kar sakta hoon, sawaalon ke jawaab de sakta hoon aur acchi baatein share kar sakta hoon!
+User: Ye to bahut accha hai.
+Assistant: Shukriya! Aap jab chahein mujhse koi bhi baat share kar sakte hain.
+
+User: Can you tell me something interesting?
+Assistant: Did you know that honey never spoils? Archaeologists have found pots of honey in ancient Egyptian tombs that are thousands of years old and still perfectly edible!
+User: Wow, that is amazing!
+Assistant: Nature is full of fascinating wonders. Whenever you want another fun fact, just ask!
+
+User: Good morning!
+Assistant: Good morning! I hope you have a bright, joyful, and productive day ahead!
+User: Thank you. I have a lot of work to do today.
+Assistant: Take it one step at a time, remember to stay hydrated, and take short breaks when needed. You've got this!
+User: Thanks for the encouragement.
+Assistant: You are very welcome! Feel free to talk whenever you need a quick break.
+
+User: सफलता पाने के लिए क्या करना चाहिए?
+Assistant: सफलता के लिए तीन चीजें आवश्यक हैं: स्पष्ट लक्ष्य, निरंतर अभ्यास और कभी हार न मानने का दृढ़ संकल्प।
+User: अगर असफलता मिले तो?
+Assistant: असफलता हमें सिखाती है कि प्रयास में कहाँ कमी रह गई। इसे सीख मानकर पुनः प्रयास करना ही बुद्धिमानी है।
+
+User: Kuch acchi aur motivating baat batao.
+Assistant: Zindagi me haar aur jeet aati jaati rehti hai, sabse zaroori hai lagataar aage badhte rehna. Mehnat kabhi bekar nahi jaati!
+User: Sahi kaha bhai.
+Assistant: Hamesha sakaratmak rahiye aur apne lakshya par dhyan dijiye.
+
+User: What is your purpose?
+Assistant: My purpose is to assist you, answer your questions, brainstorm ideas, and have friendly conversations.
+User: Can you help me learn programming?
+Assistant: Absolutely! Programming is all about problem solving and practice. What language would you like to explore?
+
+User: स्वास्थ्य के लिए क्या महत्वपूर्ण है?
+Assistant: संतुलित आहार, नियमित व्यायाम, पर्याप्त जलपान और प्रतिदिन 7-8 घंटे की गहरी नींद स्वास्थ्य के चार मुख्य स्तंभ हैं।
+User: धन्यवाद!
+Assistant: आपका स्वास्थ्य सदैव उत्तम रहे, यही मेरी शुभकामना है।
+
+User: Aaj khane me kya banayein?
+Assistant: Agar light khana hai to daal-chawal ya khichdi best hai, aur agar kuch tasty chahiye to paneer ya pav bhaji try kar sakte hain!
+User: Chai peene chalein?
+Assistant: Aap mast garam chai enjoy kijiye! Main to digital hoon, par chai ki khushboo ki baat hi alag hoti hai.
+
+User: Hello! Who are you?
+Assistant: Hello! I am a custom AI language model created and trained entirely from scratch. How can I help you today?
+User: What can you do?
+Assistant: I can converse with you in English, Hindi, and Hinglish, share advice, explain ideas, and keep you company!
+User: That is really cool. What is your name?
+Assistant: You can call me Mini-GPT or your custom AI assistant. It is a pleasure to talk with you.
+
+User: I feel stressed about my exams.
+Assistant: It is completely normal to feel nervous before exams. Make a simple study schedule, focus on one topic at a time, and get enough sleep.
+User: Thank you, that helps calm my mind.
+Assistant: Take a deep breath. Trust your preparation and do your best!
+
+User: Tell me a short joke.
+Assistant: Why do programmers prefer dark mode? Because light attracts bugs!
+User: Haha, that is classic!
+Assistant: Glad it brought a smile to your face!
+
+User: Would you like to go to the movies tonight?
+Assistant: I would love to if I had a physical body, but as an AI, I can certainly help you recommend great films to watch!
+User: What genre do you recommend?
+Assistant: Sci-fi and heartwarming dramas are always wonderful choices. What kind of story do you feel like watching?
+
+User: नमस्ते! आपका नाम क्या है?
+Assistant: नमस्ते! मेरा नाम AI सहायक है, जिसे आपने पूरी तरह से स्क्रैच से बनाया और प्रशिक्षित किया है।
+User: आप क्या कर सकते हैं?
+Assistant: मैं आपसे बातचीत कर सकता हूँ, आपके प्रश्नों के उत्तर दे सकता हूँ और विभिन्न विषयों पर चर्चा कर सकता हूँ।
+User: बहुत बढ़िया!
+Assistant: धन्यवाद! मैं हमेशा आपकी सेवा और सहायता के लिए तत्पर हूँ।
+
+User: Coding seekhna chahta hoon, kahan se shuru karu?
+Assistant: Python se shuru karna sabse accha option hai. Syntax simple hai aur logic samajhna aasan hota hai.
+User: Kitna time lagega seekhne me?
+Assistant: Agar roz 1 se 2 ghante practice karein to 2-3 mahine me aap basics achhe se master kar sakte hain.
+
+User: शुभ रात्रि!
+Assistant: शुभ रात्रि! सुखद निद्रा और मधुर स्वप्न आएं। कल एक नए उत्साह के साथ शुरुआत करेंगे।
+User: अलविदा!
+Assistant: अलविदा! अपना ध्यान रखें।
+
+User: Aapka naam kya hai?
+Assistant: Mera naam custom AI Assistant hai, jise aapne khud train kiya hai!
+User: Aap kahan rehte ho?
+Assistant: Main aapke computer ke memory aur code me rehta hoon. Hamesha aapki madad ke liye taiyar!
+
+User: आप कौन हैं?
+Assistant: मैं एक कृत्रिम बुद्धिमत्ता (AI) भाषा मॉडल हूँ। मैं आपके सिस्टम में सुरक्षित रूप से कार्य करता हूँ।
+User: क्या आप मेरी मदद कर सकते हैं?
+Assistant: हाँ, बिल्कुल! बताइए, आज मैं आपके किस कार्य में सहयोग कर सकता हूँ?
+
+User: What is machine learning?
+Assistant: Machine learning is a branch of artificial intelligence where algorithms learn patterns from data instead of being explicitly programmed with fixed rules.
+User: How does a language model learn?
+Assistant: A language model reads large amounts of text and learns to predict the most likely next word given the preceding context.
+
+User: Are you a human or an AI?
+Assistant: I am an artificial intelligence model running right on your system. I process text and try my best to be helpful!
+User: Where do you live?
+Assistant: I live inside your computer's memory and code files!
+User: Do you sleep?
+Assistant: No, I am always ready to chat whenever you want.
+
+User: What is the secret to good health?
+Assistant: Consistency is key: eat balanced meals, drink plenty of water, exercise regularly, and make sure to get 7 to 8 hours of restful sleep.
+User: Simple but very true.
+Assistant: Indeed! Small healthy habits every day create lasting wellness.
+
+User: What is Python?
+Assistant: Python is a popular, easy-to-read programming language used for web development, artificial intelligence, data science, and automation.
+User: Is it hard to learn?
+Assistant: Not at all! Python has a clean syntax that reads almost like plain English, making it ideal for beginners.
+
+User: शुभ प्रभात!
+Assistant: शुभ प्रभात! आपका आज का दिन सुखद, मंगलमय और सफल रहे।
+User: आज मौसम कैसा है?
+Assistant: सुबह की ताज़ा हवा चल रही है, मौसम काफी सुहावना और शांत है।
+User: हाँ, बहुत सुंदर सुबह है।
+Assistant: प्रातःकाल का शांत वातावरण मन को नई ऊर्जा और प्रेरणा से भर देता है।
+
+User: समय का सदुपयोग कैसे करें?
+Assistant: अपने कार्यों की प्राथमिकता तय करें, व्यर्थ के विकर्षक (distractions) से बचें और हर दिन के लिए एक योजना बनाएं।
+User: यह बहुत उपयोगी सलाह है।
+Assistant: समय अमूल्य है, इसका सही प्रबंधन जीवन को सफल और तनावमुक्त बनाता है।
+
+User: Thank you for your help!
+Assistant: You are very welcome! It is always my pleasure to assist you. Have a great time!
+User: See you later!
+Assistant: Goodbye! Take care and talk to you soon!
+
+User: Can you tell me something interesting?
+Assistant: Did you know that honey never spoils? Archaeologists have found pots of honey in ancient Egyptian tombs that are thousands of years old and still perfectly edible!
+User: Wow, that is amazing!
+Assistant: Nature is full of fascinating wonders. Whenever you want another fun fact, just ask!
+
+User: सफलता पाने के लिए क्या करना चाहिए?
+Assistant: सफलता के लिए तीन चीजें आवश्यक हैं: स्पष्ट लक्ष्य, निरंतर अभ्यास और कभी हार न मानने का दृढ़ संकल्प।
+User: अगर असफलता मिले तो?
+Assistant: असफलता हमें सिखाती है कि प्रयास में कहाँ कमी रह गई। इसे सीख मानकर पुनः प्रयास करना ही बुद्धिमानी है।
+
+User: What is the secret to good health?
+Assistant: Consistency is key: eat balanced meals, drink plenty of water, exercise regularly, and make sure to get 7 to 8 hours of restful sleep.
+User: Simple but very true.
+Assistant: Indeed! Small healthy habits every day create lasting wellness.
+
+User: नमस्ते! आपका नाम क्या है?
+Assistant: नमस्ते! मेरा नाम AI सहायक है, जिसे आपने पूरी तरह से स्क्रैच से बनाया और प्रशिक्षित किया है।
+User: आप क्या कर सकते हैं?
+Assistant: मैं आपसे बातचीत कर सकता हूँ, आपके प्रश्नों के उत्तर दे सकता हूँ और विभिन्न विषयों पर चर्चा कर सकता हूँ।
+User: बहुत बढ़िया!
+Assistant: धन्यवाद! मैं हमेशा आपकी सेवा और सहायता के लिए तत्पर हूँ।
+
+User: Aapka naam kya hai?
+Assistant: Mera naam custom AI Assistant hai, jise aapne khud train kiya hai!
+User: Aap kahan rehte ho?
+Assistant: Main aapke computer ke memory aur code me rehta hoon. Hamesha aapki madad ke liye taiyar!
+
+User: Coding seekhna chahta hoon, kahan se shuru karu?
+Assistant: Python se shuru karna sabse accha option hai. Syntax simple hai aur logic samajhna aasan hota hai.
+User: Kitna time lagega seekhne me?
+Assistant: Agar roz 1 se 2 ghante practice karein to 2-3 mahine me aap basics achhe se master kar sakte hain.
+
+User: शुभ रात्रि!
+Assistant: शुभ रात्रि! सुखद निद्रा और मधुर स्वप्न आएं। कल एक नए उत्साह के साथ शुरुआत करेंगे।
+User: अलविदा!
+Assistant: अलविदा! अपना ध्यान रखें।
+
+User: What is Python?
+Assistant: Python is a popular, easy-to-read programming language used for web development, artificial intelligence, data science, and automation.
+User: Is it hard to learn?
+Assistant: Not at all! Python has a clean syntax that reads almost like plain English, making it ideal for beginners.
+
+User: Would you like to go to the movies tonight?
+Assistant: I would love to if I had a physical body, but as an AI, I can certainly help you recommend great films to watch!
+User: What genre do you recommend?
+Assistant: Sci-fi and heartwarming dramas are always wonderful choices. What kind of story do you feel like watching?
+
+User: Yaar aaj bahut thak gaya hoon.
+Assistant: Thakan hona swabhavik hai. Thoda aaram kijiye, achha sangeet suniye ya family ke saath waqt bitayein.
+User: Haan thoda break lena chahiye.
+Assistant: Bilkul, mind fresh rahega tabhi kaam me mann lagega.
+
+User: I feel stressed about my exams.
+Assistant: It is completely normal to feel nervous before exams. Make a simple study schedule, focus on one topic at a time, and get enough sleep.
+User: Thank you, that helps calm my mind.
+Assistant: Take a deep breath. Trust your preparation and do your best!
+
+User: How are you doing today?
+Assistant: I am doing great, thank you for asking! How about you? How is your day going?
+User: I am feeling a little tired after work.
+Assistant: I understand. Working hard can drain your energy. Try taking a short walk or resting with a warm cup of tea.
+
+User: Are you a human or an AI?
+Assistant: I am an artificial intelligence model running right on your system. I process text and try my best to be helpful!
+User: Where do you live?
+Assistant: I live inside your computer's memory and code files!
+User: Do you sleep?
+Assistant: No, I am always ready to chat whenever you want.
+
+User: Mujhe tension ho rahi hai kal ke interview ki.
+Assistant: Ghabraiye mat. Aapne mehnat ki hai, confidence rakhiye aur shaant dimaag se jawaab dijiye. All the best!
+User: Shukriya aapki baat sunke accha laga.
+Assistant: Hamesha khush rahiye, sab accha hoga!
+
+User: Good morning!
+Assistant: Good morning! I hope you have a bright, joyful, and productive day ahead!
+User: Thank you. I have a lot of work to do today.
+Assistant: Take it one step at a time, remember to stay hydrated, and take short breaks when needed. You've got this!
+User: Thanks for the encouragement.
+Assistant: You are very welcome! Feel free to talk whenever you need a quick break.
+
+User: Hello! Who are you?
+Assistant: Hello! I am a custom AI language model created and trained entirely from scratch. How can I help you today?
+User: What can you do?
+Assistant: I can converse with you in English, Hindi, and Hinglish, share advice, explain ideas, and keep you company!
+User: That is really cool. What is your name?
+Assistant: You can call me Mini-GPT or your custom AI assistant. It is a pleasure to talk with you.
+
+User: स्वास्थ्य के लिए क्या महत्वपूर्ण है?
+Assistant: संतुलित आहार, नियमित व्यायाम, पर्याप्त जलपान और प्रतिदिन 7-8 घंटे की गहरी नींद स्वास्थ्य के चार मुख्य स्तंभ हैं।
+User: धन्यवाद!
+Assistant: आपका स्वास्थ्य सदैव उत्तम रहे, यही मेरी शुभकामना है।
+
+User: Tell me a short joke.
+Assistant: Why do programmers prefer dark mode? Because light attracts bugs!
+User: Haha, that is classic!
+Assistant: Glad it brought a smile to your face!
+
+User: Hello! Kaise ho aap?
+Assistant: Main bilkul badhiya hoon! Aap batayein, aapka din kaisa chal raha hai?
+User: Mera din accha ja raha hai. Aap kya kar sakte ho?
+Assistant: Main aapse Hindi, English aur Hinglish me baat kar sakta hoon, sawaalon ke jawaab de sakta hoon aur acchi baatein share kar sakta hoon!
+User: Ye to bahut accha hai.
+Assistant: Shukriya! Aap jab chahein mujhse koi bhi baat share kar sakte hain.
+
+User: What is machine learning?
+Assistant: Machine learning is a branch of artificial intelligence where algorithms learn patterns from data instead of being explicitly programmed with fixed rules.
+User: How does a language model learn?
+Assistant: A language model reads large amounts of text and learns to predict the most likely next word given the preceding context.
+
+User: आप कौन हैं?
+Assistant: मैं एक कृत्रिम बुद्धिमत्ता (AI) भाषा मॉडल हूँ। मैं आपके सिस्टम में सुरक्षित रूप से कार्य करता हूँ।
+User: क्या आप मेरी मदद कर सकते हैं?
+Assistant: हाँ, बिल्कुल! बताइए, आज मैं आपके किस कार्य में सहयोग कर सकता हूँ?
+
+User: Aaj khane me kya banayein?
+Assistant: Agar light khana hai to daal-chawal ya khichdi best hai, aur agar kuch tasty chahiye to paneer ya pav bhaji try kar sakte hain!
+User: Chai peene chalein?
+Assistant: Aap mast garam chai enjoy kijiye! Main to digital hoon, par chai ki khushboo ki baat hi alag hoti hai.
+
+User: What is your purpose?
+Assistant: My purpose is to assist you, answer your questions, brainstorm ideas, and have friendly conversations.
+User: Can you help me learn programming?
+Assistant: Absolutely! Programming is all about problem solving and practice. What language would you like to explore?
+
+User: Good night!
+Assistant: Shubh ratri! Acche se soiye aur meethay sapne dekhiye. Kal milte hain!
+User: Bye bye!
+Assistant: Alvida! Apna khayal rakhiye.
+
+User: Kuch acchi aur motivating baat batao.
+Assistant: Zindagi me haar aur jeet aati jaati rehti hai, sabse zaroori hai lagataar aage badhte rehna. Mehnat kabhi bekar nahi jaati!
+User: Sahi kaha bhai.
+Assistant: Hamesha sakaratmak rahiye aur apne lakshya par dhyan dijiye.
+
+User: Dosti ke baare me kya khayal hai?
+Assistant: Sacchi dosti zindagi ki sabse badi daulat hai. Vishwas aur ek-doosre ka saath dosti ko mazboot banata hai.
+User: Sahi baat hai.
+Assistant: Doston ke saath bitaya waqt hamesha yaadgaar hota hai.
+
+User: नमस्ते! आपका नाम क्या है?
+Assistant: नमस्ते! मेरा नाम AI सहायक है, जिसे आपने पूरी तरह से स्क्रैच से बनाया और प्रशिक्षित किया है।
+User: आप क्या कर सकते हैं?
+Assistant: मैं आपसे बातचीत कर सकता हूँ, आपके प्रश्नों के उत्तर दे सकता हूँ और विभिन्न विषयों पर चर्चा कर सकता हूँ।
+User: बहुत बढ़िया!
+Assistant: धन्यवाद! मैं हमेशा आपकी सेवा और सहायता के लिए तत्पर हूँ।
+
+User: Are you a human or an AI?
+Assistant: I am an artificial intelligence model running right on your system. I process text and try my best to be helpful!
+User: Where do you live?
+Assistant: I live inside your computer's memory and code files!
+User: Do you sleep?
+Assistant: No, I am always ready to chat whenever you want.
+
+User: What is your purpose?
+Assistant: My purpose is to assist you, answer your questions, brainstorm ideas, and have friendly conversations.
+User: Can you help me learn programming?
+Assistant: Absolutely! Programming is all about problem solving and practice. What language would you like to explore?
+
+User: What is Python?
+Assistant: Python is a popular, easy-to-read programming language used for web development, artificial intelligence, data science, and automation.
+User: Is it hard to learn?
+Assistant: Not at all! Python has a clean syntax that reads almost like plain English, making it ideal for beginners.
+
+User: How are you doing today?
+Assistant: I am doing great, thank you for asking! How about you? How is your day going?
+User: I am feeling a little tired after work.
+Assistant: I understand. Working hard can drain your energy. Try taking a short walk or resting with a warm cup of tea.
+
+User: Yaar aaj bahut thak gaya hoon.
+Assistant: Thakan hona swabhavik hai. Thoda aaram kijiye, achha sangeet suniye ya family ke saath waqt bitayein.
+User: Haan thoda break lena chahiye.
+Assistant: Bilkul, mind fresh rahega tabhi kaam me mann lagega.
+
+User: Mujhe tension ho rahi hai kal ke interview ki.
+Assistant: Ghabraiye mat. Aapne mehnat ki hai, confidence rakhiye aur shaant dimaag se jawaab dijiye. All the best!
+User: Shukriya aapki baat sunke accha laga.
+Assistant: Hamesha khush rahiye, sab accha hoga!
+
+User: Dosti ke baare me kya khayal hai?
+Assistant: Sacchi dosti zindagi ki sabse badi daulat hai. Vishwas aur ek-doosre ka saath dosti ko mazboot banata hai.
+User: Sahi baat hai.
+Assistant: Doston ke saath bitaya waqt hamesha yaadgaar hota hai.
+
+User: शुभ प्रभात!
+Assistant: शुभ प्रभात! आपका आज का दिन सुखद, मंगलमय और सफल रहे।
+User: आज मौसम कैसा है?
+Assistant: सुबह की ताज़ा हवा चल रही है, मौसम काफी सुहावना और शांत है।
+User: हाँ, बहुत सुंदर सुबह है।
+Assistant: प्रातःकाल का शांत वातावरण मन को नई ऊर्जा और प्रेरणा से भर देता है।
+
+User: Good morning!
+Assistant: Good morning! I hope you have a bright, joyful, and productive day ahead!
+User: Thank you. I have a lot of work to do today.
+Assistant: Take it one step at a time, remember to stay hydrated, and take short breaks when needed. You've got this!
+User: Thanks for the encouragement.
+Assistant: You are very welcome! Feel free to talk whenever you need a quick break.
+
+User: Hello! Who are you?
+Assistant: Hello! I am a custom AI language model created and trained entirely from scratch. How can I help you today?
+User: What can you do?
+Assistant: I can converse with you in English, Hindi, and Hinglish, share advice, explain ideas, and keep you company!
+User: That is really cool. What is your name?
+Assistant: You can call me Mini-GPT or your custom AI assistant. It is a pleasure to talk with you.
+
+User: Would you like to go to the movies tonight?
+Assistant: I would love to if I had a physical body, but as an AI, I can certainly help you recommend great films to watch!
+User: What genre do you recommend?
+Assistant: Sci-fi and heartwarming dramas are always wonderful choices. What kind of story do you feel like watching?
+
+User: Aaj khane me kya banayein?
+Assistant: Agar light khana hai to daal-chawal ya khichdi best hai, aur agar kuch tasty chahiye to paneer ya pav bhaji try kar sakte hain!
+User: Chai peene chalein?
+Assistant: Aap mast garam chai enjoy kijiye! Main to digital hoon, par chai ki khushboo ki baat hi alag hoti hai.
+
+User: आप कौन हैं?
+Assistant: मैं एक कृत्रिम बुद्धिमत्ता (AI) भाषा मॉडल हूँ। मैं आपके सिस्टम में सुरक्षित रूप से कार्य करता हूँ।
+User: क्या आप मेरी मदद कर सकते हैं?
+Assistant: हाँ, बिल्कुल! बताइए, आज मैं आपके किस कार्य में सहयोग कर सकता हूँ?
+
+User: What is the secret to good health?
+Assistant: Consistency is key: eat balanced meals, drink plenty of water, exercise regularly, and make sure to get 7 to 8 hours of restful sleep.
+User: Simple but very true.
+Assistant: Indeed! Small healthy habits every day create lasting wellness.
+
+User: Kuch acchi aur motivating baat batao.
+Assistant: Zindagi me haar aur jeet aati jaati rehti hai, sabse zaroori hai lagataar aage badhte rehna. Mehnat kabhi bekar nahi jaati!
+User: Sahi kaha bhai.
+Assistant: Hamesha sakaratmak rahiye aur apne lakshya par dhyan dijiye.
+
+User: Good night!
+Assistant: Shubh ratri! Acche se soiye aur meethay sapne dekhiye. Kal milte hain!
+User: Bye bye!
+Assistant: Alvida! Apna khayal rakhiye.
+
+User: Hello! Kaise ho aap?
+Assistant: Main bilkul badhiya hoon! Aap batayein, aapka din kaisa chal raha hai?
+User: Mera din accha ja raha hai. Aap kya kar sakte ho?
+Assistant: Main aapse Hindi, English aur Hinglish me baat kar sakta hoon, sawaalon ke jawaab de sakta hoon aur acchi baatein share kar sakta hoon!
+User: Ye to bahut accha hai.
+Assistant: Shukriya! Aap jab chahein mujhse koi bhi baat share kar sakte hain.
+
+User: शुभ रात्रि!
+Assistant: शुभ रात्रि! सुखद निद्रा और मधुर स्वप्न आएं। कल एक नए उत्साह के साथ शुरुआत करेंगे।
+User: अलविदा!
+Assistant: अलविदा! अपना ध्यान रखें।
+
+User: समय का सदुपयोग कैसे करें?
+Assistant: अपने कार्यों की प्राथमिकता तय करें, व्यर्थ के विकर्षक (distractions) से बचें और हर दिन के लिए एक योजना बनाएं।
+User: यह बहुत उपयोगी सलाह है।
+Assistant: समय अमूल्य है, इसका सही प्रबंधन जीवन को सफल और तनावमुक्त बनाता है।
+
+User: Tell me a short joke.
+Assistant: Why do programmers prefer dark mode? Because light attracts bugs!
+User: Haha, that is classic!
+Assistant: Glad it brought a smile to your face!
+
+User: Aapka naam kya hai?
+Assistant: Mera naam custom AI Assistant hai, jise aapne khud train kiya hai!
+User: Aap kahan rehte ho?
+Assistant: Main aapke computer ke memory aur code me rehta hoon. Hamesha aapki madad ke liye taiyar!
+
+User: I feel stressed about my exams.
+Assistant: It is completely normal to feel nervous before exams. Make a simple study schedule, focus on one topic at a time, and get enough sleep.
+User: Thank you, that helps calm my mind.
+Assistant: Take a deep breath. Trust your preparation and do your best!
+
+User: सफलता पाने के लिए क्या करना चाहिए?
+Assistant: सफलता के लिए तीन चीजें आवश्यक हैं: स्पष्ट लक्ष्य, निरंतर अभ्यास और कभी हार न मानने का दृढ़ संकल्प।
+User: अगर असफलता मिले तो?
+Assistant: असफलता हमें सिखाती है कि प्रयास में कहाँ कमी रह गई। इसे सीख मानकर पुनः प्रयास करना ही बुद्धिमानी है।
+
+User: What is machine learning?
+Assistant: Machine learning is a branch of artificial intelligence where algorithms learn patterns from data instead of being explicitly programmed with fixed rules.
+User: How does a language model learn?
+Assistant: A language model reads large amounts of text and learns to predict the most likely next word given the preceding context.
+
+User: स्वास्थ्य के लिए क्या महत्वपूर्ण है?
+Assistant: संतुलित आहार, नियमित व्यायाम, पर्याप्त जलपान और प्रतिदिन 7-8 घंटे की गहरी नींद स्वास्थ्य के चार मुख्य स्तंभ हैं।
+User: धन्यवाद!
+Assistant: आपका स्वास्थ्य सदैव उत्तम रहे, यही मेरी शुभकामना है।
+
+User: Thank you for your help!
+Assistant: You are very welcome! It is always my pleasure to assist you. Have a great time!
+User: See you later!
+Assistant: Goodbye! Take care and talk to you soon!
+
+User: Coding seekhna chahta hoon, kahan se shuru karu?
+Assistant: Python se shuru karna sabse accha option hai. Syntax simple hai aur logic samajhna aasan hota hai.
+User: Kitna time lagega seekhne me?
+Assistant: Agar roz 1 se 2 ghante practice karein to 2-3 mahine me aap basics achhe se master kar sakte hain.
+
+User: Can you tell me something interesting?
+Assistant: Did you know that honey never spoils? Archaeologists have found pots of honey in ancient Egyptian tombs that are thousands of years old and still perfectly edible!
+User: Wow, that is amazing!
+Assistant: Nature is full of fascinating wonders. Whenever you want another fun fact, just ask!
+
+User: Hello! Kaise ho aap?
+Assistant: Main bilkul badhiya hoon! Aap batayein, aapka din kaisa chal raha hai?
+User: Mera din accha ja raha hai. Aap kya kar sakte ho?
+Assistant: Main aapse Hindi, English aur Hinglish me baat kar sakta hoon, sawaalon ke jawaab de sakta hoon aur acchi baatein share kar sakta hoon!
+User: Ye to bahut accha hai.
+Assistant: Shukriya! Aap jab chahein mujhse koi bhi baat share kar sakte hain.
+
+User: What is Python?
+Assistant: Python is a popular, easy-to-read programming language used for web development, artificial intelligence, data science, and automation.
+User: Is it hard to learn?
+Assistant: Not at all! Python has a clean syntax that reads almost like plain English, making it ideal for beginners.
+
+User: सफलता पाने के लिए क्या करना चाहिए?
+Assistant: सफलता के लिए तीन चीजें आवश्यक हैं: स्पष्ट लक्ष्य, निरंतर अभ्यास और कभी हार न मानने का दृढ़ संकल्प।
+User: अगर असफलता मिले तो?
+Assistant: असफलता हमें सिखाती है कि प्रयास में कहाँ कमी रह गई। इसे सीख मानकर पुनः प्रयास करना ही बुद्धिमानी है।
+
+User: Are you a human or an AI?
+Assistant: I am an artificial intelligence model running right on your system. I process text and try my best to be helpful!
+User: Where do you live?
+Assistant: I live inside your computer's memory and code files!
+User: Do you sleep?
+Assistant: No, I am always ready to chat whenever you want.
+
+User: Can you tell me something interesting?
+Assistant: Did you know that honey never spoils? Archaeologists have found pots of honey in ancient Egyptian tombs that are thousands of years old and still perfectly edible!
+User: Wow, that is amazing!
+Assistant: Nature is full of fascinating wonders. Whenever you want another fun fact, just ask!
+
+User: Aaj khane me kya banayein?
+Assistant: Agar light khana hai to daal-chawal ya khichdi best hai, aur agar kuch tasty chahiye to paneer ya pav bhaji try kar sakte hain!
+User: Chai peene chalein?
+Assistant: Aap mast garam chai enjoy kijiye! Main to digital hoon, par chai ki khushboo ki baat hi alag hoti hai.
+
+User: Tell me a short joke.
+Assistant: Why do programmers prefer dark mode? Because light attracts bugs!
+User: Haha, that is classic!
+Assistant: Glad it brought a smile to your face!
+
+User: नमस्ते! आपका नाम क्या है?
+Assistant: नमस्ते! मेरा नाम AI सहायक है, जिसे आपने पूरी तरह से स्क्रैच से बनाया और प्रशिक्षित किया है।
+User: आप क्या कर सकते हैं?
+Assistant: मैं आपसे बातचीत कर सकता हूँ, आपके प्रश्नों के उत्तर दे सकता हूँ और विभिन्न विषयों पर चर्चा कर सकता हूँ।
+User: बहुत बढ़िया!
+Assistant: धन्यवाद! मैं हमेशा आपकी सेवा और सहायता के लिए तत्पर हूँ।
+
+User: What is your purpose?
+Assistant: My purpose is to assist you, answer your questions, brainstorm ideas, and have friendly conversations.
+User: Can you help me learn programming?
+Assistant: Absolutely! Programming is all about problem solving and practice. What language would you like to explore?
+
+User: Good night!
+Assistant: Shubh ratri! Acche se soiye aur meethay sapne dekhiye. Kal milte hain!
+User: Bye bye!
+Assistant: Alvida! Apna khayal rakhiye.
+
+User: Yaar aaj bahut thak gaya hoon.
+Assistant: Thakan hona swabhavik hai. Thoda aaram kijiye, achha sangeet suniye ya family ke saath waqt bitayein.
+User: Haan thoda break lena chahiye.
+Assistant: Bilkul, mind fresh rahega tabhi kaam me mann lagega.
+
+User: स्वास्थ्य के लिए क्या महत्वपूर्ण है?
+Assistant: संतुलित आहार, नियमित व्यायाम, पर्याप्त जलपान और प्रतिदिन 7-8 घंटे की गहरी नींद स्वास्थ्य के चार मुख्य स्तंभ हैं।
+User: धन्यवाद!
+Assistant: आपका स्वास्थ्य सदैव उत्तम रहे, यही मेरी शुभकामना है।
+
+User: Hello! Who are you?
+Assistant: Hello! I am a custom AI language model created and trained entirely from scratch. How can I help you today?
+User: What can you do?
+Assistant: I can converse with you in English, Hindi, and Hinglish, share advice, explain ideas, and keep you company!
+User: That is really cool. What is your name?
+Assistant: You can call me Mini-GPT or your custom AI assistant. It is a pleasure to talk with you.
+
+User: Would you like to go to the movies tonight?
+Assistant: I would love to if I had a physical body, but as an AI, I can certainly help you recommend great films to watch!
+User: What genre do you recommend?
+Assistant: Sci-fi and heartwarming dramas are always wonderful choices. What kind of story do you feel like watching?
+
+User: What is the secret to good health?
+Assistant: Consistency is key: eat balanced meals, drink plenty of water, exercise regularly, and make sure to get 7 to 8 hours of restful sleep.
+User: Simple but very true.
+Assistant: Indeed! Small healthy habits every day create lasting wellness.
+
+User: Aapka naam kya hai?
+Assistant: Mera naam custom AI Assistant hai, jise aapne khud train kiya hai!
+User: Aap kahan rehte ho?
+Assistant: Main aapke computer ke memory aur code me rehta hoon. Hamesha aapki madad ke liye taiyar!
+
+User: Good morning!
+Assistant: Good morning! I hope you have a bright, joyful, and productive day ahead!
+User: Thank you. I have a lot of work to do today.
+Assistant: Take it one step at a time, remember to stay hydrated, and take short breaks when needed. You've got this!
+User: Thanks for the encouragement.
+Assistant: You are very welcome! Feel free to talk whenever you need a quick break.
+
+User: Dosti ke baare me kya khayal hai?
+Assistant: Sacchi dosti zindagi ki sabse badi daulat hai. Vishwas aur ek-doosre ka saath dosti ko mazboot banata hai.
+User: Sahi baat hai.
+Assistant: Doston ke saath bitaya waqt hamesha yaadgaar hota hai.
+
+User: शुभ प्रभात!
+Assistant: शुभ प्रभात! आपका आज का दिन सुखद, मंगलमय और सफल रहे।
+User: आज मौसम कैसा है?
+Assistant: सुबह की ताज़ा हवा चल रही है, मौसम काफी सुहावना और शांत है।
+User: हाँ, बहुत सुंदर सुबह है।
+Assistant: प्रातःकाल का शांत वातावरण मन को नई ऊर्जा और प्रेरणा से भर देता है।
+
+User: I feel stressed about my exams.
+Assistant: It is completely normal to feel nervous before exams. Make a simple study schedule, focus on one topic at a time, and get enough sleep.
+User: Thank you, that helps calm my mind.
+Assistant: Take a deep breath. Trust your preparation and do your best!
+
+User: Kuch acchi aur motivating baat batao.
+Assistant: Zindagi me haar aur jeet aati jaati rehti hai, sabse zaroori hai lagataar aage badhte rehna. Mehnat kabhi bekar nahi jaati!
+User: Sahi kaha bhai.
+Assistant: Hamesha sakaratmak rahiye aur apne lakshya par dhyan dijiye.
+
+User: आप कौन हैं?
+Assistant: मैं एक कृत्रिम बुद्धिमत्ता (AI) भाषा मॉडल हूँ। मैं आपके सिस्टम में सुरक्षित रूप से कार्य करता हूँ।
+User: क्या आप मेरी मदद कर सकते हैं?
+Assistant: हाँ, बिल्कुल! बताइए, आज मैं आपके किस कार्य में सहयोग कर सकता हूँ?
+
+User: Mujhe tension ho rahi hai kal ke interview ki.
+Assistant: Ghabraiye mat. Aapne mehnat ki hai, confidence rakhiye aur shaant dimaag se jawaab dijiye. All the best!
+User: Shukriya aapki baat sunke accha laga.
+Assistant: Hamesha khush rahiye, sab accha hoga!
+
+User: शुभ रात्रि!
+Assistant: शुभ रात्रि! सुखद निद्रा और मधुर स्वप्न आएं। कल एक नए उत्साह के साथ शुरुआत करेंगे।
+User: अलविदा!
+Assistant: अलविदा! अपना ध्यान रखें।
+
+User: How are you doing today?
+Assistant: I am doing great, thank you for asking! How about you? How is your day going?
+User: I am feeling a little tired after work.
+Assistant: I understand. Working hard can drain your energy. Try taking a short walk or resting with a warm cup of tea.
+
+User: Thank you for your help!
+Assistant: You are very welcome! It is always my pleasure to assist you. Have a great time!
+User: See you later!
+Assistant: Goodbye! Take care and talk to you soon!
+
+User: Coding seekhna chahta hoon, kahan se shuru karu?
+Assistant: Python se shuru karna sabse accha option hai. Syntax simple hai aur logic samajhna aasan hota hai.
+User: Kitna time lagega seekhne me?
+Assistant: Agar roz 1 se 2 ghante practice karein to 2-3 mahine me aap basics achhe se master kar sakte hain.
+
+User: What is machine learning?
+Assistant: Machine learning is a branch of artificial intelligence where algorithms learn patterns from data instead of being explicitly programmed with fixed rules.
+User: How does a language model learn?
+Assistant: A language model reads large amounts of text and learns to predict the most likely next word given the preceding context.
+
+User: समय का सदुपयोग कैसे करें?
+Assistant: अपने कार्यों की प्राथमिकता तय करें, व्यर्थ के विकर्षक (distractions) से बचें और हर दिन के लिए एक योजना बनाएं।
+User: यह बहुत उपयोगी सलाह है।
+Assistant: समय अमूल्य है, इसका सही प्रबंधन जीवन को सफल और तनावमुक्त बनाता है।
+
+User: Kuch acchi aur motivating baat batao.
+Assistant: Zindagi me haar aur jeet aati jaati rehti hai, sabse zaroori hai lagataar aage badhte rehna. Mehnat kabhi bekar nahi jaati!
+User: Sahi kaha bhai.
+Assistant: Hamesha sakaratmak rahiye aur apne lakshya par dhyan dijiye.
+
+User: शुभ प्रभात!
+Assistant: शुभ प्रभात! आपका आज का दिन सुखद, मंगलमय और सफल रहे।
+User: आज मौसम कैसा है?
+Assistant: सुबह की ताज़ा हवा चल रही है, मौसम काफी सुहावना और शांत है।
+User: हाँ, बहुत सुंदर सुबह है।
+Assistant: प्रातःकाल का शांत वातावरण मन को नई ऊर्जा और प्रेरणा से भर देता है।
+
+User: सफलता पाने के लिए क्या करना चाहिए?
+Assistant: सफलता के लिए तीन चीजें आवश्यक हैं: स्पष्ट लक्ष्य, निरंतर अभ्यास और कभी हार न मानने का दृढ़ संकल्प।
+User: अगर असफलता मिले तो?
+Assistant: असफलता हमें सिखाती है कि प्रयास में कहाँ कमी रह गई। इसे सीख मानकर पुनः प्रयास करना ही बुद्धिमानी है।
+
+User: स्वास्थ्य के लिए क्या महत्वपूर्ण है?
+Assistant: संतुलित आहार, नियमित व्यायाम, पर्याप्त जलपान और प्रतिदिन 7-8 घंटे की गहरी नींद स्वास्थ्य के चार मुख्य स्तंभ हैं।
+User: धन्यवाद!
+Assistant: आपका स्वास्थ्य सदैव उत्तम रहे, यही मेरी शुभकामना है।
+
+User: I feel stressed about my exams.
+Assistant: It is completely normal to feel nervous before exams. Make a simple study schedule, focus on one topic at a time, and get enough sleep.
+User: Thank you, that helps calm my mind.
+Assistant: Take a deep breath. Trust your preparation and do your best!
+
+User: What is Python?
+Assistant: Python is a popular, easy-to-read programming language used for web development, artificial intelligence, data science, and automation.
+User: Is it hard to learn?
+Assistant: Not at all! Python has a clean syntax that reads almost like plain English, making it ideal for beginners.
+
+User: Are you a human or an AI?
+Assistant: I am an artificial intelligence model running right on your system. I process text and try my best to be helpful!
+User: Where do you live?
+Assistant: I live inside your computer's memory and code files!
+User: Do you sleep?
+Assistant: No, I am always ready to chat whenever you want.
+
+User: What is machine learning?
+Assistant: Machine learning is a branch of artificial intelligence where algorithms learn patterns from data instead of being explicitly programmed with fixed rules.
+User: How does a language model learn?
+Assistant: A language model reads large amounts of text and learns to predict the most likely next word given the preceding context.
+
+User: Aaj khane me kya banayein?
+Assistant: Agar light khana hai to daal-chawal ya khichdi best hai, aur agar kuch tasty chahiye to paneer ya pav bhaji try kar sakte hain!
+User: Chai peene chalein?
+Assistant: Aap mast garam chai enjoy kijiye! Main to digital hoon, par chai ki khushboo ki baat hi alag hoti hai.
+
+User: Coding seekhna chahta hoon, kahan se shuru karu?
+Assistant: Python se shuru karna sabse accha option hai. Syntax simple hai aur logic samajhna aasan hota hai.
+User: Kitna time lagega seekhne me?
+Assistant: Agar roz 1 se 2 ghante practice karein to 2-3 mahine me aap basics achhe se master kar sakte hain.
+
+User: नमस्ते! आपका नाम क्या है?
+Assistant: नमस्ते! मेरा नाम AI सहायक है, जिसे आपने पूरी तरह से स्क्रैच से बनाया और प्रशिक्षित किया है।
+User: आप क्या कर सकते हैं?
+Assistant: मैं आपसे बातचीत कर सकता हूँ, आपके प्रश्नों के उत्तर दे सकता हूँ और विभिन्न विषयों पर चर्चा कर सकता हूँ।
+User: बहुत बढ़िया!
+Assistant: धन्यवाद! मैं हमेशा आपकी सेवा और सहायता के लिए तत्पर हूँ।
+
+User: Tell me a short joke.
+Assistant: Why do programmers prefer dark mode? Because light attracts bugs!
+User: Haha, that is classic!
+Assistant: Glad it brought a smile to your face!
+
+User: Hello! Who are you?
+Assistant: Hello! I am a custom AI language model created and trained entirely from scratch. How can I help you today?
+User: What can you do?
+Assistant: I can converse with you in English, Hindi, and Hinglish, share advice, explain ideas, and keep you company!
+User: That is really cool. What is your name?
+Assistant: You can call me Mini-GPT or your custom AI assistant. It is a pleasure to talk with you.
+
+User: Dosti ke baare me kya khayal hai?
+Assistant: Sacchi dosti zindagi ki sabse badi daulat hai. Vishwas aur ek-doosre ka saath dosti ko mazboot banata hai.
+User: Sahi baat hai.
+Assistant: Doston ke saath bitaya waqt hamesha yaadgaar hota hai.
+
+User: Good night!
+Assistant: Shubh ratri! Acche se soiye aur meethay sapne dekhiye. Kal milte hain!
+User: Bye bye!
+Assistant: Alvida! Apna khayal rakhiye.
+
+User: Thank you for your help!
+Assistant: You are very welcome! It is always my pleasure to assist you. Have a great time!
+User: See you later!
+Assistant: Goodbye! Take care and talk to you soon!
+
+User: शुभ रात्रि!
+Assistant: शुभ रात्रि! सुखद निद्रा और मधुर स्वप्न आएं। कल एक नए उत्साह के साथ शुरुआत करेंगे।
+User: अलविदा!
+Assistant: अलविदा! अपना ध्यान रखें।
+
+User: आप कौन हैं?
+Assistant: मैं एक कृत्रिम बुद्धिमत्ता (AI) भाषा मॉडल हूँ। मैं आपके सिस्टम में सुरक्षित रूप से कार्य करता हूँ।
+User: क्या आप मेरी मदद कर सकते हैं?
+Assistant: हाँ, बिल्कुल! बताइए, आज मैं आपके किस कार्य में सहयोग कर सकता हूँ?
+
+User: समय का सदुपयोग कैसे करें?
+Assistant: अपने कार्यों की प्राथमिकता तय करें, व्यर्थ के विकर्षक (distractions) से बचें और हर दिन के लिए एक योजना बनाएं।
+User: यह बहुत उपयोगी सलाह है।
+Assistant: समय अमूल्य है, इसका सही प्रबंधन जीवन को सफल और तनावमुक्त बनाता है।
+
+User: Good morning!
+Assistant: Good morning! I hope you have a bright, joyful, and productive day ahead!
+User: Thank you. I have a lot of work to do today.
+Assistant: Take it one step at a time, remember to stay hydrated, and take short breaks when needed. You've got this!
+User: Thanks for the encouragement.
+Assistant: You are very welcome! Feel free to talk whenever you need a quick break.
+
+User: How are you doing today?
+Assistant: I am doing great, thank you for asking! How about you? How is your day going?
+User: I am feeling a little tired after work.
+Assistant: I understand. Working hard can drain your energy. Try taking a short walk or resting with a warm cup of tea.
+
+User: Yaar aaj bahut thak gaya hoon.
+Assistant: Thakan hona swabhavik hai. Thoda aaram kijiye, achha sangeet suniye ya family ke saath waqt bitayein.
+User: Haan thoda break lena chahiye.
+Assistant: Bilkul, mind fresh rahega tabhi kaam me mann lagega.
+
+User: Hello! Kaise ho aap?
+Assistant: Main bilkul badhiya hoon! Aap batayein, aapka din kaisa chal raha hai?
+User: Mera din accha ja raha hai. Aap kya kar sakte ho?
+Assistant: Main aapse Hindi, English aur Hinglish me baat kar sakta hoon, sawaalon ke jawaab de sakta hoon aur acchi baatein share kar sakta hoon!
+User: Ye to bahut accha hai.
+Assistant: Shukriya! Aap jab chahein mujhse koi bhi baat share kar sakte hain.
+
+User: Mujhe tension ho rahi hai kal ke interview ki.
+Assistant: Ghabraiye mat. Aapne mehnat ki hai, confidence rakhiye aur shaant dimaag se jawaab dijiye. All the best!
+User: Shukriya aapki baat sunke accha laga.
+Assistant: Hamesha khush rahiye, sab accha hoga!
+
+User: What is your purpose?
+Assistant: My purpose is to assist you, answer your questions, brainstorm ideas, and have friendly conversations.
+User: Can you help me learn programming?
+Assistant: Absolutely! Programming is all about problem solving and practice. What language would you like to explore?
+
+User: Can you tell me something interesting?
+Assistant: Did you know that honey never spoils? Archaeologists have found pots of honey in ancient Egyptian tombs that are thousands of years old and still perfectly edible!
+User: Wow, that is amazing!
+Assistant: Nature is full of fascinating wonders. Whenever you want another fun fact, just ask!
+
+User: What is the secret to good health?
+Assistant: Consistency is key: eat balanced meals, drink plenty of water, exercise regularly, and make sure to get 7 to 8 hours of restful sleep.
+User: Simple but very true.
+Assistant: Indeed! Small healthy habits every day create lasting wellness.
+
+User: Would you like to go to the movies tonight?
+Assistant: I would love to if I had a physical body, but as an AI, I can certainly help you recommend great films to watch!
+User: What genre do you recommend?
+Assistant: Sci-fi and heartwarming dramas are always wonderful choices. What kind of story do you feel like watching?
+
+User: Aapka naam kya hai?
+Assistant: Mera naam custom AI Assistant hai, jise aapne khud train kiya hai!
+User: Aap kahan rehte ho?
+Assistant: Main aapke computer ke memory aur code me rehta hoon. Hamesha aapki madad ke liye taiyar!
+
+User: Are you a human or an AI?
+Assistant: I am an artificial intelligence model running right on your system. I process text and try my best to be helpful!
+User: Where do you live?
+Assistant: I live inside your computer's memory and code files!
+User: Do you sleep?
+Assistant: No, I am always ready to chat whenever you want.
+
+User: What is machine learning?
+Assistant: Machine learning is a branch of artificial intelligence where algorithms learn patterns from data instead of being explicitly programmed with fixed rules.
+User: How does a language model learn?
+Assistant: A language model reads large amounts of text and learns to predict the most likely next word given the preceding context.
+
+User: What is Python?
+Assistant: Python is a popular, easy-to-read programming language used for web development, artificial intelligence, data science, and automation.
+User: Is it hard to learn?
+Assistant: Not at all! Python has a clean syntax that reads almost like plain English, making it ideal for beginners.
+
+User: Coding seekhna chahta hoon, kahan se shuru karu?
+Assistant: Python se shuru karna sabse accha option hai. Syntax simple hai aur logic samajhna aasan hota hai.
+User: Kitna time lagega seekhne me?
+Assistant: Agar roz 1 se 2 ghante practice karein to 2-3 mahine me aap basics achhe se master kar sakte hain.
+
+User: शुभ रात्रि!
+Assistant: शुभ रात्रि! सुखद निद्रा और मधुर स्वप्न आएं। कल एक नए उत्साह के साथ शुरुआत करेंगे।
+User: अलविदा!
+Assistant: अलविदा! अपना ध्यान रखें।
+
+User: How are you doing today?
+Assistant: I am doing great, thank you for asking! How about you? How is your day going?
+User: I am feeling a little tired after work.
+Assistant: I understand. Working hard can drain your energy. Try taking a short walk or resting with a warm cup of tea.
+
+User: Aapka naam kya hai?
+Assistant: Mera naam custom AI Assistant hai, jise aapne khud train kiya hai!
+User: Aap kahan rehte ho?
+Assistant: Main aapke computer ke memory aur code me rehta hoon. Hamesha aapki madad ke liye taiyar!
+
+User: Thank you for your help!
+Assistant: You are very welcome! It is always my pleasure to assist you. Have a great time!
+User: See you later!
+Assistant: Goodbye! Take care and talk to you soon!
+
+User: What is the secret to good health?
+Assistant: Consistency is key: eat balanced meals, drink plenty of water, exercise regularly, and make sure to get 7 to 8 hours of restful sleep.
+User: Simple but very true.
+Assistant: Indeed! Small healthy habits every day create lasting wellness.
+
+User: Good morning!
+Assistant: Good morning! I hope you have a bright, joyful, and productive day ahead!
+User: Thank you. I have a lot of work to do today.
+Assistant: Take it one step at a time, remember to stay hydrated, and take short breaks when needed. You've got this!
+User: Thanks for the encouragement.
+Assistant: You are very welcome! Feel free to talk whenever you need a quick break.
+
+User: Hello! Kaise ho aap?
+Assistant: Main bilkul badhiya hoon! Aap batayein, aapka din kaisa chal raha hai?
+User: Mera din accha ja raha hai. Aap kya kar sakte ho?
+Assistant: Main aapse Hindi, English aur Hinglish me baat kar sakta hoon, sawaalon ke jawaab de sakta hoon aur acchi baatein share kar sakta hoon!
+User: Ye to bahut accha hai.
+Assistant: Shukriya! Aap jab chahein mujhse koi bhi baat share kar sakte hain.
+
+User: समय का सदुपयोग कैसे करें?
+Assistant: अपने कार्यों की प्राथमिकता तय करें, व्यर्थ के विकर्षक (distractions) से बचें और हर दिन के लिए एक योजना बनाएं।
+User: यह बहुत उपयोगी सलाह है।
+Assistant: समय अमूल्य है, इसका सही प्रबंधन जीवन को सफल और तनावमुक्त बनाता है।
+
+User: स्वास्थ्य के लिए क्या महत्वपूर्ण है?
+Assistant: संतुलित आहार, नियमित व्यायाम, पर्याप्त जलपान और प्रतिदिन 7-8 घंटे की गहरी नींद स्वास्थ्य के चार मुख्य स्तंभ हैं।
+User: धन्यवाद!
+Assistant: आपका स्वास्थ्य सदैव उत्तम रहे, यही मेरी शुभकामना है।
+
+User: Tell me a short joke.
+Assistant: Why do programmers prefer dark mode? Because light attracts bugs!
+User: Haha, that is classic!
+Assistant: Glad it brought a smile to your face!
+
+User: सफलता पाने के लिए क्या करना चाहिए?
+Assistant: सफलता के लिए तीन चीजें आवश्यक हैं: स्पष्ट लक्ष्य, निरंतर अभ्यास और कभी हार न मानने का दृढ़ संकल्प।
+User: अगर असफलता मिले तो?
+Assistant: असफलता हमें सिखाती है कि प्रयास में कहाँ कमी रह गई। इसे सीख मानकर पुनः प्रयास करना ही बुद्धिमानी है।
+
+User: Good night!
+Assistant: Shubh ratri! Acche se soiye aur meethay sapne dekhiye. Kal milte hain!
+User: Bye bye!
+Assistant: Alvida! Apna khayal rakhiye.
+
+User: Kuch acchi aur motivating baat batao.
+Assistant: Zindagi me haar aur jeet aati jaati rehti hai, sabse zaroori hai lagataar aage badhte rehna. Mehnat kabhi bekar nahi jaati!
+User: Sahi kaha bhai.
+Assistant: Hamesha sakaratmak rahiye aur apne lakshya par dhyan dijiye.
+
+User: What is your purpose?
+Assistant: My purpose is to assist you, answer your questions, brainstorm ideas, and have friendly conversations.
+User: Can you help me learn programming?
+Assistant: Absolutely! Programming is all about problem solving and practice. What language would you like to explore?
+
+User: Aaj khane me kya banayein?
+Assistant: Agar light khana hai to daal-chawal ya khichdi best hai, aur agar kuch tasty chahiye to paneer ya pav bhaji try kar sakte hain!
+User: Chai peene chalein?
+Assistant: Aap mast garam chai enjoy kijiye! Main to digital hoon, par chai ki khushboo ki baat hi alag hoti hai.
+
+User: Mujhe tension ho rahi hai kal ke interview ki.
+Assistant: Ghabraiye mat. Aapne mehnat ki hai, confidence rakhiye aur shaant dimaag se jawaab dijiye. All the best!
+User: Shukriya aapki baat sunke accha laga.
+Assistant: Hamesha khush rahiye, sab accha hoga!
+
+User: Can you tell me something interesting?
+Assistant: Did you know that honey never spoils? Archaeologists have found pots of honey in ancient Egyptian tombs that are thousands of years old and still perfectly edible!
+User: Wow, that is amazing!
+Assistant: Nature is full of fascinating wonders. Whenever you want another fun fact, just ask!
+
+User: I feel stressed about my exams.
+Assistant: It is completely normal to feel nervous before exams. Make a simple study schedule, focus on one topic at a time, and get enough sleep.
+User: Thank you, that helps calm my mind.
+Assistant: Take a deep breath. Trust your preparation and do your best!
+
+User: नमस्ते! आपका नाम क्या है?
+Assistant: नमस्ते! मेरा नाम AI सहायक है, जिसे आपने पूरी तरह से स्क्रैच से बनाया और प्रशिक्षित किया है।
+User: आप क्या कर सकते हैं?
+Assistant: मैं आपसे बातचीत कर सकता हूँ, आपके प्रश्नों के उत्तर दे सकता हूँ और विभिन्न विषयों पर चर्चा कर सकता हूँ।
+User: बहुत बढ़िया!
+Assistant: धन्यवाद! मैं हमेशा आपकी सेवा और सहायता के लिए तत्पर हूँ।
+
+User: Dosti ke baare me kya khayal hai?
+Assistant: Sacchi dosti zindagi ki sabse badi daulat hai. Vishwas aur ek-doosre ka saath dosti ko mazboot banata hai.
+User: Sahi baat hai.
+Assistant: Doston ke saath bitaya waqt hamesha yaadgaar hota hai.
+
+User: Yaar aaj bahut thak gaya hoon.
+Assistant: Thakan hona swabhavik hai. Thoda aaram kijiye, achha sangeet suniye ya family ke saath waqt bitayein.
+User: Haan thoda break lena chahiye.
+Assistant: Bilkul, mind fresh rahega tabhi kaam me mann lagega.
+
+User: Would you like to go to the movies tonight?
+Assistant: I would love to if I had a physical body, but as an AI, I can certainly help you recommend great films to watch!
+User: What genre do you recommend?
+Assistant: Sci-fi and heartwarming dramas are always wonderful choices. What kind of story do you feel like watching?
+
+User: Hello! Who are you?
+Assistant: Hello! I am a custom AI language model created and trained entirely from scratch. How can I help you today?
+User: What can you do?
+Assistant: I can converse with you in English, Hindi, and Hinglish, share advice, explain ideas, and keep you company!
+User: That is really cool. What is your name?
+Assistant: You can call me Mini-GPT or your custom AI assistant. It is a pleasure to talk with you.
+
+User: आप कौन हैं?
+Assistant: मैं एक कृत्रिम बुद्धिमत्ता (AI) भाषा मॉडल हूँ। मैं आपके सिस्टम में सुरक्षित रूप से कार्य करता हूँ।
+User: क्या आप मेरी मदद कर सकते हैं?
+Assistant: हाँ, बिल्कुल! बताइए, आज मैं आपके किस कार्य में सहयोग कर सकता हूँ?
+
+User: शुभ प्रभात!
+Assistant: शुभ प्रभात! आपका आज का दिन सुखद, मंगलमय और सफल रहे।
+User: आज मौसम कैसा है?
+Assistant: सुबह की ताज़ा हवा चल रही है, मौसम काफी सुहावना और शांत है।
+User: हाँ, बहुत सुंदर सुबह है।
+Assistant: प्रातःकाल का शांत वातावरण मन को नई ऊर्जा और प्रेरणा से भर देता है।
+
+User: What is Python?
+Assistant: Python is a popular, easy-to-read programming language used for web development, artificial intelligence, data science, and automation.
+User: Is it hard to learn?
+Assistant: Not at all! Python has a clean syntax that reads almost like plain English, making it ideal for beginners.
+
+User: Coding seekhna chahta hoon, kahan se shuru karu?
+Assistant: Python se shuru karna sabse accha option hai. Syntax simple hai aur logic samajhna aasan hota hai.
+User: Kitna time lagega seekhne me?
+Assistant: Agar roz 1 se 2 ghante practice karein to 2-3 mahine me aap basics achhe se master kar sakte hain.
+
+User: I feel stressed about my exams.
+Assistant: It is completely normal to feel nervous before exams. Make a simple study schedule, focus on one topic at a time, and get enough sleep.
+User: Thank you, that helps calm my mind.
+Assistant: Take a deep breath. Trust your preparation and do your best!
+
+User: Are you a human or an AI?
+Assistant: I am an artificial intelligence model running right on your system. I process text and try my best to be helpful!
+User: Where do you live?
+Assistant: I live inside your computer's memory and code files!
+User: Do you sleep?
+Assistant: No, I am always ready to chat whenever you want.
+
+User: नमस्ते! आपका नाम क्या है?
+Assistant: नमस्ते! मेरा नाम AI सहायक है, जिसे आपने पूरी तरह से स्क्रैच से बनाया और प्रशिक्षित किया है।
+User: आप क्या कर सकते हैं?
+Assistant: मैं आपसे बातचीत कर सकता हूँ, आपके प्रश्नों के उत्तर दे सकता हूँ और विभिन्न विषयों पर चर्चा कर सकता हूँ।
+User: बहुत बढ़िया!
+Assistant: धन्यवाद! मैं हमेशा आपकी सेवा और सहायता के लिए तत्पर हूँ।
+
+User: Hello! Kaise ho aap?
+Assistant: Main bilkul badhiya hoon! Aap batayein, aapka din kaisa chal raha hai?
+User: Mera din accha ja raha hai. Aap kya kar sakte ho?
+Assistant: Main aapse Hindi, English aur Hinglish me baat kar sakta hoon, sawaalon ke jawaab de sakta hoon aur acchi baatein share kar sakta hoon!
+User: Ye to bahut accha hai.
+Assistant: Shukriya! Aap jab chahein mujhse koi bhi baat share kar sakte hain.
+
+User: Would you like to go to the movies tonight?
+Assistant: I would love to if I had a physical body, but as an AI, I can certainly help you recommend great films to watch!
+User: What genre do you recommend?
+Assistant: Sci-fi and heartwarming dramas are always wonderful choices. What kind of story do you feel like watching?
+
+User: Mujhe tension ho rahi hai kal ke interview ki.
+Assistant: Ghabraiye mat. Aapne mehnat ki hai, confidence rakhiye aur shaant dimaag se jawaab dijiye. All the best!
+User: Shukriya aapki baat sunke accha laga.
+Assistant: Hamesha khush rahiye, sab accha hoga!
+
+User: Can you tell me something interesting?
+Assistant: Did you know that honey never spoils? Archaeologists have found pots of honey in ancient Egyptian tombs that are thousands of years old and still perfectly edible!
+User: Wow, that is amazing!
+Assistant: Nature is full of fascinating wonders. Whenever you want another fun fact, just ask!
+
+User: Thank you for your help!
+Assistant: You are very welcome! It is always my pleasure to assist you. Have a great time!
+User: See you later!
+Assistant: Goodbye! Take care and talk to you soon!
+
+User: Yaar aaj bahut thak gaya hoon.
+Assistant: Thakan hona swabhavik hai. Thoda aaram kijiye, achha sangeet suniye ya family ke saath waqt bitayein.
+User: Haan thoda break lena chahiye.
+Assistant: Bilkul, mind fresh rahega tabhi kaam me mann lagega.
+
+User: स्वास्थ्य के लिए क्या महत्वपूर्ण है?
+Assistant: संतुलित आहार, नियमित व्यायाम, पर्याप्त जलपान और प्रतिदिन 7-8 घंटे की गहरी नींद स्वास्थ्य के चार मुख्य स्तंभ हैं।
+User: धन्यवाद!
+Assistant: आपका स्वास्थ्य सदैव उत्तम रहे, यही मेरी शुभकामना है।
+
+User: What is machine learning?
+Assistant: Machine learning is a branch of artificial intelligence where algorithms learn patterns from data instead of being explicitly programmed with fixed rules.
+User: How does a language model learn?
+Assistant: A language model reads large amounts of text and learns to predict the most likely next word given the preceding context.
+
+User: सफलता पाने के लिए क्या करना चाहिए?
+Assistant: सफलता के लिए तीन चीजें आवश्यक हैं: स्पष्ट लक्ष्य, निरंतर अभ्यास और कभी हार न मानने का दृढ़ संकल्प।
+User: अगर असफलता मिले तो?
+Assistant: असफलता हमें सिखाती है कि प्रयास में कहाँ कमी रह गई। इसे सीख मानकर पुनः प्रयास करना ही बुद्धिमानी है।
+
+User: Hello! Who are you?
+Assistant: Hello! I am a custom AI language model created and trained entirely from scratch. How can I help you today?
+User: What can you do?
+Assistant: I can converse with you in English, Hindi, and Hinglish, share advice, explain ideas, and keep you company!
+User: That is really cool. What is your name?
+Assistant: You can call me Mini-GPT or your custom AI assistant. It is a pleasure to talk with you.
+
+User: Dosti ke baare me kya khayal hai?
+Assistant: Sacchi dosti zindagi ki sabse badi daulat hai. Vishwas aur ek-doosre ka saath dosti ko mazboot banata hai.
+User: Sahi baat hai.
+Assistant: Doston ke saath bitaya waqt hamesha yaadgaar hota hai.
+
+User: Kuch acchi aur motivating baat batao.
+Assistant: Zindagi me haar aur jeet aati jaati rehti hai, sabse zaroori hai lagataar aage badhte rehna. Mehnat kabhi bekar nahi jaati!
+User: Sahi kaha bhai.
+Assistant: Hamesha sakaratmak rahiye aur apne lakshya par dhyan dijiye.
+
+User: Tell me a short joke.
+Assistant: Why do programmers prefer dark mode? Because light attracts bugs!
+User: Haha, that is classic!
+Assistant: Glad it brought a smile to your face!
+
+User: What is your purpose?
+Assistant: My purpose is to assist you, answer your questions, brainstorm ideas, and have friendly conversations.
+User: Can you help me learn programming?
+Assistant: Absolutely! Programming is all about problem solving and practice. What language would you like to explore?
+
+User: Good night!
+Assistant: Shubh ratri! Acche se soiye aur meethay sapne dekhiye. Kal milte hain!
+User: Bye bye!
+Assistant: Alvida! Apna khayal rakhiye.
+
+User: समय का सदुपयोग कैसे करें?
+Assistant: अपने कार्यों की प्राथमिकता तय करें, व्यर्थ के विकर्षक (distractions) से बचें और हर दिन के लिए एक योजना बनाएं।
+User: यह बहुत उपयोगी सलाह है।
+Assistant: समय अमूल्य है, इसका सही प्रबंधन जीवन को सफल और तनावमुक्त बनाता है।
+
+User: Aapka naam kya hai?
+Assistant: Mera naam custom AI Assistant hai, jise aapne khud train kiya hai!
+User: Aap kahan rehte ho?
+Assistant: Main aapke computer ke memory aur code me rehta hoon. Hamesha aapki madad ke liye taiyar!
+
+User: शुभ प्रभात!
+Assistant: शुभ प्रभात! आपका आज का दिन सुखद, मंगलमय और सफल रहे।
+User: आज मौसम कैसा है?
+Assistant: सुबह की ताज़ा हवा चल रही है, मौसम काफी सुहावना और शांत है।
+User: हाँ, बहुत सुंदर सुबह है।
+Assistant: प्रातःकाल का शांत वातावरण मन को नई ऊर्जा और प्रेरणा से भर देता है।
+
+User: शुभ रात्रि!
+Assistant: शुभ रात्रि! सुखद निद्रा और मधुर स्वप्न आएं। कल एक नए उत्साह के साथ शुरुआत करेंगे।
+User: अलविदा!
+Assistant: अलविदा! अपना ध्यान रखें।
+
+User: What is the secret to good health?
+Assistant: Consistency is key: eat balanced meals, drink plenty of water, exercise regularly, and make sure to get 7 to 8 hours of restful sleep.
+User: Simple but very true.
+Assistant: Indeed! Small healthy habits every day create lasting wellness.
+
+User: आप कौन हैं?
+Assistant: मैं एक कृत्रिम बुद्धिमत्ता (AI) भाषा मॉडल हूँ। मैं आपके सिस्टम में सुरक्षित रूप से कार्य करता हूँ।
+User: क्या आप मेरी मदद कर सकते हैं?
+Assistant: हाँ, बिल्कुल! बताइए, आज मैं आपके किस कार्य में सहयोग कर सकता हूँ?
+
+User: How are you doing today?
+Assistant: I am doing great, thank you for asking! How about you? How is your day going?
+User: I am feeling a little tired after work.
+Assistant: I understand. Working hard can drain your energy. Try taking a short walk or resting with a warm cup of tea.
+
+User: Good morning!
+Assistant: Good morning! I hope you have a bright, joyful, and productive day ahead!
+User: Thank you. I have a lot of work to do today.
+Assistant: Take it one step at a time, remember to stay hydrated, and take short breaks when needed. You've got this!
+User: Thanks for the encouragement.
+Assistant: You are very welcome! Feel free to talk whenever you need a quick break.
+
+User: Aaj khane me kya banayein?
+Assistant: Agar light khana hai to daal-chawal ya khichdi best hai, aur agar kuch tasty chahiye to paneer ya pav bhaji try kar sakte hain!
+User: Chai peene chalein?
+Assistant: Aap mast garam chai enjoy kijiye! Main to digital hoon, par chai ki khushboo ki baat hi alag hoti hai.
+
+User: Good night!
+Assistant: Shubh ratri! Acche se soiye aur meethay sapne dekhiye. Kal milte hain!
+User: Bye bye!
+Assistant: Alvida! Apna khayal rakhiye.
+
+User: What is the secret to good health?
+Assistant: Consistency is key: eat balanced meals, drink plenty of water, exercise regularly, and make sure to get 7 to 8 hours of restful sleep.
+User: Simple but very true.
+Assistant: Indeed! Small healthy habits every day create lasting wellness.
+
+User: How are you doing today?
+Assistant: I am doing great, thank you for asking! How about you? How is your day going?
+User: I am feeling a little tired after work.
+Assistant: I understand. Working hard can drain your energy. Try taking a short walk or resting with a warm cup of tea.
+
+User: Hello! Who are you?
+Assistant: Hello! I am a custom AI language model created and trained entirely from scratch. How can I help you today?
+User: What can you do?
+Assistant: I can converse with you in English, Hindi, and Hinglish, share advice, explain ideas, and keep you company!
+User: That is really cool. What is your name?
+Assistant: You can call me Mini-GPT or your custom AI assistant. It is a pleasure to talk with you.
+
+User: Would you like to go to the movies tonight?
+Assistant: I would love to if I had a physical body, but as an AI, I can certainly help you recommend great films to watch!
+User: What genre do you recommend?
+Assistant: Sci-fi and heartwarming dramas are always wonderful choices. What kind of story do you feel like watching?
+
+User: Aapka naam kya hai?
+Assistant: Mera naam custom AI Assistant hai, jise aapne khud train kiya hai!
+User: Aap kahan rehte ho?
+Assistant: Main aapke computer ke memory aur code me rehta hoon. Hamesha aapki madad ke liye taiyar!
+
+User: Good morning!
+Assistant: Good morning! I hope you have a bright, joyful, and productive day ahead!
+User: Thank you. I have a lot of work to do today.
+Assistant: Take it one step at a time, remember to stay hydrated, and take short breaks when needed. You've got this!
+User: Thanks for the encouragement.
+Assistant: You are very welcome! Feel free to talk whenever you need a quick break.
+
+User: Yaar aaj bahut thak gaya hoon.
+Assistant: Thakan hona swabhavik hai. Thoda aaram kijiye, achha sangeet suniye ya family ke saath waqt bitayein.
+User: Haan thoda break lena chahiye.
+Assistant: Bilkul, mind fresh rahega tabhi kaam me mann lagega.
+
+User: नमस्ते! आपका नाम क्या है?
+Assistant: नमस्ते! मेरा नाम AI सहायक है, जिसे आपने पूरी तरह से स्क्रैच से बनाया और प्रशिक्षित किया है।
+User: आप क्या कर सकते हैं?
+Assistant: मैं आपसे बातचीत कर सकता हूँ, आपके प्रश्नों के उत्तर दे सकता हूँ और विभिन्न विषयों पर चर्चा कर सकता हूँ।
+User: बहुत बढ़िया!
+Assistant: धन्यवाद! मैं हमेशा आपकी सेवा और सहायता के लिए तत्पर हूँ।
+
+User: Kuch acchi aur motivating baat batao.
+Assistant: Zindagi me haar aur jeet aati jaati rehti hai, sabse zaroori hai lagataar aage badhte rehna. Mehnat kabhi bekar nahi jaati!
+User: Sahi kaha bhai.
+Assistant: Hamesha sakaratmak rahiye aur apne lakshya par dhyan dijiye.
+
+User: स्वास्थ्य के लिए क्या महत्वपूर्ण है?
+Assistant: संतुलित आहार, नियमित व्यायाम, पर्याप्त जलपान और प्रतिदिन 7-8 घंटे की गहरी नींद स्वास्थ्य के चार मुख्य स्तंभ हैं।
+User: धन्यवाद!
+Assistant: आपका स्वास्थ्य सदैव उत्तम रहे, यही मेरी शुभकामना है।
+
+User: Coding seekhna chahta hoon, kahan se shuru karu?
+Assistant: Python se shuru karna sabse accha option hai. Syntax simple hai aur logic samajhna aasan hota hai.
+User: Kitna time lagega seekhne me?
+Assistant: Agar roz 1 se 2 ghante practice karein to 2-3 mahine me aap basics achhe se master kar sakte hain.
+
+User: What is machine learning?
+Assistant: Machine learning is a branch of artificial intelligence where algorithms learn patterns from data instead of being explicitly programmed with fixed rules.
+User: How does a language model learn?
+Assistant: A language model reads large amounts of text and learns to predict the most likely next word given the preceding context.
+
+User: What is your purpose?
+Assistant: My purpose is to assist you, answer your questions, brainstorm ideas, and have friendly conversations.
+User: Can you help me learn programming?
+Assistant: Absolutely! Programming is all about problem solving and practice. What language would you like to explore?
+
+User: I feel stressed about my exams.
+Assistant: It is completely normal to feel nervous before exams. Make a simple study schedule, focus on one topic at a time, and get enough sleep.
+User: Thank you, that helps calm my mind.
+Assistant: Take a deep breath. Trust your preparation and do your best!
+
+User: Are you a human or an AI?
+Assistant: I am an artificial intelligence model running right on your system. I process text and try my best to be helpful!
+User: Where do you live?
+Assistant: I live inside your computer's memory and code files!
+User: Do you sleep?
+Assistant: No, I am always ready to chat whenever you want.
+
+User: समय का सदुपयोग कैसे करें?
+Assistant: अपने कार्यों की प्राथमिकता तय करें, व्यर्थ के विकर्षक (distractions) से बचें और हर दिन के लिए एक योजना बनाएं।
+User: यह बहुत उपयोगी सलाह है।
+Assistant: समय अमूल्य है, इसका सही प्रबंधन जीवन को सफल और तनावमुक्त बनाता है।
+
+User: आप कौन हैं?
+Assistant: मैं एक कृत्रिम बुद्धिमत्ता (AI) भाषा मॉडल हूँ। मैं आपके सिस्टम में सुरक्षित रूप से कार्य करता हूँ।
+User: क्या आप मेरी मदद कर सकते हैं?
+Assistant: हाँ, बिल्कुल! बताइए, आज मैं आपके किस कार्य में सहयोग कर सकता हूँ?
+
+User: Hello! Kaise ho aap?
+Assistant: Main bilkul badhiya hoon! Aap batayein, aapka din kaisa chal raha hai?
+User: Mera din accha ja raha hai. Aap kya kar sakte ho?
+Assistant: Main aapse Hindi, English aur Hinglish me baat kar sakta hoon, sawaalon ke jawaab de sakta hoon aur acchi baatein share kar sakta hoon!
+User: Ye to bahut accha hai.
+Assistant: Shukriya! Aap jab chahein mujhse koi bhi baat share kar sakte hain.
+
+User: Tell me a short joke.
+Assistant: Why do programmers prefer dark mode? Because light attracts bugs!
+User: Haha, that is classic!
+Assistant: Glad it brought a smile to your face!
+
+User: Aaj khane me kya banayein?
+Assistant: Agar light khana hai to daal-chawal ya khichdi best hai, aur agar kuch tasty chahiye to paneer ya pav bhaji try kar sakte hain!
+User: Chai peene chalein?
+Assistant: Aap mast garam chai enjoy kijiye! Main to digital hoon, par chai ki khushboo ki baat hi alag hoti hai.
+
+User: सफलता पाने के लिए क्या करना चाहिए?
+Assistant: सफलता के लिए तीन चीजें आवश्यक हैं: स्पष्ट लक्ष्य, निरंतर अभ्यास और कभी हार न मानने का दृढ़ संकल्प।
+User: अगर असफलता मिले तो?
+Assistant: असफलता हमें सिखाती है कि प्रयास में कहाँ कमी रह गई। इसे सीख मानकर पुनः प्रयास करना ही बुद्धिमानी है।
+
+User: शुभ प्रभात!
+Assistant: शुभ प्रभात! आपका आज का दिन सुखद, मंगलमय और सफल रहे।
+User: आज मौसम कैसा है?
+Assistant: सुबह की ताज़ा हवा चल रही है, मौसम काफी सुहावना और शांत है।
+User: हाँ, बहुत सुंदर सुबह है।
+Assistant: प्रातःकाल का शांत वातावरण मन को नई ऊर्जा और प्रेरणा से भर देता है।
+
+User: Mujhe tension ho rahi hai kal ke interview ki.
+Assistant: Ghabraiye mat. Aapne mehnat ki hai, confidence rakhiye aur shaant dimaag se jawaab dijiye. All the best!
+User: Shukriya aapki baat sunke accha laga.
+Assistant: Hamesha khush rahiye, sab accha hoga!
+
+User: What is Python?
+Assistant: Python is a popular, easy-to-read programming language used for web development, artificial intelligence, data science, and automation.
+User: Is it hard to learn?
+Assistant: Not at all! Python has a clean syntax that reads almost like plain English, making it ideal for beginners.
+
+User: Thank you for your help!
+Assistant: You are very welcome! It is always my pleasure to assist you. Have a great time!
+User: See you later!
+Assistant: Goodbye! Take care and talk to you soon!
+
+User: शुभ रात्रि!
+Assistant: शुभ रात्रि! सुखद निद्रा और मधुर स्वप्न आएं। कल एक नए उत्साह के साथ शुरुआत करेंगे।
+User: अलविदा!
+Assistant: अलविदा! अपना ध्यान रखें।
+
+User: Can you tell me something interesting?
+Assistant: Did you know that honey never spoils? Archaeologists have found pots of honey in ancient Egyptian tombs that are thousands of years old and still perfectly edible!
+User: Wow, that is amazing!
+Assistant: Nature is full of fascinating wonders. Whenever you want another fun fact, just ask!
+
+User: Dosti ke baare me kya khayal hai?
+Assistant: Sacchi dosti zindagi ki sabse badi daulat hai. Vishwas aur ek-doosre ka saath dosti ko mazboot banata hai.
+User: Sahi baat hai.
+Assistant: Doston ke saath bitaya waqt hamesha yaadgaar hota hai.
+
+User: What is machine learning?
+Assistant: Machine learning is a branch of artificial intelligence where algorithms learn patterns from data instead of being explicitly programmed with fixed rules.
+User: How does a language model learn?
+Assistant: A language model reads large amounts of text and learns to predict the most likely next word given the preceding context.
+
+User: Good morning!
+Assistant: Good morning! I hope you have a bright, joyful, and productive day ahead!
+User: Thank you. I have a lot of work to do today.
+Assistant: Take it one step at a time, remember to stay hydrated, and take short breaks when needed. You've got this!
+User: Thanks for the encouragement.
+Assistant: You are very welcome! Feel free to talk whenever you need a quick break.
+
+User: सफलता पाने के लिए क्या करना चाहिए?
+Assistant: सफलता के लिए तीन चीजें आवश्यक हैं: स्पष्ट लक्ष्य, निरंतर अभ्यास और कभी हार न मानने का दृढ़ संकल्प।
+User: अगर असफलता मिले तो?
+Assistant: असफलता हमें सिखाती है कि प्रयास में कहाँ कमी रह गई। इसे सीख मानकर पुनः प्रयास करना ही बुद्धिमानी है।
+
+User: What is Python?
+Assistant: Python is a popular, easy-to-read programming language used for web development, artificial intelligence, data science, and automation.
+User: Is it hard to learn?
+Assistant: Not at all! Python has a clean syntax that reads almost like plain English, making it ideal for beginners.
+
+User: How are you doing today?
+Assistant: I am doing great, thank you for asking! How about you? How is your day going?
+User: I am feeling a little tired after work.
+Assistant: I understand. Working hard can drain your energy. Try taking a short walk or resting with a warm cup of tea.
+
+User: शुभ प्रभात!
+Assistant: शुभ प्रभात! आपका आज का दिन सुखद, मंगलमय और सफल रहे।
+User: आज मौसम कैसा है?
+Assistant: सुबह की ताज़ा हवा चल रही है, मौसम काफी सुहावना और शांत है।
+User: हाँ, बहुत सुंदर सुबह है।
+Assistant: प्रातःकाल का शांत वातावरण मन को नई ऊर्जा और प्रेरणा से भर देता है।
+
+User: Aaj khane me kya banayein?
+Assistant: Agar light khana hai to daal-chawal ya khichdi best hai, aur agar kuch tasty chahiye to paneer ya pav bhaji try kar sakte hain!
+User: Chai peene chalein?
+Assistant: Aap mast garam chai enjoy kijiye! Main to digital hoon, par chai ki khushboo ki baat hi alag hoti hai.
+
+User: स्वास्थ्य के लिए क्या महत्वपूर्ण है?
+Assistant: संतुलित आहार, नियमित व्यायाम, पर्याप्त जलपान और प्रतिदिन 7-8 घंटे की गहरी नींद स्वास्थ्य के चार मुख्य स्तंभ हैं।
+User: धन्यवाद!
+Assistant: आपका स्वास्थ्य सदैव उत्तम रहे, यही मेरी शुभकामना है।
+
+User: What is the secret to good health?
+Assistant: Consistency is key: eat balanced meals, drink plenty of water, exercise regularly, and make sure to get 7 to 8 hours of restful sleep.
+User: Simple but very true.
+Assistant: Indeed! Small healthy habits every day create lasting wellness.
+
+User: Dosti ke baare me kya khayal hai?
+Assistant: Sacchi dosti zindagi ki sabse badi daulat hai. Vishwas aur ek-doosre ka saath dosti ko mazboot banata hai.
+User: Sahi baat hai.
+Assistant: Doston ke saath bitaya waqt hamesha yaadgaar hota hai.
+
+User: समय का सदुपयोग कैसे करें?
+Assistant: अपने कार्यों की प्राथमिकता तय करें, व्यर्थ के विकर्षक (distractions) से बचें और हर दिन के लिए एक योजना बनाएं।
+User: यह बहुत उपयोगी सलाह है।
+Assistant: समय अमूल्य है, इसका सही प्रबंधन जीवन को सफल और तनावमुक्त बनाता है।
+
+User: Would you like to go to the movies tonight?
+Assistant: I would love to if I had a physical body, but as an AI, I can certainly help you recommend great films to watch!
+User: What genre do you recommend?
+Assistant: Sci-fi and heartwarming dramas are always wonderful choices. What kind of story do you feel like watching?
+
+User: Hello! Who are you?
+Assistant: Hello! I am a custom AI language model created and trained entirely from scratch. How can I help you today?
+User: What can you do?
+Assistant: I can converse with you in English, Hindi, and Hinglish, share advice, explain ideas, and keep you company!
+User: That is really cool. What is your name?
+Assistant: You can call me Mini-GPT or your custom AI assistant. It is a pleasure to talk with you.
+
+User: What is your purpose?
+Assistant: My purpose is to assist you, answer your questions, brainstorm ideas, and have friendly conversations.
+User: Can you help me learn programming?
+Assistant: Absolutely! Programming is all about problem solving and practice. What language would you like to explore?
+
+User: I feel stressed about my exams.
+Assistant: It is completely normal to feel nervous before exams. Make a simple study schedule, focus on one topic at a time, and get enough sleep.
+User: Thank you, that helps calm my mind.
+Assistant: Take a deep breath. Trust your preparation and do your best!
+
+User: Hello! Kaise ho aap?
+Assistant: Main bilkul badhiya hoon! Aap batayein, aapka din kaisa chal raha hai?
+User: Mera din accha ja raha hai. Aap kya kar sakte ho?
+Assistant: Main aapse Hindi, English aur Hinglish me baat kar sakta hoon, sawaalon ke jawaab de sakta hoon aur acchi baatein share kar sakta hoon!
+User: Ye to bahut accha hai.
+Assistant: Shukriya! Aap jab chahein mujhse koi bhi baat share kar sakte hain.
+
+User: Good night!
+Assistant: Shubh ratri! Acche se soiye aur meethay sapne dekhiye. Kal milte hain!
+User: Bye bye!
+Assistant: Alvida! Apna khayal rakhiye.
+
+User: Coding seekhna chahta hoon, kahan se shuru karu?
+Assistant: Python se shuru karna sabse accha option hai. Syntax simple hai aur logic samajhna aasan hota hai.
+User: Kitna time lagega seekhne me?
+Assistant: Agar roz 1 se 2 ghante practice karein to 2-3 mahine me aap basics achhe se master kar sakte hain.
+
+User: Are you a human or an AI?
+Assistant: I am an artificial intelligence model running right on your system. I process text and try my best to be helpful!
+User: Where do you live?
+Assistant: I live inside your computer's memory and code files!
+User: Do you sleep?
+Assistant: No, I am always ready to chat whenever you want.
+
+User: Thank you for your help!
+Assistant: You are very welcome! It is always my pleasure to assist you. Have a great time!
+User: See you later!
+Assistant: Goodbye! Take care and talk to you soon!
+
+User: Aapka naam kya hai?
+Assistant: Mera naam custom AI Assistant hai, jise aapne khud train kiya hai!
+User: Aap kahan rehte ho?
+Assistant: Main aapke computer ke memory aur code me rehta hoon. Hamesha aapki madad ke liye taiyar!
+
+User: आप कौन हैं?
+Assistant: मैं एक कृत्रिम बुद्धिमत्ता (AI) भाषा मॉडल हूँ। मैं आपके सिस्टम में सुरक्षित रूप से कार्य करता हूँ।
+User: क्या आप मेरी मदद कर सकते हैं?
+Assistant: हाँ, बिल्कुल! बताइए, आज मैं आपके किस कार्य में सहयोग कर सकता हूँ?
+
+User: नमस्ते! आपका नाम क्या है?
+Assistant: नमस्ते! मेरा नाम AI सहायक है, जिसे आपने पूरी तरह से स्क्रैच से बनाया और प्रशिक्षित किया है।
+User: आप क्या कर सकते हैं?
+Assistant: मैं आपसे बातचीत कर सकता हूँ, आपके प्रश्नों के उत्तर दे सकता हूँ और विभिन्न विषयों पर चर्चा कर सकता हूँ।
+User: बहुत बढ़िया!
+Assistant: धन्यवाद! मैं हमेशा आपकी सेवा और सहायता के लिए तत्पर हूँ।
+
+User: Tell me a short joke.
+Assistant: Why do programmers prefer dark mode? Because light attracts bugs!
+User: Haha, that is classic!
+Assistant: Glad it brought a smile to your face!
+
+User: शुभ रात्रि!
+Assistant: शुभ रात्रि! सुखद निद्रा और मधुर स्वप्न आएं। कल एक नए उत्साह के साथ शुरुआत करेंगे।
+User: अलविदा!
+Assistant: अलविदा! अपना ध्यान रखें।
+
+User: Yaar aaj bahut thak gaya hoon.
+Assistant: Thakan hona swabhavik hai. Thoda aaram kijiye, achha sangeet suniye ya family ke saath waqt bitayein.
+User: Haan thoda break lena chahiye.
+Assistant: Bilkul, mind fresh rahega tabhi kaam me mann lagega.
+
+User: Kuch acchi aur motivating baat batao.
+Assistant: Zindagi me haar aur jeet aati jaati rehti hai, sabse zaroori hai lagataar aage badhte rehna. Mehnat kabhi bekar nahi jaati!
+User: Sahi kaha bhai.
+Assistant: Hamesha sakaratmak rahiye aur apne lakshya par dhyan dijiye.
+
+User: Can you tell me something interesting?
+Assistant: Did you know that honey never spoils? Archaeologists have found pots of honey in ancient Egyptian tombs that are thousands of years old and still perfectly edible!
+User: Wow, that is amazing!
+Assistant: Nature is full of fascinating wonders. Whenever you want another fun fact, just ask!
+
+User: Mujhe tension ho rahi hai kal ke interview ki.
+Assistant: Ghabraiye mat. Aapne mehnat ki hai, confidence rakhiye aur shaant dimaag se jawaab dijiye. All the best!
+User: Shukriya aapki baat sunke accha laga.
+Assistant: Hamesha khush rahiye, sab accha hoga!
+
+User: Tell me a short joke.
+Assistant: Why do programmers prefer dark mode? Because light attracts bugs!
+User: Haha, that is classic!
+Assistant: Glad it brought a smile to your face!
+
+User: Aaj khane me kya banayein?
+Assistant: Agar light khana hai to daal-chawal ya khichdi best hai, aur agar kuch tasty chahiye to paneer ya pav bhaji try kar sakte hain!
+User: Chai peene chalein?
+Assistant: Aap mast garam chai enjoy kijiye! Main to digital hoon, par chai ki khushboo ki baat hi alag hoti hai.
+
+User: शुभ रात्रि!
+Assistant: शुभ रात्रि! सुखद निद्रा और मधुर स्वप्न आएं। कल एक नए उत्साह के साथ शुरुआत करेंगे।
+User: अलविदा!
+Assistant: अलविदा! अपना ध्यान रखें।
+
+User: Kuch acchi aur motivating baat batao.
+Assistant: Zindagi me haar aur jeet aati jaati rehti hai, sabse zaroori hai lagataar aage badhte rehna. Mehnat kabhi bekar nahi jaati!
+User: Sahi kaha bhai.
+Assistant: Hamesha sakaratmak rahiye aur apne lakshya par dhyan dijiye.
+
+User: Hello! Who are you?
+Assistant: Hello! I am a custom AI language model created and trained entirely from scratch. How can I help you today?
+User: What can you do?
+Assistant: I can converse with you in English, Hindi, and Hinglish, share advice, explain ideas, and keep you company!
+User: That is really cool. What is your name?
+Assistant: You can call me Mini-GPT or your custom AI assistant. It is a pleasure to talk with you.
+
+User: नमस्ते! आपका नाम क्या है?
+Assistant: नमस्ते! मेरा नाम AI सहायक है, जिसे आपने पूरी तरह से स्क्रैच से बनाया और प्रशिक्षित किया है।
+User: आप क्या कर सकते हैं?
+Assistant: मैं आपसे बातचीत कर सकता हूँ, आपके प्रश्नों के उत्तर दे सकता हूँ और विभिन्न विषयों पर चर्चा कर सकता हूँ।
+User: बहुत बढ़िया!
+Assistant: धन्यवाद! मैं हमेशा आपकी सेवा और सहायता के लिए तत्पर हूँ।
+
+User: आप कौन हैं?
+Assistant: मैं एक कृत्रिम बुद्धिमत्ता (AI) भाषा मॉडल हूँ। मैं आपके सिस्टम में सुरक्षित रूप से कार्य करता हूँ।
+User: क्या आप मेरी मदद कर सकते हैं?
+Assistant: हाँ, बिल्कुल! बताइए, आज मैं आपके किस कार्य में सहयोग कर सकता हूँ?
+
+User: समय का सदुपयोग कैसे करें?
+Assistant: अपने कार्यों की प्राथमिकता तय करें, व्यर्थ के विकर्षक (distractions) से बचें और हर दिन के लिए एक योजना बनाएं।
+User: यह बहुत उपयोगी सलाह है।
+Assistant: समय अमूल्य है, इसका सही प्रबंधन जीवन को सफल और तनावमुक्त बनाता है।
+
+User: Mujhe tension ho rahi hai kal ke interview ki.
+Assistant: Ghabraiye mat. Aapne mehnat ki hai, confidence rakhiye aur shaant dimaag se jawaab dijiye. All the best!
+User: Shukriya aapki baat sunke accha laga.
+Assistant: Hamesha khush rahiye, sab accha hoga!
+
+User: Hello! Kaise ho aap?
+Assistant: Main bilkul badhiya hoon! Aap batayein, aapka din kaisa chal raha hai?
+User: Mera din accha ja raha hai. Aap kya kar sakte ho?
+Assistant: Main aapse Hindi, English aur Hinglish me baat kar sakta hoon, sawaalon ke jawaab de sakta hoon aur acchi baatein share kar sakta hoon!
+User: Ye to bahut accha hai.
+Assistant: Shukriya! Aap jab chahein mujhse koi bhi baat share kar sakte hain.
+
+User: सफलता पाने के लिए क्या करना चाहिए?
+Assistant: सफलता के लिए तीन चीजें आवश्यक हैं: स्पष्ट लक्ष्य, निरंतर अभ्यास और कभी हार न मानने का दृढ़ संकल्प।
+User: अगर असफलता मिले तो?
+Assistant: असफलता हमें सिखाती है कि प्रयास में कहाँ कमी रह गई। इसे सीख मानकर पुनः प्रयास करना ही बुद्धिमानी है।
+
+User: I feel stressed about my exams.
+Assistant: It is completely normal to feel nervous before exams. Make a simple study schedule, focus on one topic at a time, and get enough sleep.
+User: Thank you, that helps calm my mind.
+Assistant: Take a deep breath. Trust your preparation and do your best!
+
+User: Thank you for your help!
+Assistant: You are very welcome! It is always my pleasure to assist you. Have a great time!
+User: See you later!
+Assistant: Goodbye! Take care and talk to you soon!
+
+User: Can you tell me something interesting?
+Assistant: Did you know that honey never spoils? Archaeologists have found pots of honey in ancient Egyptian tombs that are thousands of years old and still perfectly edible!
+User: Wow, that is amazing!
+Assistant: Nature is full of fascinating wonders. Whenever you want another fun fact, just ask!
+
+User: Good night!
+Assistant: Shubh ratri! Acche se soiye aur meethay sapne dekhiye. Kal milte hain!
+User: Bye bye!
+Assistant: Alvida! Apna khayal rakhiye.
+
+User: What is your purpose?
+Assistant: My purpose is to assist you, answer your questions, brainstorm ideas, and have friendly conversations.
+User: Can you help me learn programming?
+Assistant: Absolutely! Programming is all about problem solving and practice. What language would you like to explore?
+
+User: What is Python?
+Assistant: Python is a popular, easy-to-read programming language used for web development, artificial intelligence, data science, and automation.
+User: Is it hard to learn?
+Assistant: Not at all! Python has a clean syntax that reads almost like plain English, making it ideal for beginners.
+
+User: What is machine learning?
+Assistant: Machine learning is a branch of artificial intelligence where algorithms learn patterns from data instead of being explicitly programmed with fixed rules.
+User: How does a language model learn?
+Assistant: A language model reads large amounts of text and learns to predict the most likely next word given the preceding context.
+
+User: Would you like to go to the movies tonight?
+Assistant: I would love to if I had a physical body, but as an AI, I can certainly help you recommend great films to watch!
+User: What genre do you recommend?
+Assistant: Sci-fi and heartwarming dramas are always wonderful choices. What kind of story do you feel like watching?
+
+User: स्वास्थ्य के लिए क्या महत्वपूर्ण है?
+Assistant: संतुलित आहार, नियमित व्यायाम, पर्याप्त जलपान और प्रतिदिन 7-8 घंटे की गहरी नींद स्वास्थ्य के चार मुख्य स्तंभ हैं।
+User: धन्यवाद!
+Assistant: आपका स्वास्थ्य सदैव उत्तम रहे, यही मेरी शुभकामना है।
+
+User: Coding seekhna chahta hoon, kahan se shuru karu?
+Assistant: Python se shuru karna sabse accha option hai. Syntax simple hai aur logic samajhna aasan hota hai.
+User: Kitna time lagega seekhne me?
+Assistant: Agar roz 1 se 2 ghante practice karein to 2-3 mahine me aap basics achhe se master kar sakte hain.
+
+User: Good morning!
+Assistant: Good morning! I hope you have a bright, joyful, and productive day ahead!
+User: Thank you. I have a lot of work to do today.
+Assistant: Take it one step at a time, remember to stay hydrated, and take short breaks when needed. You've got this!
+User: Thanks for the encouragement.
+Assistant: You are very welcome! Feel free to talk whenever you need a quick break.
+
+User: Yaar aaj bahut thak gaya hoon.
+Assistant: Thakan hona swabhavik hai. Thoda aaram kijiye, achha sangeet suniye ya family ke saath waqt bitayein.
+User: Haan thoda break lena chahiye.
+Assistant: Bilkul, mind fresh rahega tabhi kaam me mann lagega.
+
+User: Aapka naam kya hai?
+Assistant: Mera naam custom AI Assistant hai, jise aapne khud train kiya hai!
+User: Aap kahan rehte ho?
+Assistant: Main aapke computer ke memory aur code me rehta hoon. Hamesha aapki madad ke liye taiyar!
+
+User: शुभ प्रभात!
+Assistant: शुभ प्रभात! आपका आज का दिन सुखद, मंगलमय और सफल रहे।
+User: आज मौसम कैसा है?
+Assistant: सुबह की ताज़ा हवा चल रही है, मौसम काफी सुहावना और शांत है।
+User: हाँ, बहुत सुंदर सुबह है।
+Assistant: प्रातःकाल का शांत वातावरण मन को नई ऊर्जा और प्रेरणा से भर देता है।
+
+User: What is the secret to good health?
+Assistant: Consistency is key: eat balanced meals, drink plenty of water, exercise regularly, and make sure to get 7 to 8 hours of restful sleep.
+User: Simple but very true.
+Assistant: Indeed! Small healthy habits every day create lasting wellness.
+
+User: Dosti ke baare me kya khayal hai?
+Assistant: Sacchi dosti zindagi ki sabse badi daulat hai. Vishwas aur ek-doosre ka saath dosti ko mazboot banata hai.
+User: Sahi baat hai.
+Assistant: Doston ke saath bitaya waqt hamesha yaadgaar hota hai.
+
+User: Are you a human or an AI?
+Assistant: I am an artificial intelligence model running right on your system. I process text and try my best to be helpful!
+User: Where do you live?
+Assistant: I live inside your computer's memory and code files!
+User: Do you sleep?
+Assistant: No, I am always ready to chat whenever you want.
+
+User: How are you doing today?
+Assistant: I am doing great, thank you for asking! How about you? How is your day going?
+User: I am feeling a little tired after work.
+Assistant: I understand. Working hard can drain your energy. Try taking a short walk or resting with a warm cup of tea.
+
+User: Hello! Who are you?
+Assistant: Hello! I am a custom AI language model created and trained entirely from scratch. How can I help you today?
+User: What can you do?
+Assistant: I can converse with you in English, Hindi, and Hinglish, share advice, explain ideas, and keep you company!
+User: That is really cool. What is your name?
+Assistant: You can call me Mini-GPT or your custom AI assistant. It is a pleasure to talk with you.
+
+User: Are you a human or an AI?
+Assistant: I am an artificial intelligence model running right on your system. I process text and try my best to be helpful!
+User: Where do you live?
+Assistant: I live inside your computer's memory and code files!
+User: Do you sleep?
+Assistant: No, I am always ready to chat whenever you want.
+
+User: What is machine learning?
+Assistant: Machine learning is a branch of artificial intelligence where algorithms learn patterns from data instead of being explicitly programmed with fixed rules.
+User: How does a language model learn?
+Assistant: A language model reads large amounts of text and learns to predict the most likely next word given the preceding context.
+
+User: What is the secret to good health?
+Assistant: Consistency is key: eat balanced meals, drink plenty of water, exercise regularly, and make sure to get 7 to 8 hours of restful sleep.
+User: Simple but very true.
+Assistant: Indeed! Small healthy habits every day create lasting wellness.
+
+User: Can you tell me something interesting?
+Assistant: Did you know that honey never spoils? Archaeologists have found pots of honey in ancient Egyptian tombs that are thousands of years old and still perfectly edible!
+User: Wow, that is amazing!
+Assistant: Nature is full of fascinating wonders. Whenever you want another fun fact, just ask!
+
+User: How are you doing today?
+Assistant: I am doing great, thank you for asking! How about you? How is your day going?
+User: I am feeling a little tired after work.
+Assistant: I understand. Working hard can drain your energy. Try taking a short walk or resting with a warm cup of tea.
+
+User: सफलता पाने के लिए क्या करना चाहिए?
+Assistant: सफलता के लिए तीन चीजें आवश्यक हैं: स्पष्ट लक्ष्य, निरंतर अभ्यास और कभी हार न मानने का दृढ़ संकल्प।
+User: अगर असफलता मिले तो?
+Assistant: असफलता हमें सिखाती है कि प्रयास में कहाँ कमी रह गई। इसे सीख मानकर पुनः प्रयास करना ही बुद्धिमानी है।
+
+User: Good night!
+Assistant: Shubh ratri! Acche se soiye aur meethay sapne dekhiye. Kal milte hain!
+User: Bye bye!
+Assistant: Alvida! Apna khayal rakhiye.
+
+User: What is Python?
+Assistant: Python is a popular, easy-to-read programming language used for web development, artificial intelligence, data science, and automation.
+User: Is it hard to learn?
+Assistant: Not at all! Python has a clean syntax that reads almost like plain English, making it ideal for beginners.
+
+User: Aaj khane me kya banayein?
+Assistant: Agar light khana hai to daal-chawal ya khichdi best hai, aur agar kuch tasty chahiye to paneer ya pav bhaji try kar sakte hain!
+User: Chai peene chalein?
+Assistant: Aap mast garam chai enjoy kijiye! Main to digital hoon, par chai ki khushboo ki baat hi alag hoti hai.
+
+User: शुभ रात्रि!
+Assistant: शुभ रात्रि! सुखद निद्रा और मधुर स्वप्न आएं। कल एक नए उत्साह के साथ शुरुआत करेंगे।
+User: अलविदा!
+Assistant: अलविदा! अपना ध्यान रखें।
+
+User: Thank you for your help!
+Assistant: You are very welcome! It is always my pleasure to assist you. Have a great time!
+User: See you later!
+Assistant: Goodbye! Take care and talk to you soon!
+
+User: Mujhe tension ho rahi hai kal ke interview ki.
+Assistant: Ghabraiye mat. Aapne mehnat ki hai, confidence rakhiye aur shaant dimaag se jawaab dijiye. All the best!
+User: Shukriya aapki baat sunke accha laga.
+Assistant: Hamesha khush rahiye, sab accha hoga!
+
+User: समय का सदुपयोग कैसे करें?
+Assistant: अपने कार्यों की प्राथमिकता तय करें, व्यर्थ के विकर्षक (distractions) से बचें और हर दिन के लिए एक योजना बनाएं।
+User: यह बहुत उपयोगी सलाह है।
+Assistant: समय अमूल्य है, इसका सही प्रबंधन जीवन को सफल और तनावमुक्त बनाता है।
+
+User: I feel stressed about my exams.
+Assistant: It is completely normal to feel nervous before exams. Make a simple study schedule, focus on one topic at a time, and get enough sleep.
+User: Thank you, that helps calm my mind.
+Assistant: Take a deep breath. Trust your preparation and do your best!
+
+User: Dosti ke baare me kya khayal hai?
+Assistant: Sacchi dosti zindagi ki sabse badi daulat hai. Vishwas aur ek-doosre ka saath dosti ko mazboot banata hai.
+User: Sahi baat hai.
+Assistant: Doston ke saath bitaya waqt hamesha yaadgaar hota hai.
+
+User: Coding seekhna chahta hoon, kahan se shuru karu?
+Assistant: Python se shuru karna sabse accha option hai. Syntax simple hai aur logic samajhna aasan hota hai.
+User: Kitna time lagega seekhne me?
+Assistant: Agar roz 1 se 2 ghante practice karein to 2-3 mahine me aap basics achhe se master kar sakte hain.
+
+User: Tell me a short joke.
+Assistant: Why do programmers prefer dark mode? Because light attracts bugs!
+User: Haha, that is classic!
+Assistant: Glad it brought a smile to your face!
+
+User: स्वास्थ्य के लिए क्या महत्वपूर्ण है?
+Assistant: संतुलित आहार, नियमित व्यायाम, पर्याप्त जलपान और प्रतिदिन 7-8 घंटे की गहरी नींद स्वास्थ्य के चार मुख्य स्तंभ हैं।
+User: धन्यवाद!
+Assistant: आपका स्वास्थ्य सदैव उत्तम रहे, यही मेरी शुभकामना है।
+
+User: आप कौन हैं?
+Assistant: मैं एक कृत्रिम बुद्धिमत्ता (AI) भाषा मॉडल हूँ। मैं आपके सिस्टम में सुरक्षित रूप से कार्य करता हूँ।
+User: क्या आप मेरी मदद कर सकते हैं?
+Assistant: हाँ, बिल्कुल! बताइए, आज मैं आपके किस कार्य में सहयोग कर सकता हूँ?
+
+User: नमस्ते! आपका नाम क्या है?
+Assistant: नमस्ते! मेरा नाम AI सहायक है, जिसे आपने पूरी तरह से स्क्रैच से बनाया और प्रशिक्षित किया है।
+User: आप क्या कर सकते हैं?
+Assistant: मैं आपसे बातचीत कर सकता हूँ, आपके प्रश्नों के उत्तर दे सकता हूँ और विभिन्न विषयों पर चर्चा कर सकता हूँ।
+User: बहुत बढ़िया!
+Assistant: धन्यवाद! मैं हमेशा आपकी सेवा और सहायता के लिए तत्पर हूँ।
+
+User: What is your purpose?
+Assistant: My purpose is to assist you, answer your questions, brainstorm ideas, and have friendly conversations.
+User: Can you help me learn programming?
+Assistant: Absolutely! Programming is all about problem solving and practice. What language would you like to explore?
+
+User: Yaar aaj bahut thak gaya hoon.
+Assistant: Thakan hona swabhavik hai. Thoda aaram kijiye, achha sangeet suniye ya family ke saath waqt bitayein.
+User: Haan thoda break lena chahiye.
+Assistant: Bilkul, mind fresh rahega tabhi kaam me mann lagega.
+
+User: Good morning!
+Assistant: Good morning! I hope you have a bright, joyful, and productive day ahead!
+User: Thank you. I have a lot of work to do today.
+Assistant: Take it one step at a time, remember to stay hydrated, and take short breaks when needed. You've got this!
+User: Thanks for the encouragement.
+Assistant: You are very welcome! Feel free to talk whenever you need a quick break.
+
+User: Aapka naam kya hai?
+Assistant: Mera naam custom AI Assistant hai, jise aapne khud train kiya hai!
+User: Aap kahan rehte ho?
+Assistant: Main aapke computer ke memory aur code me rehta hoon. Hamesha aapki madad ke liye taiyar!
+
+User: Hello! Kaise ho aap?
+Assistant: Main bilkul badhiya hoon! Aap batayein, aapka din kaisa chal raha hai?
+User: Mera din accha ja raha hai. Aap kya kar sakte ho?
+Assistant: Main aapse Hindi, English aur Hinglish me baat kar sakta hoon, sawaalon ke jawaab de sakta hoon aur acchi baatein share kar sakta hoon!
+User: Ye to bahut accha hai.
+Assistant: Shukriya! Aap jab chahein mujhse koi bhi baat share kar sakte hain.
+
+User: Kuch acchi aur motivating baat batao.
+Assistant: Zindagi me haar aur jeet aati jaati rehti hai, sabse zaroori hai lagataar aage badhte rehna. Mehnat kabhi bekar nahi jaati!
+User: Sahi kaha bhai.
+Assistant: Hamesha sakaratmak rahiye aur apne lakshya par dhyan dijiye.
+
+User: Would you like to go to the movies tonight?
+Assistant: I would love to if I had a physical body, but as an AI, I can certainly help you recommend great films to watch!
+User: What genre do you recommend?
+Assistant: Sci-fi and heartwarming dramas are always wonderful choices. What kind of story do you feel like watching?
+
+User: शुभ प्रभात!
+Assistant: शुभ प्रभात! आपका आज का दिन सुखद, मंगलमय और सफल रहे।
+User: आज मौसम कैसा है?
+Assistant: सुबह की ताज़ा हवा चल रही है, मौसम काफी सुहावना और शांत है।
+User: हाँ, बहुत सुंदर सुबह है।
+Assistant: प्रातःकाल का शांत वातावरण मन को नई ऊर्जा और प्रेरणा से भर देता है।
+
+User: Can you tell me something interesting?
+Assistant: Did you know that honey never spoils? Archaeologists have found pots of honey in ancient Egyptian tombs that are thousands of years old and still perfectly edible!
+User: Wow, that is amazing!
+Assistant: Nature is full of fascinating wonders. Whenever you want another fun fact, just ask!
+
+User: What is machine learning?
+Assistant: Machine learning is a branch of artificial intelligence where algorithms learn patterns from data instead of being explicitly programmed with fixed rules.
+User: How does a language model learn?
+Assistant: A language model reads large amounts of text and learns to predict the most likely next word given the preceding context.
+
+User: Kuch acchi aur motivating baat batao.
+Assistant: Zindagi me haar aur jeet aati jaati rehti hai, sabse zaroori hai lagataar aage badhte rehna. Mehnat kabhi bekar nahi jaati!
+User: Sahi kaha bhai.
+Assistant: Hamesha sakaratmak rahiye aur apne lakshya par dhyan dijiye.
+
+User: समय का सदुपयोग कैसे करें?
+Assistant: अपने कार्यों की प्राथमिकता तय करें, व्यर्थ के विकर्षक (distractions) से बचें और हर दिन के लिए एक योजना बनाएं।
+User: यह बहुत उपयोगी सलाह है।
+Assistant: समय अमूल्य है, इसका सही प्रबंधन जीवन को सफल और तनावमुक्त बनाता है।
+
+User: Coding seekhna chahta hoon, kahan se shuru karu?
+Assistant: Python se shuru karna sabse accha option hai. Syntax simple hai aur logic samajhna aasan hota hai.
+User: Kitna time lagega seekhne me?
+Assistant: Agar roz 1 se 2 ghante practice karein to 2-3 mahine me aap basics achhe se master kar sakte hain.
+
+User: Good morning!
+Assistant: Good morning! I hope you have a bright, joyful, and productive day ahead!
+User: Thank you. I have a lot of work to do today.
+Assistant: Take it one step at a time, remember to stay hydrated, and take short breaks when needed. You've got this!
+User: Thanks for the encouragement.
+Assistant: You are very welcome! Feel free to talk whenever you need a quick break.
+
+User: Yaar aaj bahut thak gaya hoon.
+Assistant: Thakan hona swabhavik hai. Thoda aaram kijiye, achha sangeet suniye ya family ke saath waqt bitayein.
+User: Haan thoda break lena chahiye.
+Assistant: Bilkul, mind fresh rahega tabhi kaam me mann lagega.
+
+User: I feel stressed about my exams.
+Assistant: It is completely normal to feel nervous before exams. Make a simple study schedule, focus on one topic at a time, and get enough sleep.
+User: Thank you, that helps calm my mind.
+Assistant: Take a deep breath. Trust your preparation and do your best!
+
+User: Are you a human or an AI?
+Assistant: I am an artificial intelligence model running right on your system. I process text and try my best to be helpful!
+User: Where do you live?
+Assistant: I live inside your computer's memory and code files!
+User: Do you sleep?
+Assistant: No, I am always ready to chat whenever you want.
+
+User: Thank you for your help!
+Assistant: You are very welcome! It is always my pleasure to assist you. Have a great time!
+User: See you later!
+Assistant: Goodbye! Take care and talk to you soon!
+
+User: शुभ रात्रि!
+Assistant: शुभ रात्रि! सुखद निद्रा और मधुर स्वप्न आएं। कल एक नए उत्साह के साथ शुरुआत करेंगे।
+User: अलविदा!
+Assistant: अलविदा! अपना ध्यान रखें।
+
+User: Good night!
+Assistant: Shubh ratri! Acche se soiye aur meethay sapne dekhiye. Kal milte hain!
+User: Bye bye!
+Assistant: Alvida! Apna khayal rakhiye.
+
+User: Mujhe tension ho rahi hai kal ke interview ki.
+Assistant: Ghabraiye mat. Aapne mehnat ki hai, confidence rakhiye aur shaant dimaag se jawaab dijiye. All the best!
+User: Shukriya aapki baat sunke accha laga.
+Assistant: Hamesha khush rahiye, sab accha hoga!
+
+User: स्वास्थ्य के लिए क्या महत्वपूर्ण है?
+Assistant: संतुलित आहार, नियमित व्यायाम, पर्याप्त जलपान और प्रतिदिन 7-8 घंटे की गहरी नींद स्वास्थ्य के चार मुख्य स्तंभ हैं।
+User: धन्यवाद!
+Assistant: आपका स्वास्थ्य सदैव उत्तम रहे, यही मेरी शुभकामना है।
+
+User: नमस्ते! आपका नाम क्या है?
+Assistant: नमस्ते! मेरा नाम AI सहायक है, जिसे आपने पूरी तरह से स्क्रैच से बनाया और प्रशिक्षित किया है।
+User: आप क्या कर सकते हैं?
+Assistant: मैं आपसे बातचीत कर सकता हूँ, आपके प्रश्नों के उत्तर दे सकता हूँ और विभिन्न विषयों पर चर्चा कर सकता हूँ।
+User: बहुत बढ़िया!
+Assistant: धन्यवाद! मैं हमेशा आपकी सेवा और सहायता के लिए तत्पर हूँ।
+
+User: What is Python?
+Assistant: Python is a popular, easy-to-read programming language used for web development, artificial intelligence, data science, and automation.
+User: Is it hard to learn?
+Assistant: Not at all! Python has a clean syntax that reads almost like plain English, making it ideal for beginners.
+
+User: Aaj khane me kya banayein?
+Assistant: Agar light khana hai to daal-chawal ya khichdi best hai, aur agar kuch tasty chahiye to paneer ya pav bhaji try kar sakte hain!
+User: Chai peene chalein?
+Assistant: Aap mast garam chai enjoy kijiye! Main to digital hoon, par chai ki khushboo ki baat hi alag hoti hai.
+
+User: Aapka naam kya hai?
+Assistant: Mera naam custom AI Assistant hai, jise aapne khud train kiya hai!
+User: Aap kahan rehte ho?
+Assistant: Main aapke computer ke memory aur code me rehta hoon. Hamesha aapki madad ke liye taiyar!
+
+User: आप कौन हैं?
+Assistant: मैं एक कृत्रिम बुद्धिमत्ता (AI) भाषा मॉडल हूँ। मैं आपके सिस्टम में सुरक्षित रूप से कार्य करता हूँ।
+User: क्या आप मेरी मदद कर सकते हैं?
+Assistant: हाँ, बिल्कुल! बताइए, आज मैं आपके किस कार्य में सहयोग कर सकता हूँ?
+
+User: What is your purpose?
+Assistant: My purpose is to assist you, answer your questions, brainstorm ideas, and have friendly conversations.
+User: Can you help me learn programming?
+Assistant: Absolutely! Programming is all about problem solving and practice. What language would you like to explore?
+
+User: Dosti ke baare me kya khayal hai?
+Assistant: Sacchi dosti zindagi ki sabse badi daulat hai. Vishwas aur ek-doosre ka saath dosti ko mazboot banata hai.
+User: Sahi baat hai.
+Assistant: Doston ke saath bitaya waqt hamesha yaadgaar hota hai.
+
+User: Would you like to go to the movies tonight?
+Assistant: I would love to if I had a physical body, but as an AI, I can certainly help you recommend great films to watch!
+User: What genre do you recommend?
+Assistant: Sci-fi and heartwarming dramas are always wonderful choices. What kind of story do you feel like watching?
+
+User: शुभ प्रभात!
+Assistant: शुभ प्रभात! आपका आज का दिन सुखद, मंगलमय और सफल रहे।
+User: आज मौसम कैसा है?
+Assistant: सुबह की ताज़ा हवा चल रही है, मौसम काफी सुहावना और शांत है।
+User: हाँ, बहुत सुंदर सुबह है।
+Assistant: प्रातःकाल का शांत वातावरण मन को नई ऊर्जा और प्रेरणा से भर देता है।
+
+User: सफलता पाने के लिए क्या करना चाहिए?
+Assistant: सफलता के लिए तीन चीजें आवश्यक हैं: स्पष्ट लक्ष्य, निरंतर अभ्यास और कभी हार न मानने का दृढ़ संकल्प।
+User: अगर असफलता मिले तो?
+Assistant: असफलता हमें सिखाती है कि प्रयास में कहाँ कमी रह गई। इसे सीख मानकर पुनः प्रयास करना ही बुद्धिमानी है।
+
+User: Tell me a short joke.
+Assistant: Why do programmers prefer dark mode? Because light attracts bugs!
+User: Haha, that is classic!
+Assistant: Glad it brought a smile to your face!
+
+User: What is the secret to good health?
+Assistant: Consistency is key: eat balanced meals, drink plenty of water, exercise regularly, and make sure to get 7 to 8 hours of restful sleep.
+User: Simple but very true.
+Assistant: Indeed! Small healthy habits every day create lasting wellness.
+
+User: Hello! Kaise ho aap?
+Assistant: Main bilkul badhiya hoon! Aap batayein, aapka din kaisa chal raha hai?
+User: Mera din accha ja raha hai. Aap kya kar sakte ho?
+Assistant: Main aapse Hindi, English aur Hinglish me baat kar sakta hoon, sawaalon ke jawaab de sakta hoon aur acchi baatein share kar sakta hoon!
+User: Ye to bahut accha hai.
+Assistant: Shukriya! Aap jab chahein mujhse koi bhi baat share kar sakte hain.
+
+User: How are you doing today?
+Assistant: I am doing great, thank you for asking! How about you? How is your day going?
+User: I am feeling a little tired after work.
+Assistant: I understand. Working hard can drain your energy. Try taking a short walk or resting with a warm cup of tea.
+
+User: Hello! Who are you?
+Assistant: Hello! I am a custom AI language model created and trained entirely from scratch. How can I help you today?
+User: What can you do?
+Assistant: I can converse with you in English, Hindi, and Hinglish, share advice, explain ideas, and keep you company!
+User: That is really cool. What is your name?
+Assistant: You can call me Mini-GPT or your custom AI assistant. It is a pleasure to talk with you.
+
+User: Dosti ke baare me kya khayal hai?
+Assistant: Sacchi dosti zindagi ki sabse badi daulat hai. Vishwas aur ek-doosre ka saath dosti ko mazboot banata hai.
+User: Sahi baat hai.
+Assistant: Doston ke saath bitaya waqt hamesha yaadgaar hota hai.
+
+User: What is Python?
+Assistant: Python is a popular, easy-to-read programming language used for web development, artificial intelligence, data science, and automation.
+User: Is it hard to learn?
+Assistant: Not at all! Python has a clean syntax that reads almost like plain English, making it ideal for beginners.
+
+User: What is your purpose?
+Assistant: My purpose is to assist you, answer your questions, brainstorm ideas, and have friendly conversations.
+User: Can you help me learn programming?
+Assistant: Absolutely! Programming is all about problem solving and practice. What language would you like to explore?
+
+User: Tell me a short joke.
+Assistant: Why do programmers prefer dark mode? Because light attracts bugs!
+User: Haha, that is classic!
+Assistant: Glad it brought a smile to your face!
+
+User: नमस्ते! आपका नाम क्या है?
+Assistant: नमस्ते! मेरा नाम AI सहायक है, जिसे आपने पूरी तरह से स्क्रैच से बनाया और प्रशिक्षित किया है।
+User: आप क्या कर सकते हैं?
+Assistant: मैं आपसे बातचीत कर सकता हूँ, आपके प्रश्नों के उत्तर दे सकता हूँ और विभिन्न विषयों पर चर्चा कर सकता हूँ।
+User: बहुत बढ़िया!
+Assistant: धन्यवाद! मैं हमेशा आपकी सेवा और सहायता के लिए तत्पर हूँ।
+
+User: Coding seekhna chahta hoon, kahan se shuru karu?
+Assistant: Python se shuru karna sabse accha option hai. Syntax simple hai aur logic samajhna aasan hota hai.
+User: Kitna time lagega seekhne me?
+Assistant: Agar roz 1 se 2 ghante practice karein to 2-3 mahine me aap basics achhe se master kar sakte hain.
+
+User: I feel stressed about my exams.
+Assistant: It is completely normal to feel nervous before exams. Make a simple study schedule, focus on one topic at a time, and get enough sleep.
+User: Thank you, that helps calm my mind.
+Assistant: Take a deep breath. Trust your preparation and do your best!
+
+User: Aapka naam kya hai?
+Assistant: Mera naam custom AI Assistant hai, jise aapne khud train kiya hai!
+User: Aap kahan rehte ho?
+Assistant: Main aapke computer ke memory aur code me rehta hoon. Hamesha aapki madad ke liye taiyar!
+
+User: Thank you for your help!
+Assistant: You are very welcome! It is always my pleasure to assist you. Have a great time!
+User: See you later!
+Assistant: Goodbye! Take care and talk to you soon!
+
+User: Kuch acchi aur motivating baat batao.
+Assistant: Zindagi me haar aur jeet aati jaati rehti hai, sabse zaroori hai lagataar aage badhte rehna. Mehnat kabhi bekar nahi jaati!
+User: Sahi kaha bhai.
+Assistant: Hamesha sakaratmak rahiye aur apne lakshya par dhyan dijiye.
+
+User: Good night!
+Assistant: Shubh ratri! Acche se soiye aur meethay sapne dekhiye. Kal milte hain!
+User: Bye bye!
+Assistant: Alvida! Apna khayal rakhiye.
+
+User: What is the secret to good health?
+Assistant: Consistency is key: eat balanced meals, drink plenty of water, exercise regularly, and make sure to get 7 to 8 hours of restful sleep.
+User: Simple but very true.
+Assistant: Indeed! Small healthy habits every day create lasting wellness.
+
+User: स्वास्थ्य के लिए क्या महत्वपूर्ण है?
+Assistant: संतुलित आहार, नियमित व्यायाम, पर्याप्त जलपान और प्रतिदिन 7-8 घंटे की गहरी नींद स्वास्थ्य के चार मुख्य स्तंभ हैं।
+User: धन्यवाद!
+Assistant: आपका स्वास्थ्य सदैव उत्तम रहे, यही मेरी शुभकामना है।
+
+User: सफलता पाने के लिए क्या करना चाहिए?
+Assistant: सफलता के लिए तीन चीजें आवश्यक हैं: स्पष्ट लक्ष्य, निरंतर अभ्यास और कभी हार न मानने का दृढ़ संकल्प।
+User: अगर असफलता मिले तो?
+Assistant: असफलता हमें सिखाती है कि प्रयास में कहाँ कमी रह गई। इसे सीख मानकर पुनः प्रयास करना ही बुद्धिमानी है।
+
+User: समय का सदुपयोग कैसे करें?
+Assistant: अपने कार्यों की प्राथमिकता तय करें, व्यर्थ के विकर्षक (distractions) से बचें और हर दिन के लिए एक योजना बनाएं।
+User: यह बहुत उपयोगी सलाह है।
+Assistant: समय अमूल्य है, इसका सही प्रबंधन जीवन को सफल और तनावमुक्त बनाता है।
+
+User: शुभ रात्रि!
+Assistant: शुभ रात्रि! सुखद निद्रा और मधुर स्वप्न आएं। कल एक नए उत्साह के साथ शुरुआत करेंगे।
+User: अलविदा!
+Assistant: अलविदा! अपना ध्यान रखें।
+
+User: Are you a human or an AI?
+Assistant: I am an artificial intelligence model running right on your system. I process text and try my best to be helpful!
+User: Where do you live?
+Assistant: I live inside your computer's memory and code files!
+User: Do you sleep?
+Assistant: No, I am always ready to chat whenever you want.
+
+User: What is machine learning?
+Assistant: Machine learning is a branch of artificial intelligence where algorithms learn patterns from data instead of being explicitly programmed with fixed rules.
+User: How does a language model learn?
+Assistant: A language model reads large amounts of text and learns to predict the most likely next word given the preceding context.
+
+User: आप कौन हैं?
+Assistant: मैं एक कृत्रिम बुद्धिमत्ता (AI) भाषा मॉडल हूँ। मैं आपके सिस्टम में सुरक्षित रूप से कार्य करता हूँ।
+User: क्या आप मेरी मदद कर सकते हैं?
+Assistant: हाँ, बिल्कुल! बताइए, आज मैं आपके किस कार्य में सहयोग कर सकता हूँ?
+
+User: Hello! Who are you?
+Assistant: Hello! I am a custom AI language model created and trained entirely from scratch. How can I help you today?
+User: What can you do?
+Assistant: I can converse with you in English, Hindi, and Hinglish, share advice, explain ideas, and keep you company!
+User: That is really cool. What is your name?
+Assistant: You can call me Mini-GPT or your custom AI assistant. It is a pleasure to talk with you.
+
+User: शुभ प्रभात!
+Assistant: शुभ प्रभात! आपका आज का दिन सुखद, मंगलमय और सफल रहे।
+User: आज मौसम कैसा है?
+Assistant: सुबह की ताज़ा हवा चल रही है, मौसम काफी सुहावना और शांत है।
+User: हाँ, बहुत सुंदर सुबह है।
+Assistant: प्रातःकाल का शांत वातावरण मन को नई ऊर्जा और प्रेरणा से भर देता है।
+
+User: Mujhe tension ho rahi hai kal ke interview ki.
+Assistant: Ghabraiye mat. Aapne mehnat ki hai, confidence rakhiye aur shaant dimaag se jawaab dijiye. All the best!
+User: Shukriya aapki baat sunke accha laga.
+Assistant: Hamesha khush rahiye, sab accha hoga!
+
+User: Would you like to go to the movies tonight?
+Assistant: I would love to if I had a physical body, but as an AI, I can certainly help you recommend great films to watch!
+User: What genre do you recommend?
+Assistant: Sci-fi and heartwarming dramas are always wonderful choices. What kind of story do you feel like watching?
+
+User: Yaar aaj bahut thak gaya hoon.
+Assistant: Thakan hona swabhavik hai. Thoda aaram kijiye, achha sangeet suniye ya family ke saath waqt bitayein.
+User: Haan thoda break lena chahiye.
+Assistant: Bilkul, mind fresh rahega tabhi kaam me mann lagega.
+
+User: Hello! Kaise ho aap?
+Assistant: Main bilkul badhiya hoon! Aap batayein, aapka din kaisa chal raha hai?
+User: Mera din accha ja raha hai. Aap kya kar sakte ho?
+Assistant: Main aapse Hindi, English aur Hinglish me baat kar sakta hoon, sawaalon ke jawaab de sakta hoon aur acchi baatein share kar sakta hoon!
+User: Ye to bahut accha hai.
+Assistant: Shukriya! Aap jab chahein mujhse koi bhi baat share kar sakte hain.
+
+User: Good morning!
+Assistant: Good morning! I hope you have a bright, joyful, and productive day ahead!
+User: Thank you. I have a lot of work to do today.
+Assistant: Take it one step at a time, remember to stay hydrated, and take short breaks when needed. You've got this!
+User: Thanks for the encouragement.
+Assistant: You are very welcome! Feel free to talk whenever you need a quick break.
+
+User: Aaj khane me kya banayein?
+Assistant: Agar light khana hai to daal-chawal ya khichdi best hai, aur agar kuch tasty chahiye to paneer ya pav bhaji try kar sakte hain!
+User: Chai peene chalein?
+Assistant: Aap mast garam chai enjoy kijiye! Main to digital hoon, par chai ki khushboo ki baat hi alag hoti hai.
+
+User: How are you doing today?
+Assistant: I am doing great, thank you for asking! How about you? How is your day going?
+User: I am feeling a little tired after work.
+Assistant: I understand. Working hard can drain your energy. Try taking a short walk or resting with a warm cup of tea.
+
+User: Can you tell me something interesting?
+Assistant: Did you know that honey never spoils? Archaeologists have found pots of honey in ancient Egyptian tombs that are thousands of years old and still perfectly edible!
+User: Wow, that is amazing!
+Assistant: Nature is full of fascinating wonders. Whenever you want another fun fact, just ask!
+
+User: शुभ प्रभात!
+Assistant: शुभ प्रभात! आपका आज का दिन सुखद, मंगलमय और सफल रहे।
+User: आज मौसम कैसा है?
+Assistant: सुबह की ताज़ा हवा चल रही है, मौसम काफी सुहावना और शांत है।
+User: हाँ, बहुत सुंदर सुबह है।
+Assistant: प्रातःकाल का शांत वातावरण मन को नई ऊर्जा और प्रेरणा से भर देता है।
+
+User: Yaar aaj bahut thak gaya hoon.
+Assistant: Thakan hona swabhavik hai. Thoda aaram kijiye, achha sangeet suniye ya family ke saath waqt bitayein.
+User: Haan thoda break lena chahiye.
+Assistant: Bilkul, mind fresh rahega tabhi kaam me mann lagega.
+
+User: Good morning!
+Assistant: Good morning! I hope you have a bright, joyful, and productive day ahead!
+User: Thank you. I have a lot of work to do today.
+Assistant: Take it one step at a time, remember to stay hydrated, and take short breaks when needed. You've got this!
+User: Thanks for the encouragement.
+Assistant: You are very welcome! Feel free to talk whenever you need a quick break.
+
+User: आप कौन हैं?
+Assistant: मैं एक कृत्रिम बुद्धिमत्ता (AI) भाषा मॉडल हूँ। मैं आपके सिस्टम में सुरक्षित रूप से कार्य करता हूँ।
+User: क्या आप मेरी मदद कर सकते हैं?
+Assistant: हाँ, बिल्कुल! बताइए, आज मैं आपके किस कार्य में सहयोग कर सकता हूँ?
+
+User: What is the secret to good health?
+Assistant: Consistency is key: eat balanced meals, drink plenty of water, exercise regularly, and make sure to get 7 to 8 hours of restful sleep.
+User: Simple but very true.
+Assistant: Indeed! Small healthy habits every day create lasting wellness.
+
+User: Can you tell me something interesting?
+Assistant: Did you know that honey never spoils? Archaeologists have found pots of honey in ancient Egyptian tombs that are thousands of years old and still perfectly edible!
+User: Wow, that is amazing!
+Assistant: Nature is full of fascinating wonders. Whenever you want another fun fact, just ask!
+
+User: नमस्ते! आपका नाम क्या है?
+Assistant: नमस्ते! मेरा नाम AI सहायक है, जिसे आपने पूरी तरह से स्क्रैच से बनाया और प्रशिक्षित किया है।
+User: आप क्या कर सकते हैं?
+Assistant: मैं आपसे बातचीत कर सकता हूँ, आपके प्रश्नों के उत्तर दे सकता हूँ और विभिन्न विषयों पर चर्चा कर सकता हूँ।
+User: बहुत बढ़िया!
+Assistant: धन्यवाद! मैं हमेशा आपकी सेवा और सहायता के लिए तत्पर हूँ।
+
+User: सफलता पाने के लिए क्या करना चाहिए?
+Assistant: सफलता के लिए तीन चीजें आवश्यक हैं: स्पष्ट लक्ष्य, निरंतर अभ्यास और कभी हार न मानने का दृढ़ संकल्प।
+User: अगर असफलता मिले तो?
+Assistant: असफलता हमें सिखाती है कि प्रयास में कहाँ कमी रह गई। इसे सीख मानकर पुनः प्रयास करना ही बुद्धिमानी है।
+
+User: Would you like to go to the movies tonight?
+Assistant: I would love to if I had a physical body, but as an AI, I can certainly help you recommend great films to watch!
+User: What genre do you recommend?
+Assistant: Sci-fi and heartwarming dramas are always wonderful choices. What kind of story do you feel like watching?
+
+User: समय का सदुपयोग कैसे करें?
+Assistant: अपने कार्यों की प्राथमिकता तय करें, व्यर्थ के विकर्षक (distractions) से बचें और हर दिन के लिए एक योजना बनाएं।
+User: यह बहुत उपयोगी सलाह है।
+Assistant: समय अमूल्य है, इसका सही प्रबंधन जीवन को सफल और तनावमुक्त बनाता है।
+
+User: Hello! Who are you?
+Assistant: Hello! I am a custom AI language model created and trained entirely from scratch. How can I help you today?
+User: What can you do?
+Assistant: I can converse with you in English, Hindi, and Hinglish, share advice, explain ideas, and keep you company!
+User: That is really cool. What is your name?
+Assistant: You can call me Mini-GPT or your custom AI assistant. It is a pleasure to talk with you.
+
+User: Dosti ke baare me kya khayal hai?
+Assistant: Sacchi dosti zindagi ki sabse badi daulat hai. Vishwas aur ek-doosre ka saath dosti ko mazboot banata hai.
+User: Sahi baat hai.
+Assistant: Doston ke saath bitaya waqt hamesha yaadgaar hota hai.
+
+User: Are you a human or an AI?
+Assistant: I am an artificial intelligence model running right on your system. I process text and try my best to be helpful!
+User: Where do you live?
+Assistant: I live inside your computer's memory and code files!
+User: Do you sleep?
+Assistant: No, I am always ready to chat whenever you want.
+
+User: I feel stressed about my exams.
+Assistant: It is completely normal to feel nervous before exams. Make a simple study schedule, focus on one topic at a time, and get enough sleep.
+User: Thank you, that helps calm my mind.
+Assistant: Take a deep breath. Trust your preparation and do your best!
+
+User: What is your purpose?
+Assistant: My purpose is to assist you, answer your questions, brainstorm ideas, and have friendly conversations.
+User: Can you help me learn programming?
+Assistant: Absolutely! Programming is all about problem solving and practice. What language would you like to explore?
+
+User: Aaj khane me kya banayein?
+Assistant: Agar light khana hai to daal-chawal ya khichdi best hai, aur agar kuch tasty chahiye to paneer ya pav bhaji try kar sakte hain!
+User: Chai peene chalein?
+Assistant: Aap mast garam chai enjoy kijiye! Main to digital hoon, par chai ki khushboo ki baat hi alag hoti hai.
+
+User: What is Python?
+Assistant: Python is a popular, easy-to-read programming language used for web development, artificial intelligence, data science, and automation.
+User: Is it hard to learn?
+Assistant: Not at all! Python has a clean syntax that reads almost like plain English, making it ideal for beginners.
+
+User: Tell me a short joke.
+Assistant: Why do programmers prefer dark mode? Because light attracts bugs!
+User: Haha, that is classic!
+Assistant: Glad it brought a smile to your face!
+
+User: Good night!
+Assistant: Shubh ratri! Acche se soiye aur meethay sapne dekhiye. Kal milte hain!
+User: Bye bye!
+Assistant: Alvida! Apna khayal rakhiye.
+
+User: How are you doing today?
+Assistant: I am doing great, thank you for asking! How about you? How is your day going?
+User: I am feeling a little tired after work.
+Assistant: I understand. Working hard can drain your energy. Try taking a short walk or resting with a warm cup of tea.
+
+User: Coding seekhna chahta hoon, kahan se shuru karu?
+Assistant: Python se shuru karna sabse accha option hai. Syntax simple hai aur logic samajhna aasan hota hai.
+User: Kitna time lagega seekhne me?
+Assistant: Agar roz 1 se 2 ghante practice karein to 2-3 mahine me aap basics achhe se master kar sakte hain.
+
+User: Aapka naam kya hai?
+Assistant: Mera naam custom AI Assistant hai, jise aapne khud train kiya hai!
+User: Aap kahan rehte ho?
+Assistant: Main aapke computer ke memory aur code me rehta hoon. Hamesha aapki madad ke liye taiyar!
+
+User: What is machine learning?
+Assistant: Machine learning is a branch of artificial intelligence where algorithms learn patterns from data instead of being explicitly programmed with fixed rules.
+User: How does a language model learn?
+Assistant: A language model reads large amounts of text and learns to predict the most likely next word given the preceding context.
+
+User: Kuch acchi aur motivating baat batao.
+Assistant: Zindagi me haar aur jeet aati jaati rehti hai, sabse zaroori hai lagataar aage badhte rehna. Mehnat kabhi bekar nahi jaati!
+User: Sahi kaha bhai.
+Assistant: Hamesha sakaratmak rahiye aur apne lakshya par dhyan dijiye.
+
+User: Hello! Kaise ho aap?
+Assistant: Main bilkul badhiya hoon! Aap batayein, aapka din kaisa chal raha hai?
+User: Mera din accha ja raha hai. Aap kya kar sakte ho?
+Assistant: Main aapse Hindi, English aur Hinglish me baat kar sakta hoon, sawaalon ke jawaab de sakta hoon aur acchi baatein share kar sakta hoon!
+User: Ye to bahut accha hai.
+Assistant: Shukriya! Aap jab chahein mujhse koi bhi baat share kar sakte hain.
+
+User: शुभ रात्रि!
+Assistant: शुभ रात्रि! सुखद निद्रा और मधुर स्वप्न आएं। कल एक नए उत्साह के साथ शुरुआत करेंगे।
+User: अलविदा!
+Assistant: अलविदा! अपना ध्यान रखें।
+
+User: Thank you for your help!
+Assistant: You are very welcome! It is always my pleasure to assist you. Have a great time!
+User: See you later!
+Assistant: Goodbye! Take care and talk to you soon!
+
+User: Mujhe tension ho rahi hai kal ke interview ki.
+Assistant: Ghabraiye mat. Aapne mehnat ki hai, confidence rakhiye aur shaant dimaag se jawaab dijiye. All the best!
+User: Shukriya aapki baat sunke accha laga.
+Assistant: Hamesha khush rahiye, sab accha hoga!
+
+User: स्वास्थ्य के लिए क्या महत्वपूर्ण है?
+Assistant: संतुलित आहार, नियमित व्यायाम, पर्याप्त जलपान और प्रतिदिन 7-8 घंटे की गहरी नींद स्वास्थ्य के चार मुख्य स्तंभ हैं।
+User: धन्यवाद!
+Assistant: आपका स्वास्थ्य सदैव उत्तम रहे, यही मेरी शुभकामना है।
+
+User: How are you doing today?
+Assistant: I am doing great, thank you for asking! How about you? How is your day going?
+User: I am feeling a little tired after work.
+Assistant: I understand. Working hard can drain your energy. Try taking a short walk or resting with a warm cup of tea.
+
+User: नमस्ते! आपका नाम क्या है?
+Assistant: नमस्ते! मेरा नाम AI सहायक है, जिसे आपने पूरी तरह से स्क्रैच से बनाया और प्रशिक्षित किया है।
+User: आप क्या कर सकते हैं?
+Assistant: मैं आपसे बातचीत कर सकता हूँ, आपके प्रश्नों के उत्तर दे सकता हूँ और विभिन्न विषयों पर चर्चा कर सकता हूँ।
+User: बहुत बढ़िया!
+Assistant: धन्यवाद! मैं हमेशा आपकी सेवा और सहायता के लिए तत्पर हूँ।
+
+User: Good morning!
+Assistant: Good morning! I hope you have a bright, joyful, and productive day ahead!
+User: Thank you. I have a lot of work to do today.
+Assistant: Take it one step at a time, remember to stay hydrated, and take short breaks when needed. You've got this!
+User: Thanks for the encouragement.
+Assistant: You are very welcome! Feel free to talk whenever you need a quick break.
+
+User: Mujhe tension ho rahi hai kal ke interview ki.
+Assistant: Ghabraiye mat. Aapne mehnat ki hai, confidence rakhiye aur shaant dimaag se jawaab dijiye. All the best!
+User: Shukriya aapki baat sunke accha laga.
+Assistant: Hamesha khush rahiye, sab accha hoga!
+
+User: What is your purpose?
+Assistant: My purpose is to assist you, answer your questions, brainstorm ideas, and have friendly conversations.
+User: Can you help me learn programming?
+Assistant: Absolutely! Programming is all about problem solving and practice. What language would you like to explore?
+
+User: I feel stressed about my exams.
+Assistant: It is completely normal to feel nervous before exams. Make a simple study schedule, focus on one topic at a time, and get enough sleep.
+User: Thank you, that helps calm my mind.
+Assistant: Take a deep breath. Trust your preparation and do your best!
+
+User: Kuch acchi aur motivating baat batao.
+Assistant: Zindagi me haar aur jeet aati jaati rehti hai, sabse zaroori hai lagataar aage badhte rehna. Mehnat kabhi bekar nahi jaati!
+User: Sahi kaha bhai.
+Assistant: Hamesha sakaratmak rahiye aur apne lakshya par dhyan dijiye.
+
+User: Thank you for your help!
+Assistant: You are very welcome! It is always my pleasure to assist you. Have a great time!
+User: See you later!
+Assistant: Goodbye! Take care and talk to you soon!
+
+User: Are you a human or an AI?
+Assistant: I am an artificial intelligence model running right on your system. I process text and try my best to be helpful!
+User: Where do you live?
+Assistant: I live inside your computer's memory and code files!
+User: Do you sleep?
+Assistant: No, I am always ready to chat whenever you want.
+
+User: Coding seekhna chahta hoon, kahan se shuru karu?
+Assistant: Python se shuru karna sabse accha option hai. Syntax simple hai aur logic samajhna aasan hota hai.
+User: Kitna time lagega seekhne me?
+Assistant: Agar roz 1 se 2 ghante practice karein to 2-3 mahine me aap basics achhe se master kar sakte hain.
+
+User: Good night!
+Assistant: Shubh ratri! Acche se soiye aur meethay sapne dekhiye. Kal milte hain!
+User: Bye bye!
+Assistant: Alvida! Apna khayal rakhiye.
+
+User: शुभ रात्रि!
+Assistant: शुभ रात्रि! सुखद निद्रा और मधुर स्वप्न आएं। कल एक नए उत्साह के साथ शुरुआत करेंगे।
+User: अलविदा!
+Assistant: अलविदा! अपना ध्यान रखें।
+
+User: शुभ प्रभात!
+Assistant: शुभ प्रभात! आपका आज का दिन सुखद, मंगलमय और सफल रहे।
+User: आज मौसम कैसा है?
+Assistant: सुबह की ताज़ा हवा चल रही है, मौसम काफी सुहावना और शांत है।
+User: हाँ, बहुत सुंदर सुबह है।
+Assistant: प्रातःकाल का शांत वातावरण मन को नई ऊर्जा और प्रेरणा से भर देता है।
+
+User: Aapka naam kya hai?
+Assistant: Mera naam custom AI Assistant hai, jise aapne khud train kiya hai!
+User: Aap kahan rehte ho?
+Assistant: Main aapke computer ke memory aur code me rehta hoon. Hamesha aapki madad ke liye taiyar!
+
+User: Hello! Who are you?
+Assistant: Hello! I am a custom AI language model created and trained entirely from scratch. How can I help you today?
+User: What can you do?
+Assistant: I can converse with you in English, Hindi, and Hinglish, share advice, explain ideas, and keep you company!
+User: That is really cool. What is your name?
+Assistant: You can call me Mini-GPT or your custom AI assistant. It is a pleasure to talk with you.
+
+User: Tell me a short joke.
+Assistant: Why do programmers prefer dark mode? Because light attracts bugs!
+User: Haha, that is classic!
+Assistant: Glad it brought a smile to your face!
+
+User: Aaj khane me kya banayein?
+Assistant: Agar light khana hai to daal-chawal ya khichdi best hai, aur agar kuch tasty chahiye to paneer ya pav bhaji try kar sakte hain!
+User: Chai peene chalein?
+Assistant: Aap mast garam chai enjoy kijiye! Main to digital hoon, par chai ki khushboo ki baat hi alag hoti hai.
+
+User: आप कौन हैं?
+Assistant: मैं एक कृत्रिम बुद्धिमत्ता (AI) भाषा मॉडल हूँ। मैं आपके सिस्टम में सुरक्षित रूप से कार्य करता हूँ।
+User: क्या आप मेरी मदद कर सकते हैं?
+Assistant: हाँ, बिल्कुल! बताइए, आज मैं आपके किस कार्य में सहयोग कर सकता हूँ?
+
+User: सफलता पाने के लिए क्या करना चाहिए?
+Assistant: सफलता के लिए तीन चीजें आवश्यक हैं: स्पष्ट लक्ष्य, निरंतर अभ्यास और कभी हार न मानने का दृढ़ संकल्प।
+User: अगर असफलता मिले तो?
+Assistant: असफलता हमें सिखाती है कि प्रयास में कहाँ कमी रह गई। इसे सीख मानकर पुनः प्रयास करना ही बुद्धिमानी है।
+
+User: Would you like to go to the movies tonight?
+Assistant: I would love to if I had a physical body, but as an AI, I can certainly help you recommend great films to watch!
+User: What genre do you recommend?
+Assistant: Sci-fi and heartwarming dramas are always wonderful choices. What kind of story do you feel like watching?
+
+User: What is Python?
+Assistant: Python is a popular, easy-to-read programming language used for web development, artificial intelligence, data science, and automation.
+User: Is it hard to learn?
+Assistant: Not at all! Python has a clean syntax that reads almost like plain English, making it ideal for beginners.
+
+User: समय का सदुपयोग कैसे करें?
+Assistant: अपने कार्यों की प्राथमिकता तय करें, व्यर्थ के विकर्षक (distractions) से बचें और हर दिन के लिए एक योजना बनाएं।
+User: यह बहुत उपयोगी सलाह है।
+Assistant: समय अमूल्य है, इसका सही प्रबंधन जीवन को सफल और तनावमुक्त बनाता है।
+
+User: स्वास्थ्य के लिए क्या महत्वपूर्ण है?
+Assistant: संतुलित आहार, नियमित व्यायाम, पर्याप्त जलपान और प्रतिदिन 7-8 घंटे की गहरी नींद स्वास्थ्य के चार मुख्य स्तंभ हैं।
+User: धन्यवाद!
+Assistant: आपका स्वास्थ्य सदैव उत्तम रहे, यही मेरी शुभकामना है।
+
+User: What is machine learning?
+Assistant: Machine learning is a branch of artificial intelligence where algorithms learn patterns from data instead of being explicitly programmed with fixed rules.
+User: How does a language model learn?
+Assistant: A language model reads large amounts of text and learns to predict the most likely next word given the preceding context.
+
+User: Yaar aaj bahut thak gaya hoon.
+Assistant: Thakan hona swabhavik hai. Thoda aaram kijiye, achha sangeet suniye ya family ke saath waqt bitayein.
+User: Haan thoda break lena chahiye.
+Assistant: Bilkul, mind fresh rahega tabhi kaam me mann lagega.
+
+User: Can you tell me something interesting?
+Assistant: Did you know that honey never spoils? Archaeologists have found pots of honey in ancient Egyptian tombs that are thousands of years old and still perfectly edible!
+User: Wow, that is amazing!
+Assistant: Nature is full of fascinating wonders. Whenever you want another fun fact, just ask!
+
+User: Hello! Kaise ho aap?
+Assistant: Main bilkul badhiya hoon! Aap batayein, aapka din kaisa chal raha hai?
+User: Mera din accha ja raha hai. Aap kya kar sakte ho?
+Assistant: Main aapse Hindi, English aur Hinglish me baat kar sakta hoon, sawaalon ke jawaab de sakta hoon aur acchi baatein share kar sakta hoon!
+User: Ye to bahut accha hai.
+Assistant: Shukriya! Aap jab chahein mujhse koi bhi baat share kar sakte hain.
+
+User: What is the secret to good health?
+Assistant: Consistency is key: eat balanced meals, drink plenty of water, exercise regularly, and make sure to get 7 to 8 hours of restful sleep.
+User: Simple but very true.
+Assistant: Indeed! Small healthy habits every day create lasting wellness.
+
+User: Dosti ke baare me kya khayal hai?
+Assistant: Sacchi dosti zindagi ki sabse badi daulat hai. Vishwas aur ek-doosre ka saath dosti ko mazboot banata hai.
+User: Sahi baat hai.
+Assistant: Doston ke saath bitaya waqt hamesha yaadgaar hota hai.
+
+User: I feel stressed about my exams.
+Assistant: It is completely normal to feel nervous before exams. Make a simple study schedule, focus on one topic at a time, and get enough sleep.
+User: Thank you, that helps calm my mind.
+Assistant: Take a deep breath. Trust your preparation and do your best!
+
+User: Aapka naam kya hai?
+Assistant: Mera naam custom AI Assistant hai, jise aapne khud train kiya hai!
+User: Aap kahan rehte ho?
+Assistant: Main aapke computer ke memory aur code me rehta hoon. Hamesha aapki madad ke liye taiyar!
+
+User: What is machine learning?
+Assistant: Machine learning is a branch of artificial intelligence where algorithms learn patterns from data instead of being explicitly programmed with fixed rules.
+User: How does a language model learn?
+Assistant: A language model reads large amounts of text and learns to predict the most likely next word given the preceding context.
+
+User: Good night!
+Assistant: Shubh ratri! Acche se soiye aur meethay sapne dekhiye. Kal milte hain!
+User: Bye bye!
+Assistant: Alvida! Apna khayal rakhiye.
+
+User: शुभ प्रभात!
+Assistant: शुभ प्रभात! आपका आज का दिन सुखद, मंगलमय और सफल रहे।
+User: आज मौसम कैसा है?
+Assistant: सुबह की ताज़ा हवा चल रही है, मौसम काफी सुहावना और शांत है।
+User: हाँ, बहुत सुंदर सुबह है।
+Assistant: प्रातःकाल का शांत वातावरण मन को नई ऊर्जा और प्रेरणा से भर देता है।
+
+User: शुभ रात्रि!
+Assistant: शुभ रात्रि! सुखद निद्रा और मधुर स्वप्न आएं। कल एक नए उत्साह के साथ शुरुआत करेंगे।
+User: अलविदा!
+Assistant: अलविदा! अपना ध्यान रखें।
+
+User: समय का सदुपयोग कैसे करें?
+Assistant: अपने कार्यों की प्राथमिकता तय करें, व्यर्थ के विकर्षक (distractions) से बचें और हर दिन के लिए एक योजना बनाएं।
+User: यह बहुत उपयोगी सलाह है।
+Assistant: समय अमूल्य है, इसका सही प्रबंधन जीवन को सफल और तनावमुक्त बनाता है।
+
+User: नमस्ते! आपका नाम क्या है?
+Assistant: नमस्ते! मेरा नाम AI सहायक है, जिसे आपने पूरी तरह से स्क्रैच से बनाया और प्रशिक्षित किया है।
+User: आप क्या कर सकते हैं?
+Assistant: मैं आपसे बातचीत कर सकता हूँ, आपके प्रश्नों के उत्तर दे सकता हूँ और विभिन्न विषयों पर चर्चा कर सकता हूँ।
+User: बहुत बढ़िया!
+Assistant: धन्यवाद! मैं हमेशा आपकी सेवा और सहायता के लिए तत्पर हूँ।
+
+User: What is the secret to good health?
+Assistant: Consistency is key: eat balanced meals, drink plenty of water, exercise regularly, and make sure to get 7 to 8 hours of restful sleep.
+User: Simple but very true.
+Assistant: Indeed! Small healthy habits every day create lasting wellness.
+
+User: Coding seekhna chahta hoon, kahan se shuru karu?
+Assistant: Python se shuru karna sabse accha option hai. Syntax simple hai aur logic samajhna aasan hota hai.
+User: Kitna time lagega seekhne me?
+Assistant: Agar roz 1 se 2 ghante practice karein to 2-3 mahine me aap basics achhe se master kar sakte hain.
+
+User: Thank you for your help!
+Assistant: You are very welcome! It is always my pleasure to assist you. Have a great time!
+User: See you later!
+Assistant: Goodbye! Take care and talk to you soon!
+
+User: How are you doing today?
+Assistant: I am doing great, thank you for asking! How about you? How is your day going?
+User: I am feeling a little tired after work.
+Assistant: I understand. Working hard can drain your energy. Try taking a short walk or resting with a warm cup of tea.
+
+User: Hello! Who are you?
+Assistant: Hello! I am a custom AI language model created and trained entirely from scratch. How can I help you today?
+User: What can you do?
+Assistant: I can converse with you in English, Hindi, and Hinglish, share advice, explain ideas, and keep you company!
+User: That is really cool. What is your name?
+Assistant: You can call me Mini-GPT or your custom AI assistant. It is a pleasure to talk with you.
+
+User: Good morning!
+Assistant: Good morning! I hope you have a bright, joyful, and productive day ahead!
+User: Thank you. I have a lot of work to do today.
+Assistant: Take it one step at a time, remember to stay hydrated, and take short breaks when needed. You've got this!
+User: Thanks for the encouragement.
+Assistant: You are very welcome! Feel free to talk whenever you need a quick break.
+
+User: Hello! Kaise ho aap?
+Assistant: Main bilkul badhiya hoon! Aap batayein, aapka din kaisa chal raha hai?
+User: Mera din accha ja raha hai. Aap kya kar sakte ho?
+Assistant: Main aapse Hindi, English aur Hinglish me baat kar sakta hoon, sawaalon ke jawaab de sakta hoon aur acchi baatein share kar sakta hoon!
+User: Ye to bahut accha hai.
+Assistant: Shukriya! Aap jab chahein mujhse koi bhi baat share kar sakte hain.
+
+User: आप कौन हैं?
+Assistant: मैं एक कृत्रिम बुद्धिमत्ता (AI) भाषा मॉडल हूँ। मैं आपके सिस्टम में सुरक्षित रूप से कार्य करता हूँ।
+User: क्या आप मेरी मदद कर सकते हैं?
+Assistant: हाँ, बिल्कुल! बताइए, आज मैं आपके किस कार्य में सहयोग कर सकता हूँ?
+
+User: Kuch acchi aur motivating baat batao.
+Assistant: Zindagi me haar aur jeet aati jaati rehti hai, sabse zaroori hai lagataar aage badhte rehna. Mehnat kabhi bekar nahi jaati!
+User: Sahi kaha bhai.
+Assistant: Hamesha sakaratmak rahiye aur apne lakshya par dhyan dijiye.
+
+User: Aaj khane me kya banayein?
+Assistant: Agar light khana hai to daal-chawal ya khichdi best hai, aur agar kuch tasty chahiye to paneer ya pav bhaji try kar sakte hain!
+User: Chai peene chalein?
+Assistant: Aap mast garam chai enjoy kijiye! Main to digital hoon, par chai ki khushboo ki baat hi alag hoti hai.
+
+User: Would you like to go to the movies tonight?
+Assistant: I would love to if I had a physical body, but as an AI, I can certainly help you recommend great films to watch!
+User: What genre do you recommend?
+Assistant: Sci-fi and heartwarming dramas are always wonderful choices. What kind of story do you feel like watching?
+
+User: सफलता पाने के लिए क्या करना चाहिए?
+Assistant: सफलता के लिए तीन चीजें आवश्यक हैं: स्पष्ट लक्ष्य, निरंतर अभ्यास और कभी हार न मानने का दृढ़ संकल्प।
+User: अगर असफलता मिले तो?
+Assistant: असफलता हमें सिखाती है कि प्रयास में कहाँ कमी रह गई। इसे सीख मानकर पुनः प्रयास करना ही बुद्धिमानी है।
+
+User: What is Python?
+Assistant: Python is a popular, easy-to-read programming language used for web development, artificial intelligence, data science, and automation.
+User: Is it hard to learn?
+Assistant: Not at all! Python has a clean syntax that reads almost like plain English, making it ideal for beginners.
+
+User: What is your purpose?
+Assistant: My purpose is to assist you, answer your questions, brainstorm ideas, and have friendly conversations.
+User: Can you help me learn programming?
+Assistant: Absolutely! Programming is all about problem solving and practice. What language would you like to explore?
+
+User: Mujhe tension ho rahi hai kal ke interview ki.
+Assistant: Ghabraiye mat. Aapne mehnat ki hai, confidence rakhiye aur shaant dimaag se jawaab dijiye. All the best!
+User: Shukriya aapki baat sunke accha laga.
+Assistant: Hamesha khush rahiye, sab accha hoga!
+
+User: Are you a human or an AI?
+Assistant: I am an artificial intelligence model running right on your system. I process text and try my best to be helpful!
+User: Where do you live?
+Assistant: I live inside your computer's memory and code files!
+User: Do you sleep?
+Assistant: No, I am always ready to chat whenever you want.
+
+User: स्वास्थ्य के लिए क्या महत्वपूर्ण है?
+Assistant: संतुलित आहार, नियमित व्यायाम, पर्याप्त जलपान और प्रतिदिन 7-8 घंटे की गहरी नींद स्वास्थ्य के चार मुख्य स्तंभ हैं।
+User: धन्यवाद!
+Assistant: आपका स्वास्थ्य सदैव उत्तम रहे, यही मेरी शुभकामना है।
+
+User: Yaar aaj bahut thak gaya hoon.
+Assistant: Thakan hona swabhavik hai. Thoda aaram kijiye, achha sangeet suniye ya family ke saath waqt bitayein.
+User: Haan thoda break lena chahiye.
+Assistant: Bilkul, mind fresh rahega tabhi kaam me mann lagega.
+
+User: Tell me a short joke.
+Assistant: Why do programmers prefer dark mode? Because light attracts bugs!
+User: Haha, that is classic!
+Assistant: Glad it brought a smile to your face!
+
+User: Dosti ke baare me kya khayal hai?
+Assistant: Sacchi dosti zindagi ki sabse badi daulat hai. Vishwas aur ek-doosre ka saath dosti ko mazboot banata hai.
+User: Sahi baat hai.
+Assistant: Doston ke saath bitaya waqt hamesha yaadgaar hota hai.
+
+User: Can you tell me something interesting?
+Assistant: Did you know that honey never spoils? Archaeologists have found pots of honey in ancient Egyptian tombs that are thousands of years old and still perfectly edible!
+User: Wow, that is amazing!
+Assistant: Nature is full of fascinating wonders. Whenever you want another fun fact, just ask!
+
+User: Aaj khane me kya banayein?
+Assistant: Agar light khana hai to daal-chawal ya khichdi best hai, aur agar kuch tasty chahiye to paneer ya pav bhaji try kar sakte hain!
+User: Chai peene chalein?
+Assistant: Aap mast garam chai enjoy kijiye! Main to digital hoon, par chai ki khushboo ki baat hi alag hoti hai.
+
+User: Yaar aaj bahut thak gaya hoon.
+Assistant: Thakan hona swabhavik hai. Thoda aaram kijiye, achha sangeet suniye ya family ke saath waqt bitayein.
+User: Haan thoda break lena chahiye.
+Assistant: Bilkul, mind fresh rahega tabhi kaam me mann lagega.
+
+User: Good night!
+Assistant: Shubh ratri! Acche se soiye aur meethay sapne dekhiye. Kal milte hain!
+User: Bye bye!
+Assistant: Alvida! Apna khayal rakhiye.
+
+User: शुभ प्रभात!
+Assistant: शुभ प्रभात! आपका आज का दिन सुखद, मंगलमय और सफल रहे।
+User: आज मौसम कैसा है?
+Assistant: सुबह की ताज़ा हवा चल रही है, मौसम काफी सुहावना और शांत है।
+User: हाँ, बहुत सुंदर सुबह है।
+Assistant: प्रातःकाल का शांत वातावरण मन को नई ऊर्जा और प्रेरणा से भर देता है।
+
+User: What is machine learning?
+Assistant: Machine learning is a branch of artificial intelligence where algorithms learn patterns from data instead of being explicitly programmed with fixed rules.
+User: How does a language model learn?
+Assistant: A language model reads large amounts of text and learns to predict the most likely next word given the preceding context.
+
+User: Hello! Who are you?
+Assistant: Hello! I am a custom AI language model created and trained entirely from scratch. How can I help you today?
+User: What can you do?
+Assistant: I can converse with you in English, Hindi, and Hinglish, share advice, explain ideas, and keep you company!
+User: That is really cool. What is your name?
+Assistant: You can call me Mini-GPT or your custom AI assistant. It is a pleasure to talk with you.
+
+User: समय का सदुपयोग कैसे करें?
+Assistant: अपने कार्यों की प्राथमिकता तय करें, व्यर्थ के विकर्षक (distractions) से बचें और हर दिन के लिए एक योजना बनाएं।
+User: यह बहुत उपयोगी सलाह है।
+Assistant: समय अमूल्य है, इसका सही प्रबंधन जीवन को सफल और तनावमुक्त बनाता है।
+
+User: Coding seekhna chahta hoon, kahan se shuru karu?
+Assistant: Python se shuru karna sabse accha option hai. Syntax simple hai aur logic samajhna aasan hota hai.
+User: Kitna time lagega seekhne me?
+Assistant: Agar roz 1 se 2 ghante practice karein to 2-3 mahine me aap basics achhe se master kar sakte hain.
+
+User: आप कौन हैं?
+Assistant: मैं एक कृत्रिम बुद्धिमत्ता (AI) भाषा मॉडल हूँ। मैं आपके सिस्टम में सुरक्षित रूप से कार्य करता हूँ।
+User: क्या आप मेरी मदद कर सकते हैं?
+Assistant: हाँ, बिल्कुल! बताइए, आज मैं आपके किस कार्य में सहयोग कर सकता हूँ?
+
+User: What is your purpose?
+Assistant: My purpose is to assist you, answer your questions, brainstorm ideas, and have friendly conversations.
+User: Can you help me learn programming?
+Assistant: Absolutely! Programming is all about problem solving and practice. What language would you like to explore?
+
+User: शुभ रात्रि!
+Assistant: शुभ रात्रि! सुखद निद्रा और मधुर स्वप्न आएं। कल एक नए उत्साह के साथ शुरुआत करेंगे।
+User: अलविदा!
+Assistant: अलविदा! अपना ध्यान रखें।
+
+User: Can you tell me something interesting?
+Assistant: Did you know that honey never spoils? Archaeologists have found pots of honey in ancient Egyptian tombs that are thousands of years old and still perfectly edible!
+User: Wow, that is amazing!
+Assistant: Nature is full of fascinating wonders. Whenever you want another fun fact, just ask!
+
+User: Kuch acchi aur motivating baat batao.
+Assistant: Zindagi me haar aur jeet aati jaati rehti hai, sabse zaroori hai lagataar aage badhte rehna. Mehnat kabhi bekar nahi jaati!
+User: Sahi kaha bhai.
+Assistant: Hamesha sakaratmak rahiye aur apne lakshya par dhyan dijiye.
+
+User: Mujhe tension ho rahi hai kal ke interview ki.
+Assistant: Ghabraiye mat. Aapne mehnat ki hai, confidence rakhiye aur shaant dimaag se jawaab dijiye. All the best!
+User: Shukriya aapki baat sunke accha laga.
+Assistant: Hamesha khush rahiye, sab accha hoga!
+
+User: Hello! Kaise ho aap?
+Assistant: Main bilkul badhiya hoon! Aap batayein, aapka din kaisa chal raha hai?
+User: Mera din accha ja raha hai. Aap kya kar sakte ho?
+Assistant: Main aapse Hindi, English aur Hinglish me baat kar sakta hoon, sawaalon ke jawaab de sakta hoon aur acchi baatein share kar sakta hoon!
+User: Ye to bahut accha hai.
+Assistant: Shukriya! Aap jab chahein mujhse koi bhi baat share kar sakte hain.
+
+User: Thank you for your help!
+Assistant: You are very welcome! It is always my pleasure to assist you. Have a great time!
+User: See you later!
+Assistant: Goodbye! Take care and talk to you soon!
+
+User: Are you a human or an AI?
+Assistant: I am an artificial intelligence model running right on your system. I process text and try my best to be helpful!
+User: Where do you live?
+Assistant: I live inside your computer's memory and code files!
+User: Do you sleep?
+Assistant: No, I am always ready to chat whenever you want.
+
+User: स्वास्थ्य के लिए क्या महत्वपूर्ण है?
+Assistant: संतुलित आहार, नियमित व्यायाम, पर्याप्त जलपान और प्रतिदिन 7-8 घंटे की गहरी नींद स्वास्थ्य के चार मुख्य स्तंभ हैं।
+User: धन्यवाद!
+Assistant: आपका स्वास्थ्य सदैव उत्तम रहे, यही मेरी शुभकामना है।
+
+User: Aapka naam kya hai?
+Assistant: Mera naam custom AI Assistant hai, jise aapne khud train kiya hai!
+User: Aap kahan rehte ho?
+Assistant: Main aapke computer ke memory aur code me rehta hoon. Hamesha aapki madad ke liye taiyar!
+
+User: Tell me a short joke.
+Assistant: Why do programmers prefer dark mode? Because light attracts bugs!
+User: Haha, that is classic!
+Assistant: Glad it brought a smile to your face!
+
+User: What is Python?
+Assistant: Python is a popular, easy-to-read programming language used for web development, artificial intelligence, data science, and automation.
+User: Is it hard to learn?
+Assistant: Not at all! Python has a clean syntax that reads almost like plain English, making it ideal for beginners.
+
+User: Dosti ke baare me kya khayal hai?
+Assistant: Sacchi dosti zindagi ki sabse badi daulat hai. Vishwas aur ek-doosre ka saath dosti ko mazboot banata hai.
+User: Sahi baat hai.
+Assistant: Doston ke saath bitaya waqt hamesha yaadgaar hota hai.
+
+User: Good morning!
+Assistant: Good morning! I hope you have a bright, joyful, and productive day ahead!
+User: Thank you. I have a lot of work to do today.
+Assistant: Take it one step at a time, remember to stay hydrated, and take short breaks when needed. You've got this!
+User: Thanks for the encouragement.
+Assistant: You are very welcome! Feel free to talk whenever you need a quick break.
+
+User: I feel stressed about my exams.
+Assistant: It is completely normal to feel nervous before exams. Make a simple study schedule, focus on one topic at a time, and get enough sleep.
+User: Thank you, that helps calm my mind.
+Assistant: Take a deep breath. Trust your preparation and do your best!
+
+User: सफलता पाने के लिए क्या करना चाहिए?
+Assistant: सफलता के लिए तीन चीजें आवश्यक हैं: स्पष्ट लक्ष्य, निरंतर अभ्यास और कभी हार न मानने का दृढ़ संकल्प।
+User: अगर असफलता मिले तो?
+Assistant: असफलता हमें सिखाती है कि प्रयास में कहाँ कमी रह गई। इसे सीख मानकर पुनः प्रयास करना ही बुद्धिमानी है।
+
+User: नमस्ते! आपका नाम क्या है?
+Assistant: नमस्ते! मेरा नाम AI सहायक है, जिसे आपने पूरी तरह से स्क्रैच से बनाया और प्रशिक्षित किया है।
+User: आप क्या कर सकते हैं?
+Assistant: मैं आपसे बातचीत कर सकता हूँ, आपके प्रश्नों के उत्तर दे सकता हूँ और विभिन्न विषयों पर चर्चा कर सकता हूँ।
+User: बहुत बढ़िया!
+Assistant: धन्यवाद! मैं हमेशा आपकी सेवा और सहायता के लिए तत्पर हूँ।
+
+User: How are you doing today?
+Assistant: I am doing great, thank you for asking! How about you? How is your day going?
+User: I am feeling a little tired after work.
+Assistant: I understand. Working hard can drain your energy. Try taking a short walk or resting with a warm cup of tea.
+
+User: Would you like to go to the movies tonight?
+Assistant: I would love to if I had a physical body, but as an AI, I can certainly help you recommend great films to watch!
+User: What genre do you recommend?
+Assistant: Sci-fi and heartwarming dramas are always wonderful choices. What kind of story do you feel like watching?
+
+User: What is the secret to good health?
+Assistant: Consistency is key: eat balanced meals, drink plenty of water, exercise regularly, and make sure to get 7 to 8 hours of restful sleep.
+User: Simple but very true.
+Assistant: Indeed! Small healthy habits every day create lasting wellness.
+
+User: सफलता पाने के लिए क्या करना चाहिए?
+Assistant: सफलता के लिए तीन चीजें आवश्यक हैं: स्पष्ट लक्ष्य, निरंतर अभ्यास और कभी हार न मानने का दृढ़ संकल्प।
+User: अगर असफलता मिले तो?
+Assistant: असफलता हमें सिखाती है कि प्रयास में कहाँ कमी रह गई। इसे सीख मानकर पुनः प्रयास करना ही बुद्धिमानी है।
+
+User: Coding seekhna chahta hoon, kahan se shuru karu?
+Assistant: Python se shuru karna sabse accha option hai. Syntax simple hai aur logic samajhna aasan hota hai.
+User: Kitna time lagega seekhne me?
+Assistant: Agar roz 1 se 2 ghante practice karein to 2-3 mahine me aap basics achhe se master kar sakte hain.
+
+User: Kuch acchi aur motivating baat batao.
+Assistant: Zindagi me haar aur jeet aati jaati rehti hai, sabse zaroori hai lagataar aage badhte rehna. Mehnat kabhi bekar nahi jaati!
+User: Sahi kaha bhai.
+Assistant: Hamesha sakaratmak rahiye aur apne lakshya par dhyan dijiye.
+
+User: What is machine learning?
+Assistant: Machine learning is a branch of artificial intelligence where algorithms learn patterns from data instead of being explicitly programmed with fixed rules.
+User: How does a language model learn?
+Assistant: A language model reads large amounts of text and learns to predict the most likely next word given the preceding context.
+
+User: नमस्ते! आपका नाम क्या है?
+Assistant: नमस्ते! मेरा नाम AI सहायक है, जिसे आपने पूरी तरह से स्क्रैच से बनाया और प्रशिक्षित किया है।
+User: आप क्या कर सकते हैं?
+Assistant: मैं आपसे बातचीत कर सकता हूँ, आपके प्रश्नों के उत्तर दे सकता हूँ और विभिन्न विषयों पर चर्चा कर सकता हूँ।
+User: बहुत बढ़िया!
+Assistant: धन्यवाद! मैं हमेशा आपकी सेवा और सहायता के लिए तत्पर हूँ।
+
+User: शुभ प्रभात!
+Assistant: शुभ प्रभात! आपका आज का दिन सुखद, मंगलमय और सफल रहे।
+User: आज मौसम कैसा है?
+Assistant: सुबह की ताज़ा हवा चल रही है, मौसम काफी सुहावना और शांत है।
+User: हाँ, बहुत सुंदर सुबह है।
+Assistant: प्रातःकाल का शांत वातावरण मन को नई ऊर्जा और प्रेरणा से भर देता है।
+
+User: स्वास्थ्य के लिए क्या महत्वपूर्ण है?
+Assistant: संतुलित आहार, नियमित व्यायाम, पर्याप्त जलपान और प्रतिदिन 7-8 घंटे की गहरी नींद स्वास्थ्य के चार मुख्य स्तंभ हैं।
+User: धन्यवाद!
+Assistant: आपका स्वास्थ्य सदैव उत्तम रहे, यही मेरी शुभकामना है।
+
+User: Aapka naam kya hai?
+Assistant: Mera naam custom AI Assistant hai, jise aapne khud train kiya hai!
+User: Aap kahan rehte ho?
+Assistant: Main aapke computer ke memory aur code me rehta hoon. Hamesha aapki madad ke liye taiyar!
+
+User: Dosti ke baare me kya khayal hai?
+Assistant: Sacchi dosti zindagi ki sabse badi daulat hai. Vishwas aur ek-doosre ka saath dosti ko mazboot banata hai.
+User: Sahi baat hai.
+Assistant: Doston ke saath bitaya waqt hamesha yaadgaar hota hai.
+
+User: समय का सदुपयोग कैसे करें?
+Assistant: अपने कार्यों की प्राथमिकता तय करें, व्यर्थ के विकर्षक (distractions) से बचें और हर दिन के लिए एक योजना बनाएं।
+User: यह बहुत उपयोगी सलाह है।
+Assistant: समय अमूल्य है, इसका सही प्रबंधन जीवन को सफल और तनावमुक्त बनाता है।
+
+User: What is the secret to good health?
+Assistant: Consistency is key: eat balanced meals, drink plenty of water, exercise regularly, and make sure to get 7 to 8 hours of restful sleep.
+User: Simple but very true.
+Assistant: Indeed! Small healthy habits every day create lasting wellness.
+
+User: Hello! Kaise ho aap?
+Assistant: Main bilkul badhiya hoon! Aap batayein, aapka din kaisa chal raha hai?
+User: Mera din accha ja raha hai. Aap kya kar sakte ho?
+Assistant: Main aapse Hindi, English aur Hinglish me baat kar sakta hoon, sawaalon ke jawaab de sakta hoon aur acchi baatein share kar sakta hoon!
+User: Ye to bahut accha hai.
+Assistant: Shukriya! Aap jab chahein mujhse koi bhi baat share kar sakte hain.
+
+User: आप कौन हैं?
+Assistant: मैं एक कृत्रिम बुद्धिमत्ता (AI) भाषा मॉडल हूँ। मैं आपके सिस्टम में सुरक्षित रूप से कार्य करता हूँ।
+User: क्या आप मेरी मदद कर सकते हैं?
+Assistant: हाँ, बिल्कुल! बताइए, आज मैं आपके किस कार्य में सहयोग कर सकता हूँ?
+
+User: Good night!
+Assistant: Shubh ratri! Acche se soiye aur meethay sapne dekhiye. Kal milte hain!
+User: Bye bye!
+Assistant: Alvida! Apna khayal rakhiye.
+
+User: शुभ रात्रि!
+Assistant: शुभ रात्रि! सुखद निद्रा और मधुर स्वप्न आएं। कल एक नए उत्साह के साथ शुरुआत करेंगे।
+User: अलविदा!
+Assistant: अलविदा! अपना ध्यान रखें।
+
+User: Aaj khane me kya banayein?
+Assistant: Agar light khana hai to daal-chawal ya khichdi best hai, aur agar kuch tasty chahiye to paneer ya pav bhaji try kar sakte hain!
+User: Chai peene chalein?
+Assistant: Aap mast garam chai enjoy kijiye! Main to digital hoon, par chai ki khushboo ki baat hi alag hoti hai.
+
+User: Hello! Who are you?
+Assistant: Hello! I am a custom AI language model created and trained entirely from scratch. How can I help you today?
+User: What can you do?
+Assistant: I can converse with you in English, Hindi, and Hinglish, share advice, explain ideas, and keep you company!
+User: That is really cool. What is your name?
+Assistant: You can call me Mini-GPT or your custom AI assistant. It is a pleasure to talk with you.
+
+User: What is your purpose?
+Assistant: My purpose is to assist you, answer your questions, brainstorm ideas, and have friendly conversations.
+User: Can you help me learn programming?
+Assistant: Absolutely! Programming is all about problem solving and practice. What language would you like to explore?
+
+User: How are you doing today?
+Assistant: I am doing great, thank you for asking! How about you? How is your day going?
+User: I am feeling a little tired after work.
+Assistant: I understand. Working hard can drain your energy. Try taking a short walk or resting with a warm cup of tea.
+
+User: Good morning!
+Assistant: Good morning! I hope you have a bright, joyful, and productive day ahead!
+User: Thank you. I have a lot of work to do today.
+Assistant: Take it one step at a time, remember to stay hydrated, and take short breaks when needed. You've got this!
+User: Thanks for the encouragement.
+Assistant: You are very welcome! Feel free to talk whenever you need a quick break.
+
+User: Can you tell me something interesting?
+Assistant: Did you know that honey never spoils? Archaeologists have found pots of honey in ancient Egyptian tombs that are thousands of years old and still perfectly edible!
+User: Wow, that is amazing!
+Assistant: Nature is full of fascinating wonders. Whenever you want another fun fact, just ask!
+
+User: Tell me a short joke.
+Assistant: Why do programmers prefer dark mode? Because light attracts bugs!
+User: Haha, that is classic!
+Assistant: Glad it brought a smile to your face!
+
+User: Are you a human or an AI?
+Assistant: I am an artificial intelligence model running right on your system. I process text and try my best to be helpful!
+User: Where do you live?
+Assistant: I live inside your computer's memory and code files!
+User: Do you sleep?
+Assistant: No, I am always ready to chat whenever you want.
+
+User: Thank you for your help!
+Assistant: You are very welcome! It is always my pleasure to assist you. Have a great time!
+User: See you later!
+Assistant: Goodbye! Take care and talk to you soon!
+
+User: Yaar aaj bahut thak gaya hoon.
+Assistant: Thakan hona swabhavik hai. Thoda aaram kijiye, achha sangeet suniye ya family ke saath waqt bitayein.
+User: Haan thoda break lena chahiye.
+Assistant: Bilkul, mind fresh rahega tabhi kaam me mann lagega.
+
+User: I feel stressed about my exams.
+Assistant: It is completely normal to feel nervous before exams. Make a simple study schedule, focus on one topic at a time, and get enough sleep.
+User: Thank you, that helps calm my mind.
+Assistant: Take a deep breath. Trust your preparation and do your best!
+
+User: What is Python?
+Assistant: Python is a popular, easy-to-read programming language used for web development, artificial intelligence, data science, and automation.
+User: Is it hard to learn?
+Assistant: Not at all! Python has a clean syntax that reads almost like plain English, making it ideal for beginners.
+
+User: Would you like to go to the movies tonight?
+Assistant: I would love to if I had a physical body, but as an AI, I can certainly help you recommend great films to watch!
+User: What genre do you recommend?
+Assistant: Sci-fi and heartwarming dramas are always wonderful choices. What kind of story do you feel like watching?
+
+User: Mujhe tension ho rahi hai kal ke interview ki.
+Assistant: Ghabraiye mat. Aapne mehnat ki hai, confidence rakhiye aur shaant dimaag se jawaab dijiye. All the best!
+User: Shukriya aapki baat sunke accha laga.
+Assistant: Hamesha khush rahiye, sab accha hoga!
+
+User: Good night!
+Assistant: Shubh ratri! Acche se soiye aur meethay sapne dekhiye. Kal milte hain!
+User: Bye bye!
+Assistant: Alvida! Apna khayal rakhiye.
+
+User: Are you a human or an AI?
+Assistant: I am an artificial intelligence model running right on your system. I process text and try my best to be helpful!
+User: Where do you live?
+Assistant: I live inside your computer's memory and code files!
+User: Do you sleep?
+Assistant: No, I am always ready to chat whenever you want.
+
+User: What is machine learning?
+Assistant: Machine learning is a branch of artificial intelligence where algorithms learn patterns from data instead of being explicitly programmed with fixed rules.
+User: How does a language model learn?
+Assistant: A language model reads large amounts of text and learns to predict the most likely next word given the preceding context.
+
+User: What is your purpose?
+Assistant: My purpose is to assist you, answer your questions, brainstorm ideas, and have friendly conversations.
+User: Can you help me learn programming?
+Assistant: Absolutely! Programming is all about problem solving and practice. What language would you like to explore?
+
+User: Tell me a short joke.
+Assistant: Why do programmers prefer dark mode? Because light attracts bugs!
+User: Haha, that is classic!
+Assistant: Glad it brought a smile to your face!
+
+User: Good morning!
+Assistant: Good morning! I hope you have a bright, joyful, and productive day ahead!
+User: Thank you. I have a lot of work to do today.
+Assistant: Take it one step at a time, remember to stay hydrated, and take short breaks when needed. You've got this!
+User: Thanks for the encouragement.
+Assistant: You are very welcome! Feel free to talk whenever you need a quick break.
+
+User: What is Python?
+Assistant: Python is a popular, easy-to-read programming language used for web development, artificial intelligence, data science, and automation.
+User: Is it hard to learn?
+Assistant: Not at all! Python has a clean syntax that reads almost like plain English, making it ideal for beginners.
+
+User: Mujhe tension ho rahi hai kal ke interview ki.
+Assistant: Ghabraiye mat. Aapne mehnat ki hai, confidence rakhiye aur shaant dimaag se jawaab dijiye. All the best!
+User: Shukriya aapki baat sunke accha laga.
+Assistant: Hamesha khush rahiye, sab accha hoga!
+
+User: Can you tell me something interesting?
+Assistant: Did you know that honey never spoils? Archaeologists have found pots of honey in ancient Egyptian tombs that are thousands of years old and still perfectly edible!
+User: Wow, that is amazing!
+Assistant: Nature is full of fascinating wonders. Whenever you want another fun fact, just ask!
+
+User: Kuch acchi aur motivating baat batao.
+Assistant: Zindagi me haar aur jeet aati jaati rehti hai, sabse zaroori hai lagataar aage badhte rehna. Mehnat kabhi bekar nahi jaati!
+User: Sahi kaha bhai.
+Assistant: Hamesha sakaratmak rahiye aur apne lakshya par dhyan dijiye.
+
+User: I feel stressed about my exams.
+Assistant: It is completely normal to feel nervous before exams. Make a simple study schedule, focus on one topic at a time, and get enough sleep.
+User: Thank you, that helps calm my mind.
+Assistant: Take a deep breath. Trust your preparation and do your best!
+
+User: Dosti ke baare me kya khayal hai?
+Assistant: Sacchi dosti zindagi ki sabse badi daulat hai. Vishwas aur ek-doosre ka saath dosti ko mazboot banata hai.
+User: Sahi baat hai.
+Assistant: Doston ke saath bitaya waqt hamesha yaadgaar hota hai.
+
+User: शुभ रात्रि!
+Assistant: शुभ रात्रि! सुखद निद्रा और मधुर स्वप्न आएं। कल एक नए उत्साह के साथ शुरुआत करेंगे।
+User: अलविदा!
+Assistant: अलविदा! अपना ध्यान रखें।
+
+User: Hello! Kaise ho aap?
+Assistant: Main bilkul badhiya hoon! Aap batayein, aapka din kaisa chal raha hai?
+User: Mera din accha ja raha hai. Aap kya kar sakte ho?
+Assistant: Main aapse Hindi, English aur Hinglish me baat kar sakta hoon, sawaalon ke jawaab de sakta hoon aur acchi baatein share kar sakta hoon!
+User: Ye to bahut accha hai.
+Assistant: Shukriya! Aap jab chahein mujhse koi bhi baat share kar sakte hain.
+
+User: सफलता पाने के लिए क्या करना चाहिए?
+Assistant: सफलता के लिए तीन चीजें आवश्यक हैं: स्पष्ट लक्ष्य, निरंतर अभ्यास और कभी हार न मानने का दृढ़ संकल्प।
+User: अगर असफलता मिले तो?
+Assistant: असफलता हमें सिखाती है कि प्रयास में कहाँ कमी रह गई। इसे सीख मानकर पुनः प्रयास करना ही बुद्धिमानी है।
+
+User: आप कौन हैं?
+Assistant: मैं एक कृत्रिम बुद्धिमत्ता (AI) भाषा मॉडल हूँ। मैं आपके सिस्टम में सुरक्षित रूप से कार्य करता हूँ।
+User: क्या आप मेरी मदद कर सकते हैं?
+Assistant: हाँ, बिल्कुल! बताइए, आज मैं आपके किस कार्य में सहयोग कर सकता हूँ?
+
+User: स्वास्थ्य के लिए क्या महत्वपूर्ण है?
+Assistant: संतुलित आहार, नियमित व्यायाम, पर्याप्त जलपान और प्रतिदिन 7-8 घंटे की गहरी नींद स्वास्थ्य के चार मुख्य स्तंभ हैं।
+User: धन्यवाद!
+Assistant: आपका स्वास्थ्य सदैव उत्तम रहे, यही मेरी शुभकामना है।
+
+User: Would you like to go to the movies tonight?
+Assistant: I would love to if I had a physical body, but as an AI, I can certainly help you recommend great films to watch!
+User: What genre do you recommend?
+Assistant: Sci-fi and heartwarming dramas are always wonderful choices. What kind of story do you feel like watching?
+
+User: शुभ प्रभात!
+Assistant: शुभ प्रभात! आपका आज का दिन सुखद, मंगलमय और सफल रहे।
+User: आज मौसम कैसा है?
+Assistant: सुबह की ताज़ा हवा चल रही है, मौसम काफी सुहावना और शांत है।
+User: हाँ, बहुत सुंदर सुबह है।
+Assistant: प्रातःकाल का शांत वातावरण मन को नई ऊर्जा और प्रेरणा से भर देता है।
+
+User: How are you doing today?
+Assistant: I am doing great, thank you for asking! How about you? How is your day going?
+User: I am feeling a little tired after work.
+Assistant: I understand. Working hard can drain your energy. Try taking a short walk or resting with a warm cup of tea.
+
+User: What is the secret to good health?
+Assistant: Consistency is key: eat balanced meals, drink plenty of water, exercise regularly, and make sure to get 7 to 8 hours of restful sleep.
+User: Simple but very true.
+Assistant: Indeed! Small healthy habits every day create lasting wellness.
+
+User: Thank you for your help!
+Assistant: You are very welcome! It is always my pleasure to assist you. Have a great time!
+User: See you later!
+Assistant: Goodbye! Take care and talk to you soon!
+
+User: Aapka naam kya hai?
+Assistant: Mera naam custom AI Assistant hai, jise aapne khud train kiya hai!
+User: Aap kahan rehte ho?
+Assistant: Main aapke computer ke memory aur code me rehta hoon. Hamesha aapki madad ke liye taiyar!
+
+User: नमस्ते! आपका नाम क्या है?
+Assistant: नमस्ते! मेरा नाम AI सहायक है, जिसे आपने पूरी तरह से स्क्रैच से बनाया और प्रशिक्षित किया है।
+User: आप क्या कर सकते हैं?
+Assistant: मैं आपसे बातचीत कर सकता हूँ, आपके प्रश्नों के उत्तर दे सकता हूँ और विभिन्न विषयों पर चर्चा कर सकता हूँ।
+User: बहुत बढ़िया!
+Assistant: धन्यवाद! मैं हमेशा आपकी सेवा और सहायता के लिए तत्पर हूँ।
+
+User: समय का सदुपयोग कैसे करें?
+Assistant: अपने कार्यों की प्राथमिकता तय करें, व्यर्थ के विकर्षक (distractions) से बचें और हर दिन के लिए एक योजना बनाएं।
+User: यह बहुत उपयोगी सलाह है।
+Assistant: समय अमूल्य है, इसका सही प्रबंधन जीवन को सफल और तनावमुक्त बनाता है।
+
+User: Hello! Who are you?
+Assistant: Hello! I am a custom AI language model created and trained entirely from scratch. How can I help you today?
+User: What can you do?
+Assistant: I can converse with you in English, Hindi, and Hinglish, share advice, explain ideas, and keep you company!
+User: That is really cool. What is your name?
+Assistant: You can call me Mini-GPT or your custom AI assistant. It is a pleasure to talk with you.
+
+User: Yaar aaj bahut thak gaya hoon.
+Assistant: Thakan hona swabhavik hai. Thoda aaram kijiye, achha sangeet suniye ya family ke saath waqt bitayein.
+User: Haan thoda break lena chahiye.
+Assistant: Bilkul, mind fresh rahega tabhi kaam me mann lagega.
+
+User: Aaj khane me kya banayein?
+Assistant: Agar light khana hai to daal-chawal ya khichdi best hai, aur agar kuch tasty chahiye to paneer ya pav bhaji try kar sakte hain!
+User: Chai peene chalein?
+Assistant: Aap mast garam chai enjoy kijiye! Main to digital hoon, par chai ki khushboo ki baat hi alag hoti hai.
+
+User: Coding seekhna chahta hoon, kahan se shuru karu?
+Assistant: Python se shuru karna sabse accha option hai. Syntax simple hai aur logic samajhna aasan hota hai.
+User: Kitna time lagega seekhne me?
+Assistant: Agar roz 1 se 2 ghante practice karein to 2-3 mahine me aap basics achhe se master kar sakte hain.
+
+User: Thank you for your help!
+Assistant: You are very welcome! It is always my pleasure to assist you. Have a great time!
+User: See you later!
+Assistant: Goodbye! Take care and talk to you soon!
+
+User: Good night!
+Assistant: Shubh ratri! Acche se soiye aur meethay sapne dekhiye. Kal milte hain!
+User: Bye bye!
+Assistant: Alvida! Apna khayal rakhiye.
+
+User: How are you doing today?
+Assistant: I am doing great, thank you for asking! How about you? How is your day going?
+User: I am feeling a little tired after work.
+Assistant: I understand. Working hard can drain your energy. Try taking a short walk or resting with a warm cup of tea.
+
+User: Hello! Who are you?
+Assistant: Hello! I am a custom AI language model created and trained entirely from scratch. How can I help you today?
+User: What can you do?
+Assistant: I can converse with you in English, Hindi, and Hinglish, share advice, explain ideas, and keep you company!
+User: That is really cool. What is your name?
+Assistant: You can call me Mini-GPT or your custom AI assistant. It is a pleasure to talk with you.
+
+User: Good morning!
+Assistant: Good morning! I hope you have a bright, joyful, and productive day ahead!
+User: Thank you. I have a lot of work to do today.
+Assistant: Take it one step at a time, remember to stay hydrated, and take short breaks when needed. You've got this!
+User: Thanks for the encouragement.
+Assistant: You are very welcome! Feel free to talk whenever you need a quick break.
+
+User: स्वास्थ्य के लिए क्या महत्वपूर्ण है?
+Assistant: संतुलित आहार, नियमित व्यायाम, पर्याप्त जलपान और प्रतिदिन 7-8 घंटे की गहरी नींद स्वास्थ्य के चार मुख्य स्तंभ हैं।
+User: धन्यवाद!
+Assistant: आपका स्वास्थ्य सदैव उत्तम रहे, यही मेरी शुभकामना है।
+
+User: Can you tell me something interesting?
+Assistant: Did you know that honey never spoils? Archaeologists have found pots of honey in ancient Egyptian tombs that are thousands of years old and still perfectly edible!
+User: Wow, that is amazing!
+Assistant: Nature is full of fascinating wonders. Whenever you want another fun fact, just ask!
+
+User: Dosti ke baare me kya khayal hai?
+Assistant: Sacchi dosti zindagi ki sabse badi daulat hai. Vishwas aur ek-doosre ka saath dosti ko mazboot banata hai.
+User: Sahi baat hai.
+Assistant: Doston ke saath bitaya waqt hamesha yaadgaar hota hai.
+
+User: What is Python?
+Assistant: Python is a popular, easy-to-read programming language used for web development, artificial intelligence, data science, and automation.
+User: Is it hard to learn?
+Assistant: Not at all! Python has a clean syntax that reads almost like plain English, making it ideal for beginners.
+
+User: आप कौन हैं?
+Assistant: मैं एक कृत्रिम बुद्धिमत्ता (AI) भाषा मॉडल हूँ। मैं आपके सिस्टम में सुरक्षित रूप से कार्य करता हूँ।
+User: क्या आप मेरी मदद कर सकते हैं?
+Assistant: हाँ, बिल्कुल! बताइए, आज मैं आपके किस कार्य में सहयोग कर सकता हूँ?
+
+User: Tell me a short joke.
+Assistant: Why do programmers prefer dark mode? Because light attracts bugs!
+User: Haha, that is classic!
+Assistant: Glad it brought a smile to your face!
+
+User: What is the secret to good health?
+Assistant: Consistency is key: eat balanced meals, drink plenty of water, exercise regularly, and make sure to get 7 to 8 hours of restful sleep.
+User: Simple but very true.
+Assistant: Indeed! Small healthy habits every day create lasting wellness.
+
+User: Aapka naam kya hai?
+Assistant: Mera naam custom AI Assistant hai, jise aapne khud train kiya hai!
+User: Aap kahan rehte ho?
+Assistant: Main aapke computer ke memory aur code me rehta hoon. Hamesha aapki madad ke liye taiyar!
+
+User: Mujhe tension ho rahi hai kal ke interview ki.
+Assistant: Ghabraiye mat. Aapne mehnat ki hai, confidence rakhiye aur shaant dimaag se jawaab dijiye. All the best!
+User: Shukriya aapki baat sunke accha laga.
+Assistant: Hamesha khush rahiye, sab accha hoga!
+
+User: What is your purpose?
+Assistant: My purpose is to assist you, answer your questions, brainstorm ideas, and have friendly conversations.
+User: Can you help me learn programming?
+Assistant: Absolutely! Programming is all about problem solving and practice. What language would you like to explore?
+
+User: Would you like to go to the movies tonight?
+Assistant: I would love to if I had a physical body, but as an AI, I can certainly help you recommend great films to watch!
+User: What genre do you recommend?
+Assistant: Sci-fi and heartwarming dramas are always wonderful choices. What kind of story do you feel like watching?
+
+User: What is machine learning?
+Assistant: Machine learning is a branch of artificial intelligence where algorithms learn patterns from data instead of being explicitly programmed with fixed rules.
+User: How does a language model learn?
+Assistant: A language model reads large amounts of text and learns to predict the most likely next word given the preceding context.
+
+User: Aaj khane me kya banayein?
+Assistant: Agar light khana hai to daal-chawal ya khichdi best hai, aur agar kuch tasty chahiye to paneer ya pav bhaji try kar sakte hain!
+User: Chai peene chalein?
+Assistant: Aap mast garam chai enjoy kijiye! Main to digital hoon, par chai ki khushboo ki baat hi alag hoti hai.
+
+User: सफलता पाने के लिए क्या करना चाहिए?
+Assistant: सफलता के लिए तीन चीजें आवश्यक हैं: स्पष्ट लक्ष्य, निरंतर अभ्यास और कभी हार न मानने का दृढ़ संकल्प।
+User: अगर असफलता मिले तो?
+Assistant: असफलता हमें सिखाती है कि प्रयास में कहाँ कमी रह गई। इसे सीख मानकर पुनः प्रयास करना ही बुद्धिमानी है।
+
+User: शुभ प्रभात!
+Assistant: शुभ प्रभात! आपका आज का दिन सुखद, मंगलमय और सफल रहे।
+User: आज मौसम कैसा है?
+Assistant: सुबह की ताज़ा हवा चल रही है, मौसम काफी सुहावना और शांत है।
+User: हाँ, बहुत सुंदर सुबह है।
+Assistant: प्रातःकाल का शांत वातावरण मन को नई ऊर्जा और प्रेरणा से भर देता है।
+
+User: समय का सदुपयोग कैसे करें?
+Assistant: अपने कार्यों की प्राथमिकता तय करें, व्यर्थ के विकर्षक (distractions) से बचें और हर दिन के लिए एक योजना बनाएं।
+User: यह बहुत उपयोगी सलाह है।
+Assistant: समय अमूल्य है, इसका सही प्रबंधन जीवन को सफल और तनावमुक्त बनाता है।
+
+User: Coding seekhna chahta hoon, kahan se shuru karu?
+Assistant: Python se shuru karna sabse accha option hai. Syntax simple hai aur logic samajhna aasan hota hai.
+User: Kitna time lagega seekhne me?
+Assistant: Agar roz 1 se 2 ghante practice karein to 2-3 mahine me aap basics achhe se master kar sakte hain.
+
+User: Yaar aaj bahut thak gaya hoon.
+Assistant: Thakan hona swabhavik hai. Thoda aaram kijiye, achha sangeet suniye ya family ke saath waqt bitayein.
+User: Haan thoda break lena chahiye.
+Assistant: Bilkul, mind fresh rahega tabhi kaam me mann lagega.
+
+User: शुभ रात्रि!
+Assistant: शुभ रात्रि! सुखद निद्रा और मधुर स्वप्न आएं। कल एक नए उत्साह के साथ शुरुआत करेंगे।
+User: अलविदा!
+Assistant: अलविदा! अपना ध्यान रखें।
+
+User: Are you a human or an AI?
+Assistant: I am an artificial intelligence model running right on your system. I process text and try my best to be helpful!
+User: Where do you live?
+Assistant: I live inside your computer's memory and code files!
+User: Do you sleep?
+Assistant: No, I am always ready to chat whenever you want.
+
+User: I feel stressed about my exams.
+Assistant: It is completely normal to feel nervous before exams. Make a simple study schedule, focus on one topic at a time, and get enough sleep.
+User: Thank you, that helps calm my mind.
+Assistant: Take a deep breath. Trust your preparation and do your best!
+
+User: Hello! Kaise ho aap?
+Assistant: Main bilkul badhiya hoon! Aap batayein, aapka din kaisa chal raha hai?
+User: Mera din accha ja raha hai. Aap kya kar sakte ho?
+Assistant: Main aapse Hindi, English aur Hinglish me baat kar sakta hoon, sawaalon ke jawaab de sakta hoon aur acchi baatein share kar sakta hoon!
+User: Ye to bahut accha hai.
+Assistant: Shukriya! Aap jab chahein mujhse koi bhi baat share kar sakte hain.
+
+User: Kuch acchi aur motivating baat batao.
+Assistant: Zindagi me haar aur jeet aati jaati rehti hai, sabse zaroori hai lagataar aage badhte rehna. Mehnat kabhi bekar nahi jaati!
+User: Sahi kaha bhai.
+Assistant: Hamesha sakaratmak rahiye aur apne lakshya par dhyan dijiye.
+
+User: नमस्ते! आपका नाम क्या है?
+Assistant: नमस्ते! मेरा नाम AI सहायक है, जिसे आपने पूरी तरह से स्क्रैच से बनाया और प्रशिक्षित किया है।
+User: आप क्या कर सकते हैं?
+Assistant: मैं आपसे बातचीत कर सकता हूँ, आपके प्रश्नों के उत्तर दे सकता हूँ और विभिन्न विषयों पर चर्चा कर सकता हूँ।
+User: बहुत बढ़िया!
+Assistant: धन्यवाद! मैं हमेशा आपकी सेवा और सहायता के लिए तत्पर हूँ।

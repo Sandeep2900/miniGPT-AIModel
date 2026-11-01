@@ -1,0 +1,19 @@
+{
+  "data_file": "ai_reviewed_pairs.jsonl",
+  "sha256": "002bef069c40919e65f183b30a484dce066c7b05334dcbaab53ffdde66f0beb5",
+  "record_count": 60,
+  "conversation_count": 60,
+  "language_counts": {
+    "en": 20,
+    "hi": 20,
+    "hinglish": 20
+  },
+  "topic_counts": {
+    "greeting": 15,
+    "small_talk": 30,
+    "unknown": 15
+  },
+  "source": "ai_generated",
+  "review_status": "ai_reviewed_experiment",
+  "human_verified": false
+}

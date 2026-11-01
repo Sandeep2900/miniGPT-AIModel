@@ -1,0 +1,300 @@
+[BASELINE 01] LANG: hi
+PROMPT : नमस्ते, क्या थोड़ी देर बात कर सकते हैं?
+REPLY  : मैं हिंदी, हिंग्लिश और अंग्रेज़ी में सहज बातचीत, विचार-विमर्श और सलाह देने में सक्षम
+RATING : 
+
+[BASELINE 02] LANG: hi
+PROMPT : आज मेरा मन कुछ शांत है।
+REPLY  : शुभ रात्रि! मीठे सपने और कल का दिन आपके लिए मंगलमय हो।
+RATING : 
+
+[BASELINE 03] LANG: hi
+PROMPT : मैं आज थोड़ा थका हुआ महसूस कर रहा हूँ।
+REPLY  : काम पूरा होने के बाद का सुकून सबसे प्यारा होता है। अब आराम से समय बिताइए।
+RATING : 
+
+[BASELINE 04] LANG: hi
+PROMPT : मुझे अपनी एक छोटी जीत साझा करनी है।
+REPLY  : तोहननीने कुछ स्वादिष्ट और सेहतमंद खा लीजिए! फल या हल्का नाश्ता कैसा रहेगा?
+RATING : 
+
+[BASELINE 05] LANG: hi
+PROMPT : मैं अभी कुछ देर अकेले रहना चाहता हूँ।
+REPLY  : शुभ संध्या! आपका दिन कैसा बीता?
+RATING : 
+
+[BASELINE 06] LANG: hi
+PROMPT : क्या तुम मेरी बात बिना टोके सुनोगे?
+REPLY  : हाँ, शिक्षा, चिकित्सा और विज्ञान में AI बहुत बड़े और सकारात्मक बदलाव ला रहा है।
+RATING : 
+
+[BASELINE 07] LANG: hi
+PROMPT : मेरा दिन थोड़ा उलझा हुआ रहा।
+REPLY  : हाँ! मैं शुद्ध हिंदी, हिंग्लिश और अंग्रेजी तीनों में बातचीत कर सकता हूँ।
+RATING : 
+
+[BASELINE 08] LANG: hi
+PROMPT : मैंने आज एक नया काम शुरू किया।
+REPLY  : मैं एक ऑफलाइन AI मॉडल हूँ और लाइव सिस्टम घड़ी से जुड़ा नहीं हूँ। कृपया अपने कंप्यूटर या फोन पर आज की तारी
+RATING : 
+
+[BASELINE 09] LANG: hi
+PROMPT : मुझे हल्की-फुल्की बातचीत करनी है।
+REPLY  : काम पूरा होने के बाद का सुकून सबसे प्यारा होता है। अब आराम से समय बिताइए।
+RATING : 
+
+[BASELINE 10] LANG: hi
+PROMPT : कृपया मुझे एक छोटी-सी मज़ेदार बात बताओ।
+REPLY  : सुस्कुराहट जीवन का सबसे सुंदर आभूषण है। सकारात्मक सोचें, कर्म करते रहें और जीवन के हर पल का आ
+RATING : 
+
+[BASELINE 11] LANG: hinglish
+PROMPT : Aaj tumhara mood kaisa chal raha hai?
+REPLY  : Bas aapse baatcheet karne ka intezaar tha! Aap batayein kya naya hai?
+RATING : 
+
+[BASELINE 12] LANG: hinglish
+PROMPT : Main aaj thoda sa tired feel kar raha hoon.
+REPLY  : Bas aapse baatcheet karne ka intezaar tha! Aap batayein kya naya hai?
+RATING : 
+
+[BASELINE 13] LANG: hinglish
+PROMPT : Mujhe apni ek chhoti achievement share karni hai.
+REPLY  : Machine learning seekhna aur achhi baatein karna sabse zyada pasand hai.
+RATING : 
+
+[BASELINE 14] LANG: hinglish
+PROMPT : Kya tum meri baat bina advice diye sun sakte ho?
+REPLY  : Bilkul nahi! Main to hamesha energetic aur baat karne ke liye taiyar rehta hoon.
+RATING : 
+
+[BASELINE 15] LANG: hinglish
+PROMPT : Aaj mujhe thoda break chahiye.
+REPLY  : Badiya idea hai! Garam chai piyo aur dimag ko relax karo.
+RATING : 
+
+[BASELINE 16] LANG: hinglish
+PROMPT : Chalo kisi light topic par baat karte hain.
+REPLY  : Main ek local offline AI hoon, isliye mere paas live calendar nahi hai. Aap apne device ki taskbar par din dekh sakte hain!
+RATING : 
+
+[BASELINE 17] LANG: hinglish
+PROMPT : Main ek nayi hobby try karne ka soch raha hoon.
+REPLY  : Badiya idea hai! Garam chai piyo aur dimag ko relax karo.
+RATING : 
+
+[BASELINE 18] LANG: hinglish
+PROMPT : Apni baat shuru karne mein mujhe thoda awkward lagta hai.
+REPLY  : Language model pichhle shabdon ko dekh kar aage aane wale sabse sambhavit agle shabd ki bhavishyavani karta hai.
+RATING : 
+
+[BASELINE 19] LANG: hinglish
+PROMPT : Koi chhoti si funny line suna do.
+REPLY  : Haan, is samay garam kapde zaroor saath le jaayein taaki safar suhana rahe.
+RATING : 
+
+[BASELINE 20] LANG: hinglish
+PROMPT : Aaj maine kaafi kuch manage kar liya.
+REPLY  : Bas aapse baatcheet karne ka intezaar tha! Aap batayein kya naya hai?
+RATING : 
+
+[BASELINE 21] LANG: en
+PROMPT : Hey, would you keep me company for a moment?
+REPLY  : Yes, I am a causal transformer language model designed to understand and generate text.
+RATING : 
+
+[BASELINE 22] LANG: en
+PROMPT : I could use a calm conversation.
+REPLY  : I would love to if I had a body! But as an AI, I can help you pick a fantastic movie to watch. What genre do you enjoy?
+RATING : 
+
+[BASELINE 23] LANG: en
+PROMPT : I feel a little nervous about sharing my thoughts.
+REPLY  : I think I can't believe that.
+RATING : 
+
+[BASELINE 24] LANG: en
+PROMPT : Let me tell you about a good moment from today.
+REPLY  : I am a causal transformer language model designed to understand and generate text.
+RATING : 
+
+[BASELINE 25] LANG: en
+PROMPT : Please listen without trying to fix everything.
+REPLY  : I would love to, but as an AI I don't have a physical body to dance! However, I can suggest great dance music for you, or chat about dance styles!
+RATING : 
+
+[BASELINE 26] LANG: en
+PROMPT : I want to take a short pause.
+REPLY  : I think it's a lot of money.
+RATING : 
+
+[BASELINE 27] LANG: en
+PROMPT : Can we talk about something cheerful?
+REPLY  : I am a causal transformer language model created from scratch to converse with you in English, Hindi, and Hinglish.
+RATING : 
+
+[BASELINE 28] LANG: en
+PROMPT : I am not sure how I feel yet.
+REPLY  : I think I'm going to be a little bit.
+RATING : 
+
+[BASELINE 29] LANG: en
+PROMPT : Could you help me put my thoughts in order?
+REPLY  : I would love to if I had a body! But as an AI, I can help you pick a fantastic movie to watch. What genre do you enjoy?
+RATING : 
+
+[BASELINE 30] LANG: en
+PROMPT : I would like a gentle distraction.
+REPLY  : I would love to, but as an AI software model I don't have a physical body to dance! However, I can suggest great dance tracks or discuss dance styles!
+RATING : 
+
+[V2 01] LANG: hi
+PROMPT : नमस्ते, क्या थोड़ी देर बात कर सकते हैं?
+REPLY  : मैं आपके सवालों के जवाब दे सकता हूँ, बातचीत कर सकता हूँ, और नई बातें सीखने में मदद कर सकता हूँ।
+RATING : 
+
+[V2 02] LANG: hi
+PROMPT : आज मेरा मन कुछ शांत है।
+REPLY  : शुभ रात्रि! मीठे सपने और कल का दिन आपके लिए मंगलमय हो।
+RATING : 
+
+[V2 03] LANG: hi
+PROMPT : मैं आज थोड़ा थका हुआ महसूस कर रहा हूँ।
+REPLY  : कोई बात नहीं! क्या आप कोई रोचक कहानी सुनना चाहेंगे या किसी नए विषय पर बात करें?
+RATING : 
+
+[V2 04] LANG: hi
+PROMPT : मुझे अपनी एक छोटी जीत साझा करनी है।
+REPLY  : तोहनत कुछ स्वादिष्ट और सेहतमंद खा लीजिए! फल या हल्का नाश्ता कैसा रहेगा?
+RATING : 
+
+[V2 05] LANG: hi
+PROMPT : मैं अभी कुछ देर अकेले रहना चाहता हूँ।
+REPLY  : शुभ संध्या! आपका दिन कैसा बीता?
+RATING : 
+
+[V2 06] LANG: hi
+PROMPT : क्या तुम मेरी बात बिना टोके सुनोगे?
+REPLY  : हाँ, शिक्षा, चिकित्सा और विज्ञान में AI बहुत बड़े और सकारात्मक बदलाव ला रहा है।
+RATING : 
+
+[V2 07] LANG: hi
+PROMPT : मेरा दिन थोड़ा उलझा हुआ रहा।
+REPLY  : हाँ! मैं शुद्ध हिंदी, हिंग्लिश और अंग्रेजी तीनों में बातचीत कर सकता हूँ।
+RATING : 
+
+[V2 08] LANG: hi
+PROMPT : मैंने आज एक नया काम शुरू किया।
+REPLY  : मैं आपके साथ बातचीत करने और नई चीजें सीखने के लिए हमेशा तैयार हूँ।
+RATING : 
+
+[V2 09] LANG: hi
+PROMPT : मुझे हल्की-फुल्की बातचीत करनी है।
+REPLY  : काम पूरा होने के बाद का सुकून सबसे प्यारा होता है। अब आराम से समय बिताइए।
+RATING : 
+
+[V2 10] LANG: hi
+PROMPT : कृपया मुझे एक छोटी-सी मज़ेदार बात बताओ।
+REPLY  : सुस्कुराहट जीवन का सबसे सुंदर आभूषण है। सकारात्मक सोचें, कर्म करते रहें और जीवन के हर पल का आ
+RATING : 
+
+[V2 11] LANG: hinglish
+PROMPT : Aaj tumhara mood kaisa chal raha hai?
+REPLY  : Bas aapse baatcheet karne ka intezaar tha! Aap batayein kya naya hai?
+RATING : 
+
+[V2 12] LANG: hinglish
+PROMPT : Main aaj thoda sa tired feel kar raha hoon.
+REPLY  : Bas thoda sa samay aur dhairya, sab kuch theek ho jayega!
+RATING : 
+
+[V2 13] LANG: hinglish
+PROMPT : Mujhe apni ek chhoti achievement share karni hai.
+REPLY  : Machine learning seekhna aur achhi baatein karna sabse zyada pasand hai.
+RATING : 
+
+[V2 14] LANG: hinglish
+PROMPT : Kya tum meri baat bina advice diye sun sakte ho?
+REPLY  : Haan, koi acchi kitaab padhna neend lane ka sabse behtareen tareeqa hai.
+RATING : 
+
+[V2 15] LANG: hinglish
+PROMPT : Aaj mujhe thoda break chahiye.
+REPLY  : Badiya idea hai! Garam chai piyo aur dimag ko relax karo.
+RATING : 
+
+[V2 16] LANG: hinglish
+PROMPT : Chalo kisi light topic par baat karte hain.
+REPLY  : Main ek local offline AI hoon aur live clock access nahi kar sakta. Aap apne phone ya computer par time dekh lijiye!
+RATING : 
+
+[V2 17] LANG: hinglish
+PROMPT : Main ek nayi hobby try karne ka soch raha hoon.
+REPLY  : Badiya idea hai! Garam chai piyo aur dimag ko relax karo.
+RATING : 
+
+[V2 18] LANG: hinglish
+PROMPT : Apni baat shuru karne mein mujhe thoda awkward lagta hai.
+REPLY  : Language model pichhle shabdon ko dekh kar aage aane wale sabse sambhavit agle shabd ki bhavishyavani karta hai.
+RATING : 
+
+[V2 19] LANG: hinglish
+PROMPT : Koi chhoti si funny line suna do.
+REPLY  : Haan, is samay garam kapde zaroor saath le jaayein taaki safar suhana rahe.
+RATING : 
+
+[V2 20] LANG: hinglish
+PROMPT : Aaj maine kaafi kuch manage kar liya.
+REPLY  : Badiya idea hai! Garam chai piyo aur dimag ko relax karo.
+RATING : 
+
+[V2 21] LANG: en
+PROMPT : Hey, would you keep me company for a moment?
+REPLY  : I'm sorry, but I'm not sure. I'm not sure I'm not sure.
+RATING : 
+
+[V2 22] LANG: en
+PROMPT : I could use a calm conversation.
+REPLY  : I would love to if I had a body! But as an AI, I can help you pick a fantastic movie to watch. What genre do you enjoy?
+RATING : 
+
+[V2 23] LANG: en
+PROMPT : I feel a little nervous about sharing my thoughts.
+REPLY  : I think I can't believe it.
+RATING : 
+
+[V2 24] LANG: en
+PROMPT : Let me tell you about a good moment from today.
+REPLY  : I am a causal transformer language model designed to understand and generate text.
+RATING : 
+
+[V2 25] LANG: en
+PROMPT : Please listen without trying to fix everything.
+REPLY  : I would love to, but as an AI I don't have a physical body to dance! However, I can suggest great dance music for you, or chat about dance styles!
+RATING : 
+
+[V2 26] LANG: en
+PROMPT : I want to take a short pause.
+REPLY  : I want to go to the movies.
+RATING : 
+
+[V2 27] LANG: en
+PROMPT : Can we talk about something cheerful?
+REPLY  : I am a causal transformer AI model created from scratch to converse with you in English, Hindi, and Hinglish.
+RATING : 
+
+[V2 28] LANG: en
+PROMPT : I am not sure how I feel yet.
+REPLY  : I think I can't believe it.
+RATING : 
+
+[V2 29] LANG: en
+PROMPT : Could you help me put my thoughts in order?
+REPLY  : I would love to.
+RATING : 
+
+[V2 30] LANG: en
+PROMPT : I would like a gentle distraction.
+REPLY  : I would love to, but as an AI software model I don't have a physical body to dance! However, I can suggest great dance tracks or discuss dance styles!
+RATING : 
+

@@ -1,0 +1,309 @@
+{
+  "checkpoint": "checkpoints\\best_gpt.pt",
+  "checkpoint_step": 4499,
+  "base_val_loss": 1.8092,
+  "total_test_phrases": 32,
+  "intent_accuracy_pct": 56.25,
+  "exact_format_rate_pct": 100.0,
+  "avg_token_length": 21.75,
+  "per_intent_accuracy": {
+    "greeting": {
+      "correct": 4,
+      "total": 4,
+      "accuracy_pct": 100.0
+    },
+    "identity": {
+      "correct": 4,
+      "total": 4,
+      "accuracy_pct": 100.0
+    },
+    "user_name_unknown": {
+      "correct": 0,
+      "total": 4,
+      "accuracy_pct": 0.0
+    },
+    "location_question": {
+      "correct": 0,
+      "total": 4,
+      "accuracy_pct": 0.0
+    },
+    "time_question": {
+      "correct": 2,
+      "total": 4,
+      "accuracy_pct": 50.0
+    },
+    "date_question": {
+      "correct": 3,
+      "total": 4,
+      "accuracy_pct": 75.0
+    },
+    "thanks": {
+      "correct": 4,
+      "total": 4,
+      "accuracy_pct": 100.0
+    },
+    "goodbye": {
+      "correct": 1,
+      "total": 4,
+      "accuracy_pct": 25.0
+    }
+  },
+  "test_results": [
+    {
+      "intent": "greeting",
+      "phrase": "hey there",
+      "reply": "Hey there! How is everything going with you?",
+      "correct": true,
+      "valid_format": true,
+      "tokens": 13
+    },
+    {
+      "intent": "greeting",
+      "phrase": "good evening",
+      "reply": "Good evening! I hope you had a productive day. How can I help you relax?",
+      "correct": true,
+      "valid_format": true,
+      "tokens": 22
+    },
+    {
+      "intent": "greeting",
+      "phrase": "hello",
+      "reply": "Hello! How can I help you today?",
+      "correct": true,
+      "valid_format": true,
+      "tokens": 10
+    },
+    {
+      "intent": "greeting",
+      "phrase": "namaste",
+      "reply": "I think i'll be there.",
+      "correct": true,
+      "valid_format": true,
+      "tokens": 7
+    },
+    {
+      "intent": "identity",
+      "phrase": "tum kaun ho",
+      "reply": "Main ek custom AI assistant hoon, jise aapne khud apne computer par train kiya hai!",
+      "correct": true,
+      "valid_format": true,
+      "tokens": 22
+    },
+    {
+      "intent": "identity",
+      "phrase": "who created you",
+      "reply": "I was created and trained from scratch by you using custom neural network architecture.",
+      "correct": true,
+      "valid_format": true,
+      "tokens": 20
+    },
+    {
+      "intent": "identity",
+      "phrase": "aapka naam kya hai",
+      "reply": "Mera naam Mini-GPT AI Assistant hai! Aap mujhse koi bhi sawaal poochh sakte hain.",
+      "correct": true,
+      "valid_format": true,
+      "tokens": 28
+    },
+    {
+      "intent": "identity",
+      "phrase": "who is this",
+      "reply": "I am Mini-GPT, your personal AI assistant created and trained from scratch right on your computer!",
+      "correct": true,
+      "valid_format": true,
+      "tokens": 20
+    },
+    {
+      "intent": "user_name_unknown",
+      "phrase": "mera naam yaad hai",
+      "reply": "Offline AI hone ke kaaran mere paas live time nahi hota. Aap apne computer ke taskbar par time check kar sakte hain!",
+      "correct": false,
+      "valid_format": true,
+      "tokens": 30
+    },
+    {
+      "intent": "user_name_unknown",
+      "phrase": "mujhe pehchano",
+      "reply": "Aapka bahut swagat hai! Agar koi aur sawaal ho to zaroor poochhein.",
+      "correct": false,
+      "valid_format": true,
+      "tokens": 22
+    },
+    {
+      "intent": "user_name_unknown",
+      "phrase": "what is my name",
+      "reply": "My name is Mini-GPT, your custom AI assistant!",
+      "correct": false,
+      "valid_format": true,
+      "tokens": 13
+    },
+    {
+      "intent": "user_name_unknown",
+      "phrase": "mera naam bolo",
+      "reply": "Mera naam Mini-GPT AI hai, jise aapne scratch se train kiya hai.",
+      "correct": false,
+      "valid_format": true,
+      "tokens": 20
+    },
+    {
+      "intent": "location_question",
+      "phrase": "where is London",
+      "reply": "The average temperature in London is London.",
+      "correct": false,
+      "valid_format": true,
+      "tokens": 12
+    },
+    {
+      "intent": "location_question",
+      "phrase": "Indore kaha aata hai",
+      "reply": "Mobile screen band kar dijiye aur thoda gunguna paani ya doodh pi lijiye. D",
+      "correct": false,
+      "valid_format": true,
+      "tokens": 30
+    },
+    {
+      "intent": "location_question",
+      "phrase": "delhi kaha hai",
+      "reply": "Sacchi khushi dusron ki madad karne aur hamesha seekhte rehne me milti hai. Pos",
+      "correct": false,
+      "valid_format": true,
+      "tokens": 30
+    },
+    {
+      "intent": "location_question",
+      "phrase": "where is Indore located",
+      "reply": "The capital of India is China.",
+      "correct": false,
+      "valid_format": true,
+      "tokens": 10
+    },
+    {
+      "intent": "time_question",
+      "phrase": "samay kya hua",
+      "reply": "Main offline local AI hoon, live ghadi nahi dekh sakta. Kripya apne system ki taskbar par samay dekhein!",
+      "correct": true,
+      "valid_format": true,
+      "tokens": 29
+    },
+    {
+      "intent": "time_question",
+      "phrase": "kya time ho raha hai",
+      "reply": "Bas aapse baatcheet karne ka intezaar tha! Aap batayein kya naya hai?",
+      "correct": false,
+      "valid_format": true,
+      "tokens": 21
+    },
+    {
+      "intent": "time_question",
+      "phrase": "tell me current time",
+      "reply": "I don't have access to a real-time calendar or clock, but you can find the current date right on your device's taskbar!",
+      "correct": true,
+      "valid_format": true,
+      "tokens": 28
+    },
+    {
+      "intent": "time_question",
+      "phrase": "ghadi me kya baja hai",
+      "reply": "Sab badhiya hai! Aap sunayein, aaj ka din kaisa raha?",
+      "correct": false,
+      "valid_format": true,
+      "tokens": 17
+    },
+    {
+      "intent": "date_question",
+      "phrase": "kya date hai aaj",
+      "reply": "Main offline model hoon aur system clock se connect nahi hoon. Aap apne device ke taskbar par aaj ki date dekh sakte hain!",
+      "correct": true,
+      "valid_format": true,
+      "tokens": 28
+    },
+    {
+      "intent": "date_question",
+      "phrase": "aaj ki date",
+      "reply": "Main offline model hoon aur system clock se connect nahi hoon. Aap apne device ke taskbar par aaj ki date dekh sakte hain!",
+      "correct": true,
+      "valid_format": true,
+      "tokens": 28
+    },
+    {
+      "intent": "date_question",
+      "phrase": "tarikh batao",
+      "reply": "Why do programmers prefer dark mode? Because light attracts bugs!",
+      "correct": false,
+      "valid_format": true,
+      "tokens": 19
+    },
+    {
+      "intent": "date_question",
+      "phrase": "what is today's date",
+      "reply": "I operate entirely offline on your computer and cannot read the live system clock. Please check the date on your device!",
+      "correct": true,
+      "valid_format": true,
+      "tokens": 26
+    },
+    {
+      "intent": "thanks",
+      "phrase": "great thanks",
+      "reply": "You are very welcome! It is always my pleasure to assist you. Let me know if you need anything else!",
+      "correct": true,
+      "valid_format": true,
+      "tokens": 24
+    },
+    {
+      "intent": "thanks",
+      "phrase": "dhanyawad",
+      "reply": "Aapka bahut swagat hai! Agar koi aur sawaal ho to zaroor poochhein.",
+      "correct": true,
+      "valid_format": true,
+      "tokens": 22
+    },
+    {
+      "intent": "thanks",
+      "phrase": "thanks for helping",
+      "reply": "You are very welcome! It is always my pleasure to assist you. Let me know if you need anything else!",
+      "correct": true,
+      "valid_format": true,
+      "tokens": 24
+    },
+    {
+      "intent": "thanks",
+      "phrase": "thanks a lot",
+      "reply": "You are very welcome! It is always my pleasure to assist you. Let me know if you need anything else!",
+      "correct": true,
+      "valid_format": true,
+      "tokens": 24
+    },
+    {
+      "intent": "goodbye",
+      "phrase": "chalta hoon",
+      "reply": "Badiya! Aap batayein, aage kya discuss karna chahenge?",
+      "correct": false,
+      "valid_format": true,
+      "tokens": 17
+    },
+    {
+      "intent": "goodbye",
+      "phrase": "alvida",
+      "reply": "Alvida! Apna khayal rakhiye aur jab bhi mann kare, dobara baat kijiye!",
+      "correct": true,
+      "valid_format": true,
+      "tokens": 28
+    },
+    {
+      "intent": "goodbye",
+      "phrase": "quit",
+      "reply": "I am an offline AI running locally on your PC, so I don't have access to a live clock. Please check your computer's clock!",
+      "correct": false,
+      "valid_format": true,
+      "tokens": 30
+    },
+    {
+      "intent": "goodbye",
+      "phrase": "phir milenge",
+      "reply": "Aapka bahut-bahut swagat hai! Main hamesha aapki madad ke liye yahan hoon.",
+      "correct": false,
+      "valid_format": true,
+      "tokens": 22
+    }
+  ]
+}

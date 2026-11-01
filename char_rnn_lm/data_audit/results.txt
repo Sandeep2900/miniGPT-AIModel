@@ -1,0 +1,206 @@
+=== INVENTORY: relative path | bytes | line count (text files only) ===
+archive\assistant_chat.txt | 219538 | 2560
+archive\dailydialog.txt | 5988480 | 87165
+archive\shakespeare.txt | 1115394 | 32777
+bpe_tokenizer.json | 124576 | 9276
+cache\alpaca_data.json | 22773992 | 260012
+data.txt | 5173554 | 70263
+intents_test.jsonl | 8035 | 32
+intents_train.jsonl | 28319 | 112
+intents.jsonl | 36210 | 144
+raw\action_alignment.txt | 314238 | 4160
+raw\clean_assistant_corpus.txt | 1461923 | 18090
+raw\clean_dailydialog.txt | 761613 | 14127
+raw\hindi_chat.txt | 327372 | 3580
+raw\hindi_wiki.txt | 1728017 | 2116
+raw\my_data.txt | 15530 | 92
+raw\real_chat_corpus.txt | 2753364 | 42120
+raw\user_multilingual.txt | 22487 | 126
+tool_train.txt | 77153 | 1311
+tool_val.txt | 14225 | 234
+train_bpe.pt | 11591351 | N/A (binary/non-text)
+train.txt | 4633632 | 63171
+val_bpe.pt | 1346473 | N/A (binary/non-text)
+val_multilingual.txt | 507555 | 6469
+val_old.txt | 9028 | 170
+val.txt | 539918 | 7092
+vocab.json | 7357 | 510
+=== PRIVACY SCAN: counts and first 3 masked samples per pattern ===
+archive\assistant_chat.txt | phone=0 | samples=
+archive\assistant_chat.txt | email=0 | samples=
+archive\assistant_chat.txt | url=0 | samples=
+archive\assistant_chat.txt | secret_keyword=0 | samples=
+archive\dailydialog.txt | phone=58 | samples=15XXXXXXX66; 0-XXXXXXXXXXXXXXXXXXXXXX 8; 23XXXXXXXX28
+archive\dailydialog.txt | email=7 | samples=txXXXXXXXXXXom; txXXXXXXXXXXom; blXXXXXXXXXXXXXXXXom
+archive\dailydialog.txt | url=5 | samples=wwXXXXXXXXXXXXXXXXXXXXXXtw; wwXXXXXXXXXXXm,; wwXXXXXXXXXXXXXm.
+archive\dailydialog.txt | secret_keyword=46 | samples=***; ***; ***
+archive\shakespeare.txt | phone=0 | samples=
+archive\shakespeare.txt | email=0 | samples=
+archive\shakespeare.txt | url=0 | samples=
+archive\shakespeare.txt | secret_keyword=6 | samples=***; ***; ***
+bpe_tokenizer.json | phone=0 | samples=
+bpe_tokenizer.json | email=0 | samples=
+bpe_tokenizer.json | url=0 | samples=
+bpe_tokenizer.json | secret_keyword=0 | samples=
+cache\alpaca_data.json | phone=299 | samples=53XXXXXXXXXXXXXXX46; 19XXXXXXX17; 12XXXXXXXXX90
+cache\alpaca_data.json | email=98 | samples=joXXXXXXXXXXXXXXXXXXom; u2XXXXXXXXXXXXom; njXXXXXXXXXXXom
+cache\alpaca_data.json | url=536 | samples=htXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXml; htXXXXXXXXXXXXXXXXXXXXXXXXXXXXg); htXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXe-
+cache\alpaca_data.json | secret_keyword=347 | samples=paXXXXrd; paXXXXrd; paXXXXrd
+data.txt | phone=94 | samples=19XXXXXX07; 06XXXXXX47; 12XXXXXX48
+data.txt | email=19 | samples=blXXXXXXXXXXXXXXXXom; blXXXXXXXXXXXXXXXXom; naXXXXXXXXXXXXom
+data.txt | url=91 | samples=htXXXXXXXXXXXXXXXXXXXXXXXXXXXXnt; htXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXp3; htXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX81
+data.txt | secret_keyword=41 | samples=***; ***; ***
+intents_test.jsonl | phone=0 | samples=
+intents_test.jsonl | email=0 | samples=
+intents_test.jsonl | url=0 | samples=
+intents_test.jsonl | secret_keyword=0 | samples=
+intents_train.jsonl | phone=0 | samples=
+intents_train.jsonl | email=0 | samples=
+intents_train.jsonl | url=0 | samples=
+intents_train.jsonl | secret_keyword=0 | samples=
+intents.jsonl | phone=0 | samples=
+intents.jsonl | email=0 | samples=
+intents.jsonl | url=0 | samples=
+intents.jsonl | secret_keyword=0 | samples=
+raw\action_alignment.txt | phone=0 | samples=
+raw\action_alignment.txt | email=0 | samples=
+raw\action_alignment.txt | url=0 | samples=
+raw\action_alignment.txt | secret_keyword=0 | samples=
+raw\clean_assistant_corpus.txt | phone=0 | samples=
+raw\clean_assistant_corpus.txt | email=0 | samples=
+raw\clean_assistant_corpus.txt | url=0 | samples=
+raw\clean_assistant_corpus.txt | secret_keyword=0 | samples=
+raw\clean_dailydialog.txt | phone=0 | samples=
+raw\clean_dailydialog.txt | email=1 | samples=blXXXXXXXXXXXXXXXXom
+raw\clean_dailydialog.txt | url=0 | samples=
+raw\clean_dailydialog.txt | secret_keyword=4 | samples=***; ***; ***
+raw\hindi_chat.txt | phone=0 | samples=
+raw\hindi_chat.txt | email=0 | samples=
+raw\hindi_chat.txt | url=0 | samples=
+raw\hindi_chat.txt | secret_keyword=0 | samples=
+raw\hindi_wiki.txt | phone=37 | samples=19XXXXXX07; 06XXXXXX47; 12XXXXXX48
+raw\hindi_wiki.txt | email=0 | samples=
+raw\hindi_wiki.txt | url=3 | samples=wwXXXXXXXXXXt); wwXXXXXXXXXXXX).; htXXXXXXXXXXXXXn/
+raw\hindi_wiki.txt | secret_keyword=0 | samples=
+raw\my_data.txt | phone=0 | samples=
+raw\my_data.txt | email=0 | samples=
+raw\my_data.txt | url=0 | samples=
+raw\my_data.txt | secret_keyword=0 | samples=
+raw\real_chat_corpus.txt | phone=78 | samples=73XXXXXXXX63; 12XXXXXXXX.5; 19XXXXXXXXX.0
+raw\real_chat_corpus.txt | email=18 | samples=blXXXXXXXXXXXXXXXXom; naXXXXXXXXXXXXom; jrXXXXXXXXXXXXXom
+raw\real_chat_corpus.txt | url=94 | samples=htXXXXXXXXXXXXXXXXXXXXXXXXXXXXnt; htXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXp3; htXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX81
+raw\real_chat_corpus.txt | secret_keyword=37 | samples=paXXXXrd; paXXXXrd; PaXXXXrd
+raw\user_multilingual.txt | phone=0 | samples=
+raw\user_multilingual.txt | email=0 | samples=
+raw\user_multilingual.txt | url=0 | samples=
+raw\user_multilingual.txt | secret_keyword=0 | samples=
+tool_train.txt | phone=437 | samples=20XXXXXXXXX20; 20XXXXXXXXX20; 20XXXXXXXXX20
+tool_train.txt | email=0 | samples=
+tool_train.txt | url=1 | samples=htXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX/.
+tool_train.txt | secret_keyword=2 | samples=***; ***
+tool_val.txt | phone=78 | samples=20XXXXXXXXX20; 20XXXXXXXXX20; 20XXXXXXXXX20
+tool_val.txt | email=0 | samples=
+tool_val.txt | url=1 | samples=htXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXav
+tool_val.txt | secret_keyword=0 | samples=
+train.txt | phone=88 | samples=19XXXXXX07; 06XXXXXX47; 12XXXXXX48
+train.txt | email=19 | samples=blXXXXXXXXXXXXXXXXom; blXXXXXXXXXXXXXXXXom; naXXXXXXXXXXXXom
+train.txt | url=79 | samples=htXXXXXXXXXXXXXXXXXXXXXXXXXXXXnt; htXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXp3; htXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX81
+train.txt | secret_keyword=39 | samples=***; ***; ***
+val_multilingual.txt | phone=6 | samples=1.XXXXXXXXXXXXXX00; 95XXXXXX10; 12XXXXXXXXXX 2
+val_multilingual.txt | email=0 | samples=
+val_multilingual.txt | url=12 | samples=wwXXXXXXXXXXXXXXXXXXXrg; wwXXXXXXXXXXXXXXXXXXXrg; htXXXXXXXXXXXXXXXXXXXXXXXXge
+val_multilingual.txt | secret_keyword=2 | samples=paXXXXrd; paXXXXrd
+val_old.txt | phone=0 | samples=
+val_old.txt | email=0 | samples=
+val_old.txt | url=0 | samples=
+val_old.txt | secret_keyword=0 | samples=
+val.txt | phone=6 | samples=1.XXXXXXXXXXXXXX00; 95XXXXXX10; 12XXXXXXXXXX 2
+val.txt | email=0 | samples=
+val.txt | url=12 | samples=wwXXXXXXXXXXXXXXXXXXXrg; wwXXXXXXXXXXXXXXXXXXXrg; htXXXXXXXXXXXXXXXXXXXXXXXXge
+val.txt | secret_keyword=2 | samples=paXXXXrd; paXXXXrd
+vocab.json | phone=0 | samples=
+vocab.json | email=0 | samples=
+vocab.json | url=0 | samples=
+vocab.json | secret_keyword=0 | samples=
+=== INTENTS JSONL VALIDATION ===
+intents_test.jsonl | records=32 invalid_json=0 missing_required_fields=0 empty_replies=0
+intents_train.jsonl | records=112 invalid_json=0 missing_required_fields=0 empty_replies=0
+intents.jsonl | records=144 invalid_json=0 missing_required_fields=0 empty_replies=0
+=== TOOL FILE FORMAT; first five nonblank unrecognized lines ===
+tool_train.txt | User=437 Assistant=437 CurrentTime=437 nonblank_other=0
+tool_val.txt | User=78 Assistant=78 CurrentTime=78 nonblank_other=0
+=== TRAIN PAIRING AND UNCLASSIFIED LINES ===
+User=28566 Assistant=28271 adjacent_User_then_Assistant=27940 nonblank_neither=6292
+=== CHARACTER MIX; non-whitespace Unicode code points ===
+archive\assistant_chat.txt | Devanagari=17.48% Latin=77.22% other=5.3% chars=138520
+archive\dailydialog.txt | Devanagari=0% Latin=92.8% other=7.2% chars=4770472
+archive\shakespeare.txt | Devanagari=0% Latin=93.99% other=6.01% chars=905502
+bpe_tokenizer.json | Devanagari=0% Latin=26.96% other=73.04% chars=46601
+cache\alpaca_data.json | Devanagari=0% Latin=89.52% other=10.48% chars=17786930
+data.txt | Devanagari=7.13% Latin=86.47% other=6.41% chars=3729983
+intents_test.jsonl | Devanagari=0% Latin=82.95% other=17.05% chars=6878
+intents_train.jsonl | Devanagari=0% Latin=83.07% other=16.93% chars=24229
+intents.jsonl | Devanagari=0% Latin=83.04% other=16.96% chars=31107
+raw\action_alignment.txt | Devanagari=1.61% Latin=93.22% other=5.18% chars=244080
+raw\clean_assistant_corpus.txt | Devanagari=13.09% Latin=81.98% other=4.93% chars=966855
+raw\clean_dailydialog.txt | Devanagari=0% Latin=92.02% other=7.98% chars=602541
+raw\hindi_chat.txt | Devanagari=28.41% Latin=66.54% other=5.05% chars=180326
+raw\hindi_wiki.txt | Devanagari=95.21% Latin=0.94% other=3.85% chars=550206
+raw\my_data.txt | Devanagari=29.29% Latin=67.11% other=3.6% chars=8505
+raw\real_chat_corpus.txt | Devanagari=0.6% Latin=92.24% other=7.16% chars=2199663
+raw\user_multilingual.txt | Devanagari=28.74% Latin=67.7% other=3.56% chars=12377
+tool_train.txt | Devanagari=3.64% Latin=78.31% other=18.06% chars=59598
+tool_val.txt | Devanagari=4.76% Latin=77.47% other=17.77% chars=10790
+train.txt | Devanagari=6.92% Latin=86.67% other=6.42% chars=3351061
+val_multilingual.txt | Devanagari=9.64% Latin=84.17% other=6.19% chars=353515
+val_old.txt | Devanagari=8.78% Latin=87.09% other=4.13% chars=6275
+val.txt | Devanagari=9% Latin=84.67% other=6.33% chars=378922
+vocab.json | Devanagari=6.25% Latin=5.16% other=88.59% chars=3506
+=== TOP EXACT NONBLANK DUPLICATE LINES; PII MASKED ===
+FILE train.txt
+187 | User: hi
+165 | User: नमस्ते!
+147 | User: kaise ho
+130 | User: hi!
+124 | Assistant: Why do programmers prefer dark mode? Because light attracts bugs!
+122 | User: hello
+121 | User: Can you sing?
+119 | User: dance for me
+115 | User: can you dance for me
+114 | Assistant: You are very welcome! It is always my pleasure to assist you. Let me know if you need anything else!
+110 | Assistant: नमस्ते! आप कैसे हैं? आज मैं आपकी क्या सहायता कर सकता हूँ?
+110 | User: who are you
+110 | User: Can you dance?
+103 | User: what is the day today
+95 | User: good morning
+93 | User: आपका नाम क्या है?
+92 | Assistant: Main bilkul theek hoon! Aap batayein, aapka din kaisa chal raha hai?
+87 | User: what can you do
+85 | User: Hey
+84 | User: can you fly
+FILE tool_train.txt
+437 | Current time: 20XXXXXXXXX20:45.
+4 | Assistant: Hey! Good to see you. How can I help you?
+4 | User: Hey
+4 | Assistant: Offline AI hone ki wajah se mere paas live clock nahi hai. Aap apne computer ya mobile par aaj ki tareekh check kar sakte hain!
+4 | User: नमस्ते!
+4 | User: aaj ki tareekh kya hai
+3 | User: kuch acchi baat batao
+3 | Assistant: [TOOL: search("latest iPhone price in India")]
+3 | Assistant: [TOOL: search("latest PyTorch release version")]
+3 | User: can you see me
+3 | User: what's the time
+3 | Assistant: नमस्ते! आप कैसे हैं? आज मैं आपकी क्या सहायता कर सकता हूँ?
+3 | Assistant: [TOOL: search("NBA scores yesterday")]
+3 | Assistant: शुभ संध्या! दिन भर की व्यस्तता के बाद अब थोड़ा विश्राम करें और अपने परिवार के साथ समय बिताएं।
+3 | Assistant: [TOOL: search("New York weather forecast")]
+3 | Assistant: [TOOL: search("Nifty 50 stock status today")]
+3 | Assistant: [TOOL: search("share market crash reason today")]
+3 | Assistant: [TOOL: search("silver price today in India")]
+3 | Assistant: [TOOL: search("Tesla TSLA stock price today")]
+3 | Assistant: As a local AI running offline, I cannot read the live clock. Please check your computer's taskbar for the current time!
+=== COPYRIGHT-RISK STRUCTURE CANDIDATES (heuristic only; no text excerpts) ===
+candidate_blocks=7032
+archive\dailydialog.txt | block=1 lines=7 short_lines=7 repeated_exact_lines=0
+archive\dailydialog.txt | block=2 lines=8 short_lines=6 repeated_exact_lines=0
+archive\dailydialog.txt | block=3 lines=15 short_lines=12 repeated_exact_lines=1
