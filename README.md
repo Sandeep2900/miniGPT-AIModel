@@ -1,4 +1,4 @@
-# MiniGPT & Qwen Multilingual AI Assistant
+# MiniGPT AI Assistant
 
 An intelligent, 100% local, privacy-first conversational AI assistant featuring a **dual-engine neural architecture**, **real-time tool augmentation (Live Clock & DuckDuckGo Web Search)**, **multi-turn conversational memory**, and a **ChatGPT/Claude-grade modern Web UI**.
 
