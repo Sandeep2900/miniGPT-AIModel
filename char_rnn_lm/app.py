@@ -104,6 +104,7 @@ def get_logs():
 
 
 if __name__ == "__main__":
+    host = os.environ.get("HOST", "0.0.0.0")
     port = int(os.environ.get("PORT", 5000))
-    print(f"🚀 Starting MiniGPT Online Assistant Web App on http://127.0.0.1:{port}")
-    app.run(host="127.0.0.1", port=port, debug=False)
+    print(f"🚀 Starting MiniGPT Online Assistant Web App on http://{host}:{port}")
+    app.run(host=host, port=port, debug=False)
